@@ -1,0 +1,14 @@
+{
+  "resource": "/products",
+  "path": "/products",
+  "httpMethod": "GET",
+  "headers": {
+    "Accept": "application/json",
+    "User-Agent": "PostmanRuntime/7.29.0"
+  },
+  "queryStringParameters": {
+    "category": "electronics"
+  },
+  "body": null,
+  "isBase64Encoded": false
+}

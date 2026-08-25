@@ -1,0 +1,3 @@
+Hello from AWS S3 & AWS Lambda Operations Repository!
+This is a sample text file used to demonstrate file upload, download, copy, metadata, presigned URLs, and Lambda processing.
+Timestamp / ID: 2026-AWS-OPERATIONS-TEST-FILE

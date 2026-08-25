@@ -1,0 +1,24 @@
+{
+  "Records": [
+    {
+      "eventVersion": "2.1",
+      "eventSource": "aws:s3",
+      "awsRegion": "us-east-1",
+      "eventTime": "2026-08-25T16:40:00.000Z",
+      "eventName": "ObjectCreated:Put",
+      "s3": {
+        "s3SchemaVersion": "1.0",
+        "configurationId": "testConfigRule",
+        "bucket": {
+          "name": "my-user-uploads-bucket",
+          "arn": "arn:aws:s3:::my-user-uploads-bucket"
+        },
+        "object": {
+          "key": "avatars/user_profile_photo.jpg",
+          "size": 1048576,
+          "eTag": "b10a8db164e0754105b7a99be72e3fe5"
+        }
+      }
+    }
+  ]
+}

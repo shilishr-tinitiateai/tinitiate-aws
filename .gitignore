@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Deployment archives & temporary execution outputs
+*.zip
+response.json
+output.json
+downloaded_*.txt
+v2_code.zip
+function.zip
+
+# Environment & Credentials
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+*.swp

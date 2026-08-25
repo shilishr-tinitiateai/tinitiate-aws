@@ -1,0 +1,13 @@
+{
+  "version": "0",
+  "id": "fe85e135-e10b-4027-a068-10b27b87fa13",
+  "detail-type": "Scheduled Event",
+  "source": "aws.events",
+  "account": "123456789012",
+  "time": "2026-08-25T00:00:00Z",
+  "region": "us-east-1",
+  "resources": [
+    "arn:aws:events:us-east-1:123456789012:rule/nightly-system-cleanup-rule"
+  ],
+  "detail": {}
+}

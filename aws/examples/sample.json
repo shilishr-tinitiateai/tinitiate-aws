@@ -1,0 +1,24 @@
+{
+  "repository": "aws-s3-and-lambda-operations",
+  "status": "active",
+  "records": [
+    {
+      "id": 101,
+      "name": "Invoice Alpha",
+      "amount": 250.50,
+      "category": "finance"
+    },
+    {
+      "id": 102,
+      "name": "Report Beta",
+      "amount": 120.00,
+      "category": "analytics"
+    },
+    {
+      "id": 103,
+      "name": "Log Gamma",
+      "amount": 45.90,
+      "category": "system"
+    }
+  ]
+}
