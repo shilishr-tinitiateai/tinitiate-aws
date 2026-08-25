@@ -92,7 +92,18 @@ Every script and command in [`aws-s3/basic_operations/`](file:///c:/code/aws-s3-
 
 ---
 
-## 🔍 5. Command Breakdown & Editing Guide
+## 📂 5. Real-World S3 Examples Index
+
+In addition to basic operations, the [`aws-s3/examples/`](file:///c:/code/aws-s3-and-lmbda-operations/aws-s3/examples/README.md) directory contains 4 complete production scenarios:
+
+1. **[`01_static_website_hosting/`](file:///c:/code/aws-s3-and-lmbda-operations/aws-s3/examples/01_static_website_hosting/README.md)**: Hosting static HTML websites with S3 website endpoints.
+2. **[`02_secure_private_backup/`](file:///c:/code/aws-s3-and-lmbda-operations/aws-s3/examples/02_secure_private_backup/README.md)**: Encrypted database backups with AES256 server-side encryption and retention tags.
+3. **[`03_presigned_url_sharing/`](file:///c:/code/aws-s3-and-lmbda-operations/aws-s3/examples/03_presigned_url_sharing/README.md)**: Generating time-limited Pre-Signed GET and PUT URLs for temporary file access.
+4. **[`04_multipart_large_file_uploader/`](file:///c:/code/aws-s3-and-lmbda-operations/aws-s3/examples/04_multipart_large_file_uploader/README.md)**: Fault-tolerant multipart upload API for large datasets (> 100MB).
+
+---
+
+## 🔍 6. Command Breakdown & Editing Guide
 
 Below is the line-by-line parameter breakdown of every core S3 command. **Placeholders wrapped in `<angle-brackets>` MUST be edited** before executing on your system.
 
