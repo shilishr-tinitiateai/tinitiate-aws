@@ -1,0 +1,2001 @@
+diagnosis_id,icd10_code,icd10_description,category,severity_level
+1,I10,Essential (primary) hypertension,Cardiovascular,Mild
+2,E11.9,Type 2 diabetes mellitus without complications,Endocrine,Moderate
+3,J45.909,"Unspecified asthma, uncomplicated",Respiratory,Moderate
+4,M54.5,"Low back pain, unspecified",Musculoskeletal,Mild
+5,J06.9,"Acute upper respiratory infection, unspecified",Respiratory,Mild
+6,F41.1,Generalized anxiety disorder,Mental Health,Moderate
+7,E78.5,"Hyperlipidemia, unspecified",Endocrine,Mild
+8,K21.9,Gastro-esophageal reflux disease without esophagitis,Gastrointestinal,Mild
+9,N39.0,"Urinary tract infection, site not specified",Urological,Moderate
+10,I25.10,Atherosclerotic heart disease of native coronary artery,Cardiovascular,Severe
+11,C34.90,Malignant neoplasm of unspecified part of bronchus or lung,Oncology,Critical
+12,G40.909,"Epilepsy, unspecified, not intractable",Neurology,Severe
+13,M17.11,"Unspecified primary osteoarthritis, right knee",Musculoskeletal,Moderate
+14,R07.9,"Chest pain, unspecified",Cardiovascular,Severe
+15,J18.9,"Pneumonia, unspecified organism",Respiratory,Severe
+16,E78.5.16,"Hyperlipidemia, unspecified (Variant #16)",Endocrine,Mild
+17,C34.90.17,Malignant neoplasm of unspecified part of bronchus or lung (Variant #17),Oncology,Critical
+18,I10.18,Essential (primary) hypertension (Variant #18),Cardiovascular,Mild
+19,F41.1.19,Generalized anxiety disorder (Variant #19),Mental Health,Moderate
+20,E11.9.20,Type 2 diabetes mellitus without complications (Variant #20),Endocrine,Moderate
+21,N39.0.21,"Urinary tract infection, site not specified (Variant #21)",Urological,Moderate
+22,R07.9.22,"Chest pain, unspecified (Variant #22)",Cardiovascular,Severe
+23,G40.909.23,"Epilepsy, unspecified, not intractable (Variant #23)",Neurology,Severe
+24,E78.5.24,"Hyperlipidemia, unspecified (Variant #24)",Endocrine,Mild
+25,I10.25,Essential (primary) hypertension (Variant #25),Cardiovascular,Mild
+26,I25.10.26,Atherosclerotic heart disease of native coronary artery (Variant #26),Cardiovascular,Severe
+27,E11.9.27,Type 2 diabetes mellitus without complications (Variant #27),Endocrine,Moderate
+28,N39.0.28,"Urinary tract infection, site not specified (Variant #28)",Urological,Moderate
+29,J06.9.29,"Acute upper respiratory infection, unspecified (Variant #29)",Respiratory,Mild
+30,E78.5.30,"Hyperlipidemia, unspecified (Variant #30)",Endocrine,Mild
+31,K21.9.31,Gastro-esophageal reflux disease without esophagitis (Variant #31),Gastrointestinal,Mild
+32,J45.909.32,"Unspecified asthma, uncomplicated (Variant #32)",Respiratory,Moderate
+33,E78.5.33,"Hyperlipidemia, unspecified (Variant #33)",Endocrine,Mild
+34,K21.9.34,Gastro-esophageal reflux disease without esophagitis (Variant #34),Gastrointestinal,Mild
+35,C34.90.35,Malignant neoplasm of unspecified part of bronchus or lung (Variant #35),Oncology,Critical
+36,J45.909.36,"Unspecified asthma, uncomplicated (Variant #36)",Respiratory,Moderate
+37,G40.909.37,"Epilepsy, unspecified, not intractable (Variant #37)",Neurology,Severe
+38,I25.10.38,Atherosclerotic heart disease of native coronary artery (Variant #38),Cardiovascular,Severe
+39,I10.39,Essential (primary) hypertension (Variant #39),Cardiovascular,Mild
+40,C34.90.40,Malignant neoplasm of unspecified part of bronchus or lung (Variant #40),Oncology,Critical
+41,C34.90.41,Malignant neoplasm of unspecified part of bronchus or lung (Variant #41),Oncology,Critical
+42,I25.10.42,Atherosclerotic heart disease of native coronary artery (Variant #42),Cardiovascular,Severe
+43,E11.9.43,Type 2 diabetes mellitus without complications (Variant #43),Endocrine,Moderate
+44,E11.9.44,Type 2 diabetes mellitus without complications (Variant #44),Endocrine,Moderate
+45,G40.909.45,"Epilepsy, unspecified, not intractable (Variant #45)",Neurology,Severe
+46,E78.5.46,"Hyperlipidemia, unspecified (Variant #46)",Endocrine,Mild
+47,G40.909.47,"Epilepsy, unspecified, not intractable (Variant #47)",Neurology,Severe
+48,R07.9.48,"Chest pain, unspecified (Variant #48)",Cardiovascular,Severe
+49,F41.1.49,Generalized anxiety disorder (Variant #49),Mental Health,Moderate
+50,I25.10.50,Atherosclerotic heart disease of native coronary artery (Variant #50),Cardiovascular,Severe
+51,C34.90.51,Malignant neoplasm of unspecified part of bronchus or lung (Variant #51),Oncology,Critical
+52,K21.9.52,Gastro-esophageal reflux disease without esophagitis (Variant #52),Gastrointestinal,Mild
+53,E78.5.53,"Hyperlipidemia, unspecified (Variant #53)",Endocrine,Mild
+54,I10.54,Essential (primary) hypertension (Variant #54),Cardiovascular,Mild
+55,J45.909.55,"Unspecified asthma, uncomplicated (Variant #55)",Respiratory,Moderate
+56,I10.56,Essential (primary) hypertension (Variant #56),Cardiovascular,Mild
+57,J06.9.57,"Acute upper respiratory infection, unspecified (Variant #57)",Respiratory,Mild
+58,N39.0.58,"Urinary tract infection, site not specified (Variant #58)",Urological,Moderate
+59,E11.9.59,Type 2 diabetes mellitus without complications (Variant #59),Endocrine,Moderate
+60,M54.5.60,"Low back pain, unspecified (Variant #60)",Musculoskeletal,Mild
+61,J45.909.61,"Unspecified asthma, uncomplicated (Variant #61)",Respiratory,Moderate
+62,J45.909.62,"Unspecified asthma, uncomplicated (Variant #62)",Respiratory,Moderate
+63,K21.9.63,Gastro-esophageal reflux disease without esophagitis (Variant #63),Gastrointestinal,Mild
+64,J06.9.64,"Acute upper respiratory infection, unspecified (Variant #64)",Respiratory,Mild
+65,J18.9.65,"Pneumonia, unspecified organism (Variant #65)",Respiratory,Severe
+66,M17.11.66,"Unspecified primary osteoarthritis, right knee (Variant #66)",Musculoskeletal,Moderate
+67,J18.9.67,"Pneumonia, unspecified organism (Variant #67)",Respiratory,Severe
+68,J18.9.68,"Pneumonia, unspecified organism (Variant #68)",Respiratory,Severe
+69,G40.909.69,"Epilepsy, unspecified, not intractable (Variant #69)",Neurology,Severe
+70,M54.5.70,"Low back pain, unspecified (Variant #70)",Musculoskeletal,Mild
+71,E11.9.71,Type 2 diabetes mellitus without complications (Variant #71),Endocrine,Moderate
+72,F41.1.72,Generalized anxiety disorder (Variant #72),Mental Health,Moderate
+73,E78.5.73,"Hyperlipidemia, unspecified (Variant #73)",Endocrine,Mild
+74,M17.11.74,"Unspecified primary osteoarthritis, right knee (Variant #74)",Musculoskeletal,Moderate
+75,J06.9.75,"Acute upper respiratory infection, unspecified (Variant #75)",Respiratory,Mild
+76,R07.9.76,"Chest pain, unspecified (Variant #76)",Cardiovascular,Severe
+77,I10.77,Essential (primary) hypertension (Variant #77),Cardiovascular,Mild
+78,G40.909.78,"Epilepsy, unspecified, not intractable (Variant #78)",Neurology,Severe
+79,J45.909.79,"Unspecified asthma, uncomplicated (Variant #79)",Respiratory,Moderate
+80,M54.5.80,"Low back pain, unspecified (Variant #80)",Musculoskeletal,Mild
+81,E11.9.81,Type 2 diabetes mellitus without complications (Variant #81),Endocrine,Moderate
+82,E11.9.82,Type 2 diabetes mellitus without complications (Variant #82),Endocrine,Moderate
+83,K21.9.83,Gastro-esophageal reflux disease without esophagitis (Variant #83),Gastrointestinal,Mild
+84,E78.5.84,"Hyperlipidemia, unspecified (Variant #84)",Endocrine,Mild
+85,F41.1.85,Generalized anxiety disorder (Variant #85),Mental Health,Moderate
+86,E11.9.86,Type 2 diabetes mellitus without complications (Variant #86),Endocrine,Moderate
+87,I10.87,Essential (primary) hypertension (Variant #87),Cardiovascular,Mild
+88,M54.5.88,"Low back pain, unspecified (Variant #88)",Musculoskeletal,Mild
+89,J45.909.89,"Unspecified asthma, uncomplicated (Variant #89)",Respiratory,Moderate
+90,E11.9.90,Type 2 diabetes mellitus without complications (Variant #90),Endocrine,Moderate
+91,F41.1.91,Generalized anxiety disorder (Variant #91),Mental Health,Moderate
+92,R07.9.92,"Chest pain, unspecified (Variant #92)",Cardiovascular,Severe
+93,M17.11.93,"Unspecified primary osteoarthritis, right knee (Variant #93)",Musculoskeletal,Moderate
+94,J45.909.94,"Unspecified asthma, uncomplicated (Variant #94)",Respiratory,Moderate
+95,R07.9.95,"Chest pain, unspecified (Variant #95)",Cardiovascular,Severe
+96,I25.10.96,Atherosclerotic heart disease of native coronary artery (Variant #96),Cardiovascular,Severe
+97,I10.97,Essential (primary) hypertension (Variant #97),Cardiovascular,Mild
+98,C34.90.98,Malignant neoplasm of unspecified part of bronchus or lung (Variant #98),Oncology,Critical
+99,M17.11.99,"Unspecified primary osteoarthritis, right knee (Variant #99)",Musculoskeletal,Moderate
+100,G40.909.100,"Epilepsy, unspecified, not intractable (Variant #100)",Neurology,Severe
+101,M17.11.101,"Unspecified primary osteoarthritis, right knee (Variant #101)",Musculoskeletal,Moderate
+102,N39.0.102,"Urinary tract infection, site not specified (Variant #102)",Urological,Moderate
+103,I10.103,Essential (primary) hypertension (Variant #103),Cardiovascular,Mild
+104,I25.10.104,Atherosclerotic heart disease of native coronary artery (Variant #104),Cardiovascular,Severe
+105,J45.909.105,"Unspecified asthma, uncomplicated (Variant #105)",Respiratory,Moderate
+106,E11.9.106,Type 2 diabetes mellitus without complications (Variant #106),Endocrine,Moderate
+107,M54.5.107,"Low back pain, unspecified (Variant #107)",Musculoskeletal,Mild
+108,N39.0.108,"Urinary tract infection, site not specified (Variant #108)",Urological,Moderate
+109,K21.9.109,Gastro-esophageal reflux disease without esophagitis (Variant #109),Gastrointestinal,Mild
+110,I25.10.110,Atherosclerotic heart disease of native coronary artery (Variant #110),Cardiovascular,Severe
+111,F41.1.111,Generalized anxiety disorder (Variant #111),Mental Health,Moderate
+112,N39.0.112,"Urinary tract infection, site not specified (Variant #112)",Urological,Moderate
+113,E78.5.113,"Hyperlipidemia, unspecified (Variant #113)",Endocrine,Mild
+114,R07.9.114,"Chest pain, unspecified (Variant #114)",Cardiovascular,Severe
+115,E11.9.115,Type 2 diabetes mellitus without complications (Variant #115),Endocrine,Moderate
+116,N39.0.116,"Urinary tract infection, site not specified (Variant #116)",Urological,Moderate
+117,I10.117,Essential (primary) hypertension (Variant #117),Cardiovascular,Mild
+118,I25.10.118,Atherosclerotic heart disease of native coronary artery (Variant #118),Cardiovascular,Severe
+119,K21.9.119,Gastro-esophageal reflux disease without esophagitis (Variant #119),Gastrointestinal,Mild
+120,M17.11.120,"Unspecified primary osteoarthritis, right knee (Variant #120)",Musculoskeletal,Moderate
+121,J18.9.121,"Pneumonia, unspecified organism (Variant #121)",Respiratory,Severe
+122,J06.9.122,"Acute upper respiratory infection, unspecified (Variant #122)",Respiratory,Mild
+123,N39.0.123,"Urinary tract infection, site not specified (Variant #123)",Urological,Moderate
+124,R07.9.124,"Chest pain, unspecified (Variant #124)",Cardiovascular,Severe
+125,R07.9.125,"Chest pain, unspecified (Variant #125)",Cardiovascular,Severe
+126,M17.11.126,"Unspecified primary osteoarthritis, right knee (Variant #126)",Musculoskeletal,Moderate
+127,J45.909.127,"Unspecified asthma, uncomplicated (Variant #127)",Respiratory,Moderate
+128,I10.128,Essential (primary) hypertension (Variant #128),Cardiovascular,Mild
+129,G40.909.129,"Epilepsy, unspecified, not intractable (Variant #129)",Neurology,Severe
+130,K21.9.130,Gastro-esophageal reflux disease without esophagitis (Variant #130),Gastrointestinal,Mild
+131,G40.909.131,"Epilepsy, unspecified, not intractable (Variant #131)",Neurology,Severe
+132,I25.10.132,Atherosclerotic heart disease of native coronary artery (Variant #132),Cardiovascular,Severe
+133,I25.10.133,Atherosclerotic heart disease of native coronary artery (Variant #133),Cardiovascular,Severe
+134,J18.9.134,"Pneumonia, unspecified organism (Variant #134)",Respiratory,Severe
+135,I25.10.135,Atherosclerotic heart disease of native coronary artery (Variant #135),Cardiovascular,Severe
+136,J18.9.136,"Pneumonia, unspecified organism (Variant #136)",Respiratory,Severe
+137,J45.909.137,"Unspecified asthma, uncomplicated (Variant #137)",Respiratory,Moderate
+138,I10.138,Essential (primary) hypertension (Variant #138),Cardiovascular,Mild
+139,F41.1.139,Generalized anxiety disorder (Variant #139),Mental Health,Moderate
+140,E11.9.140,Type 2 diabetes mellitus without complications (Variant #140),Endocrine,Moderate
+141,J18.9.141,"Pneumonia, unspecified organism (Variant #141)",Respiratory,Severe
+142,J45.909.142,"Unspecified asthma, uncomplicated (Variant #142)",Respiratory,Moderate
+143,N39.0.143,"Urinary tract infection, site not specified (Variant #143)",Urological,Moderate
+144,F41.1.144,Generalized anxiety disorder (Variant #144),Mental Health,Moderate
+145,E78.5.145,"Hyperlipidemia, unspecified (Variant #145)",Endocrine,Mild
+146,I10.146,Essential (primary) hypertension (Variant #146),Cardiovascular,Mild
+147,G40.909.147,"Epilepsy, unspecified, not intractable (Variant #147)",Neurology,Severe
+148,M54.5.148,"Low back pain, unspecified (Variant #148)",Musculoskeletal,Mild
+149,J06.9.149,"Acute upper respiratory infection, unspecified (Variant #149)",Respiratory,Mild
+150,E11.9.150,Type 2 diabetes mellitus without complications (Variant #150),Endocrine,Moderate
+151,I25.10.151,Atherosclerotic heart disease of native coronary artery (Variant #151),Cardiovascular,Severe
+152,K21.9.152,Gastro-esophageal reflux disease without esophagitis (Variant #152),Gastrointestinal,Mild
+153,J06.9.153,"Acute upper respiratory infection, unspecified (Variant #153)",Respiratory,Mild
+154,M17.11.154,"Unspecified primary osteoarthritis, right knee (Variant #154)",Musculoskeletal,Moderate
+155,N39.0.155,"Urinary tract infection, site not specified (Variant #155)",Urological,Moderate
+156,E78.5.156,"Hyperlipidemia, unspecified (Variant #156)",Endocrine,Mild
+157,F41.1.157,Generalized anxiety disorder (Variant #157),Mental Health,Moderate
+158,N39.0.158,"Urinary tract infection, site not specified (Variant #158)",Urological,Moderate
+159,K21.9.159,Gastro-esophageal reflux disease without esophagitis (Variant #159),Gastrointestinal,Mild
+160,K21.9.160,Gastro-esophageal reflux disease without esophagitis (Variant #160),Gastrointestinal,Mild
+161,M54.5.161,"Low back pain, unspecified (Variant #161)",Musculoskeletal,Mild
+162,R07.9.162,"Chest pain, unspecified (Variant #162)",Cardiovascular,Severe
+163,R07.9.163,"Chest pain, unspecified (Variant #163)",Cardiovascular,Severe
+164,J45.909.164,"Unspecified asthma, uncomplicated (Variant #164)",Respiratory,Moderate
+165,F41.1.165,Generalized anxiety disorder (Variant #165),Mental Health,Moderate
+166,N39.0.166,"Urinary tract infection, site not specified (Variant #166)",Urological,Moderate
+167,I25.10.167,Atherosclerotic heart disease of native coronary artery (Variant #167),Cardiovascular,Severe
+168,C34.90.168,Malignant neoplasm of unspecified part of bronchus or lung (Variant #168),Oncology,Critical
+169,E11.9.169,Type 2 diabetes mellitus without complications (Variant #169),Endocrine,Moderate
+170,G40.909.170,"Epilepsy, unspecified, not intractable (Variant #170)",Neurology,Severe
+171,M54.5.171,"Low back pain, unspecified (Variant #171)",Musculoskeletal,Mild
+172,F41.1.172,Generalized anxiety disorder (Variant #172),Mental Health,Moderate
+173,K21.9.173,Gastro-esophageal reflux disease without esophagitis (Variant #173),Gastrointestinal,Mild
+174,R07.9.174,"Chest pain, unspecified (Variant #174)",Cardiovascular,Severe
+175,R07.9.175,"Chest pain, unspecified (Variant #175)",Cardiovascular,Severe
+176,J06.9.176,"Acute upper respiratory infection, unspecified (Variant #176)",Respiratory,Mild
+177,R07.9.177,"Chest pain, unspecified (Variant #177)",Cardiovascular,Severe
+178,K21.9.178,Gastro-esophageal reflux disease without esophagitis (Variant #178),Gastrointestinal,Mild
+179,K21.9.179,Gastro-esophageal reflux disease without esophagitis (Variant #179),Gastrointestinal,Mild
+180,J18.9.180,"Pneumonia, unspecified organism (Variant #180)",Respiratory,Severe
+181,I25.10.181,Atherosclerotic heart disease of native coronary artery (Variant #181),Cardiovascular,Severe
+182,E78.5.182,"Hyperlipidemia, unspecified (Variant #182)",Endocrine,Mild
+183,F41.1.183,Generalized anxiety disorder (Variant #183),Mental Health,Moderate
+184,M54.5.184,"Low back pain, unspecified (Variant #184)",Musculoskeletal,Mild
+185,N39.0.185,"Urinary tract infection, site not specified (Variant #185)",Urological,Moderate
+186,K21.9.186,Gastro-esophageal reflux disease without esophagitis (Variant #186),Gastrointestinal,Mild
+187,J06.9.187,"Acute upper respiratory infection, unspecified (Variant #187)",Respiratory,Mild
+188,F41.1.188,Generalized anxiety disorder (Variant #188),Mental Health,Moderate
+189,F41.1.189,Generalized anxiety disorder (Variant #189),Mental Health,Moderate
+190,E11.9.190,Type 2 diabetes mellitus without complications (Variant #190),Endocrine,Moderate
+191,R07.9.191,"Chest pain, unspecified (Variant #191)",Cardiovascular,Severe
+192,I10.192,Essential (primary) hypertension (Variant #192),Cardiovascular,Mild
+193,I25.10.193,Atherosclerotic heart disease of native coronary artery (Variant #193),Cardiovascular,Severe
+194,G40.909.194,"Epilepsy, unspecified, not intractable (Variant #194)",Neurology,Severe
+195,E78.5.195,"Hyperlipidemia, unspecified (Variant #195)",Endocrine,Mild
+196,I25.10.196,Atherosclerotic heart disease of native coronary artery (Variant #196),Cardiovascular,Severe
+197,E78.5.197,"Hyperlipidemia, unspecified (Variant #197)",Endocrine,Mild
+198,R07.9.198,"Chest pain, unspecified (Variant #198)",Cardiovascular,Severe
+199,G40.909.199,"Epilepsy, unspecified, not intractable (Variant #199)",Neurology,Severe
+200,I25.10.200,Atherosclerotic heart disease of native coronary artery (Variant #200),Cardiovascular,Severe
+201,N39.0.201,"Urinary tract infection, site not specified (Variant #201)",Urological,Moderate
+202,J06.9.202,"Acute upper respiratory infection, unspecified (Variant #202)",Respiratory,Mild
+203,I10.203,Essential (primary) hypertension (Variant #203),Cardiovascular,Mild
+204,M54.5.204,"Low back pain, unspecified (Variant #204)",Musculoskeletal,Mild
+205,K21.9.205,Gastro-esophageal reflux disease without esophagitis (Variant #205),Gastrointestinal,Mild
+206,M54.5.206,"Low back pain, unspecified (Variant #206)",Musculoskeletal,Mild
+207,F41.1.207,Generalized anxiety disorder (Variant #207),Mental Health,Moderate
+208,E78.5.208,"Hyperlipidemia, unspecified (Variant #208)",Endocrine,Mild
+209,K21.9.209,Gastro-esophageal reflux disease without esophagitis (Variant #209),Gastrointestinal,Mild
+210,C34.90.210,Malignant neoplasm of unspecified part of bronchus or lung (Variant #210),Oncology,Critical
+211,M54.5.211,"Low back pain, unspecified (Variant #211)",Musculoskeletal,Mild
+212,F41.1.212,Generalized anxiety disorder (Variant #212),Mental Health,Moderate
+213,M54.5.213,"Low back pain, unspecified (Variant #213)",Musculoskeletal,Mild
+214,R07.9.214,"Chest pain, unspecified (Variant #214)",Cardiovascular,Severe
+215,N39.0.215,"Urinary tract infection, site not specified (Variant #215)",Urological,Moderate
+216,J18.9.216,"Pneumonia, unspecified organism (Variant #216)",Respiratory,Severe
+217,J45.909.217,"Unspecified asthma, uncomplicated (Variant #217)",Respiratory,Moderate
+218,J45.909.218,"Unspecified asthma, uncomplicated (Variant #218)",Respiratory,Moderate
+219,K21.9.219,Gastro-esophageal reflux disease without esophagitis (Variant #219),Gastrointestinal,Mild
+220,M17.11.220,"Unspecified primary osteoarthritis, right knee (Variant #220)",Musculoskeletal,Moderate
+221,E78.5.221,"Hyperlipidemia, unspecified (Variant #221)",Endocrine,Mild
+222,E11.9.222,Type 2 diabetes mellitus without complications (Variant #222),Endocrine,Moderate
+223,K21.9.223,Gastro-esophageal reflux disease without esophagitis (Variant #223),Gastrointestinal,Mild
+224,M54.5.224,"Low back pain, unspecified (Variant #224)",Musculoskeletal,Mild
+225,I25.10.225,Atherosclerotic heart disease of native coronary artery (Variant #225),Cardiovascular,Severe
+226,N39.0.226,"Urinary tract infection, site not specified (Variant #226)",Urological,Moderate
+227,C34.90.227,Malignant neoplasm of unspecified part of bronchus or lung (Variant #227),Oncology,Critical
+228,I10.228,Essential (primary) hypertension (Variant #228),Cardiovascular,Mild
+229,I25.10.229,Atherosclerotic heart disease of native coronary artery (Variant #229),Cardiovascular,Severe
+230,J06.9.230,"Acute upper respiratory infection, unspecified (Variant #230)",Respiratory,Mild
+231,M54.5.231,"Low back pain, unspecified (Variant #231)",Musculoskeletal,Mild
+232,I10.232,Essential (primary) hypertension (Variant #232),Cardiovascular,Mild
+233,M54.5.233,"Low back pain, unspecified (Variant #233)",Musculoskeletal,Mild
+234,I25.10.234,Atherosclerotic heart disease of native coronary artery (Variant #234),Cardiovascular,Severe
+235,J45.909.235,"Unspecified asthma, uncomplicated (Variant #235)",Respiratory,Moderate
+236,K21.9.236,Gastro-esophageal reflux disease without esophagitis (Variant #236),Gastrointestinal,Mild
+237,J18.9.237,"Pneumonia, unspecified organism (Variant #237)",Respiratory,Severe
+238,I10.238,Essential (primary) hypertension (Variant #238),Cardiovascular,Mild
+239,R07.9.239,"Chest pain, unspecified (Variant #239)",Cardiovascular,Severe
+240,K21.9.240,Gastro-esophageal reflux disease without esophagitis (Variant #240),Gastrointestinal,Mild
+241,K21.9.241,Gastro-esophageal reflux disease without esophagitis (Variant #241),Gastrointestinal,Mild
+242,I10.242,Essential (primary) hypertension (Variant #242),Cardiovascular,Mild
+243,E11.9.243,Type 2 diabetes mellitus without complications (Variant #243),Endocrine,Moderate
+244,N39.0.244,"Urinary tract infection, site not specified (Variant #244)",Urological,Moderate
+245,K21.9.245,Gastro-esophageal reflux disease without esophagitis (Variant #245),Gastrointestinal,Mild
+246,E11.9.246,Type 2 diabetes mellitus without complications (Variant #246),Endocrine,Moderate
+247,G40.909.247,"Epilepsy, unspecified, not intractable (Variant #247)",Neurology,Severe
+248,J18.9.248,"Pneumonia, unspecified organism (Variant #248)",Respiratory,Severe
+249,G40.909.249,"Epilepsy, unspecified, not intractable (Variant #249)",Neurology,Severe
+250,C34.90.250,Malignant neoplasm of unspecified part of bronchus or lung (Variant #250),Oncology,Critical
+251,E11.9.251,Type 2 diabetes mellitus without complications (Variant #251),Endocrine,Moderate
+252,I10.252,Essential (primary) hypertension (Variant #252),Cardiovascular,Mild
+253,C34.90.253,Malignant neoplasm of unspecified part of bronchus or lung (Variant #253),Oncology,Critical
+254,E78.5.254,"Hyperlipidemia, unspecified (Variant #254)",Endocrine,Mild
+255,J06.9.255,"Acute upper respiratory infection, unspecified (Variant #255)",Respiratory,Mild
+256,C34.90.256,Malignant neoplasm of unspecified part of bronchus or lung (Variant #256),Oncology,Critical
+257,J45.909.257,"Unspecified asthma, uncomplicated (Variant #257)",Respiratory,Moderate
+258,M54.5.258,"Low back pain, unspecified (Variant #258)",Musculoskeletal,Mild
+259,R07.9.259,"Chest pain, unspecified (Variant #259)",Cardiovascular,Severe
+260,I10.260,Essential (primary) hypertension (Variant #260),Cardiovascular,Mild
+261,E11.9.261,Type 2 diabetes mellitus without complications (Variant #261),Endocrine,Moderate
+262,J45.909.262,"Unspecified asthma, uncomplicated (Variant #262)",Respiratory,Moderate
+263,I10.263,Essential (primary) hypertension (Variant #263),Cardiovascular,Mild
+264,M17.11.264,"Unspecified primary osteoarthritis, right knee (Variant #264)",Musculoskeletal,Moderate
+265,R07.9.265,"Chest pain, unspecified (Variant #265)",Cardiovascular,Severe
+266,E11.9.266,Type 2 diabetes mellitus without complications (Variant #266),Endocrine,Moderate
+267,M54.5.267,"Low back pain, unspecified (Variant #267)",Musculoskeletal,Mild
+268,J18.9.268,"Pneumonia, unspecified organism (Variant #268)",Respiratory,Severe
+269,K21.9.269,Gastro-esophageal reflux disease without esophagitis (Variant #269),Gastrointestinal,Mild
+270,G40.909.270,"Epilepsy, unspecified, not intractable (Variant #270)",Neurology,Severe
+271,C34.90.271,Malignant neoplasm of unspecified part of bronchus or lung (Variant #271),Oncology,Critical
+272,F41.1.272,Generalized anxiety disorder (Variant #272),Mental Health,Moderate
+273,I10.273,Essential (primary) hypertension (Variant #273),Cardiovascular,Mild
+274,N39.0.274,"Urinary tract infection, site not specified (Variant #274)",Urological,Moderate
+275,K21.9.275,Gastro-esophageal reflux disease without esophagitis (Variant #275),Gastrointestinal,Mild
+276,K21.9.276,Gastro-esophageal reflux disease without esophagitis (Variant #276),Gastrointestinal,Mild
+277,I25.10.277,Atherosclerotic heart disease of native coronary artery (Variant #277),Cardiovascular,Severe
+278,I25.10.278,Atherosclerotic heart disease of native coronary artery (Variant #278),Cardiovascular,Severe
+279,C34.90.279,Malignant neoplasm of unspecified part of bronchus or lung (Variant #279),Oncology,Critical
+280,N39.0.280,"Urinary tract infection, site not specified (Variant #280)",Urological,Moderate
+281,C34.90.281,Malignant neoplasm of unspecified part of bronchus or lung (Variant #281),Oncology,Critical
+282,N39.0.282,"Urinary tract infection, site not specified (Variant #282)",Urological,Moderate
+283,C34.90.283,Malignant neoplasm of unspecified part of bronchus or lung (Variant #283),Oncology,Critical
+284,M54.5.284,"Low back pain, unspecified (Variant #284)",Musculoskeletal,Mild
+285,M54.5.285,"Low back pain, unspecified (Variant #285)",Musculoskeletal,Mild
+286,K21.9.286,Gastro-esophageal reflux disease without esophagitis (Variant #286),Gastrointestinal,Mild
+287,K21.9.287,Gastro-esophageal reflux disease without esophagitis (Variant #287),Gastrointestinal,Mild
+288,E78.5.288,"Hyperlipidemia, unspecified (Variant #288)",Endocrine,Mild
+289,M54.5.289,"Low back pain, unspecified (Variant #289)",Musculoskeletal,Mild
+290,C34.90.290,Malignant neoplasm of unspecified part of bronchus or lung (Variant #290),Oncology,Critical
+291,J45.909.291,"Unspecified asthma, uncomplicated (Variant #291)",Respiratory,Moderate
+292,M54.5.292,"Low back pain, unspecified (Variant #292)",Musculoskeletal,Mild
+293,M17.11.293,"Unspecified primary osteoarthritis, right knee (Variant #293)",Musculoskeletal,Moderate
+294,F41.1.294,Generalized anxiety disorder (Variant #294),Mental Health,Moderate
+295,I25.10.295,Atherosclerotic heart disease of native coronary artery (Variant #295),Cardiovascular,Severe
+296,F41.1.296,Generalized anxiety disorder (Variant #296),Mental Health,Moderate
+297,G40.909.297,"Epilepsy, unspecified, not intractable (Variant #297)",Neurology,Severe
+298,M54.5.298,"Low back pain, unspecified (Variant #298)",Musculoskeletal,Mild
+299,J06.9.299,"Acute upper respiratory infection, unspecified (Variant #299)",Respiratory,Mild
+300,J45.909.300,"Unspecified asthma, uncomplicated (Variant #300)",Respiratory,Moderate
+301,J18.9.301,"Pneumonia, unspecified organism (Variant #301)",Respiratory,Severe
+302,I10.302,Essential (primary) hypertension (Variant #302),Cardiovascular,Mild
+303,K21.9.303,Gastro-esophageal reflux disease without esophagitis (Variant #303),Gastrointestinal,Mild
+304,J18.9.304,"Pneumonia, unspecified organism (Variant #304)",Respiratory,Severe
+305,I25.10.305,Atherosclerotic heart disease of native coronary artery (Variant #305),Cardiovascular,Severe
+306,K21.9.306,Gastro-esophageal reflux disease without esophagitis (Variant #306),Gastrointestinal,Mild
+307,C34.90.307,Malignant neoplasm of unspecified part of bronchus or lung (Variant #307),Oncology,Critical
+308,K21.9.308,Gastro-esophageal reflux disease without esophagitis (Variant #308),Gastrointestinal,Mild
+309,M54.5.309,"Low back pain, unspecified (Variant #309)",Musculoskeletal,Mild
+310,I25.10.310,Atherosclerotic heart disease of native coronary artery (Variant #310),Cardiovascular,Severe
+311,E11.9.311,Type 2 diabetes mellitus without complications (Variant #311),Endocrine,Moderate
+312,J45.909.312,"Unspecified asthma, uncomplicated (Variant #312)",Respiratory,Moderate
+313,F41.1.313,Generalized anxiety disorder (Variant #313),Mental Health,Moderate
+314,G40.909.314,"Epilepsy, unspecified, not intractable (Variant #314)",Neurology,Severe
+315,M17.11.315,"Unspecified primary osteoarthritis, right knee (Variant #315)",Musculoskeletal,Moderate
+316,N39.0.316,"Urinary tract infection, site not specified (Variant #316)",Urological,Moderate
+317,K21.9.317,Gastro-esophageal reflux disease without esophagitis (Variant #317),Gastrointestinal,Mild
+318,G40.909.318,"Epilepsy, unspecified, not intractable (Variant #318)",Neurology,Severe
+319,J18.9.319,"Pneumonia, unspecified organism (Variant #319)",Respiratory,Severe
+320,M54.5.320,"Low back pain, unspecified (Variant #320)",Musculoskeletal,Mild
+321,N39.0.321,"Urinary tract infection, site not specified (Variant #321)",Urological,Moderate
+322,E78.5.322,"Hyperlipidemia, unspecified (Variant #322)",Endocrine,Mild
+323,C34.90.323,Malignant neoplasm of unspecified part of bronchus or lung (Variant #323),Oncology,Critical
+324,I25.10.324,Atherosclerotic heart disease of native coronary artery (Variant #324),Cardiovascular,Severe
+325,C34.90.325,Malignant neoplasm of unspecified part of bronchus or lung (Variant #325),Oncology,Critical
+326,E11.9.326,Type 2 diabetes mellitus without complications (Variant #326),Endocrine,Moderate
+327,F41.1.327,Generalized anxiety disorder (Variant #327),Mental Health,Moderate
+328,J06.9.328,"Acute upper respiratory infection, unspecified (Variant #328)",Respiratory,Mild
+329,E78.5.329,"Hyperlipidemia, unspecified (Variant #329)",Endocrine,Mild
+330,F41.1.330,Generalized anxiety disorder (Variant #330),Mental Health,Moderate
+331,N39.0.331,"Urinary tract infection, site not specified (Variant #331)",Urological,Moderate
+332,J45.909.332,"Unspecified asthma, uncomplicated (Variant #332)",Respiratory,Moderate
+333,R07.9.333,"Chest pain, unspecified (Variant #333)",Cardiovascular,Severe
+334,G40.909.334,"Epilepsy, unspecified, not intractable (Variant #334)",Neurology,Severe
+335,M54.5.335,"Low back pain, unspecified (Variant #335)",Musculoskeletal,Mild
+336,K21.9.336,Gastro-esophageal reflux disease without esophagitis (Variant #336),Gastrointestinal,Mild
+337,I10.337,Essential (primary) hypertension (Variant #337),Cardiovascular,Mild
+338,R07.9.338,"Chest pain, unspecified (Variant #338)",Cardiovascular,Severe
+339,F41.1.339,Generalized anxiety disorder (Variant #339),Mental Health,Moderate
+340,M54.5.340,"Low back pain, unspecified (Variant #340)",Musculoskeletal,Mild
+341,J45.909.341,"Unspecified asthma, uncomplicated (Variant #341)",Respiratory,Moderate
+342,J45.909.342,"Unspecified asthma, uncomplicated (Variant #342)",Respiratory,Moderate
+343,E78.5.343,"Hyperlipidemia, unspecified (Variant #343)",Endocrine,Mild
+344,G40.909.344,"Epilepsy, unspecified, not intractable (Variant #344)",Neurology,Severe
+345,J45.909.345,"Unspecified asthma, uncomplicated (Variant #345)",Respiratory,Moderate
+346,M17.11.346,"Unspecified primary osteoarthritis, right knee (Variant #346)",Musculoskeletal,Moderate
+347,M54.5.347,"Low back pain, unspecified (Variant #347)",Musculoskeletal,Mild
+348,J18.9.348,"Pneumonia, unspecified organism (Variant #348)",Respiratory,Severe
+349,R07.9.349,"Chest pain, unspecified (Variant #349)",Cardiovascular,Severe
+350,F41.1.350,Generalized anxiety disorder (Variant #350),Mental Health,Moderate
+351,E11.9.351,Type 2 diabetes mellitus without complications (Variant #351),Endocrine,Moderate
+352,G40.909.352,"Epilepsy, unspecified, not intractable (Variant #352)",Neurology,Severe
+353,J06.9.353,"Acute upper respiratory infection, unspecified (Variant #353)",Respiratory,Mild
+354,J45.909.354,"Unspecified asthma, uncomplicated (Variant #354)",Respiratory,Moderate
+355,R07.9.355,"Chest pain, unspecified (Variant #355)",Cardiovascular,Severe
+356,F41.1.356,Generalized anxiety disorder (Variant #356),Mental Health,Moderate
+357,J45.909.357,"Unspecified asthma, uncomplicated (Variant #357)",Respiratory,Moderate
+358,G40.909.358,"Epilepsy, unspecified, not intractable (Variant #358)",Neurology,Severe
+359,R07.9.359,"Chest pain, unspecified (Variant #359)",Cardiovascular,Severe
+360,K21.9.360,Gastro-esophageal reflux disease without esophagitis (Variant #360),Gastrointestinal,Mild
+361,M54.5.361,"Low back pain, unspecified (Variant #361)",Musculoskeletal,Mild
+362,M17.11.362,"Unspecified primary osteoarthritis, right knee (Variant #362)",Musculoskeletal,Moderate
+363,I25.10.363,Atherosclerotic heart disease of native coronary artery (Variant #363),Cardiovascular,Severe
+364,F41.1.364,Generalized anxiety disorder (Variant #364),Mental Health,Moderate
+365,F41.1.365,Generalized anxiety disorder (Variant #365),Mental Health,Moderate
+366,J18.9.366,"Pneumonia, unspecified organism (Variant #366)",Respiratory,Severe
+367,F41.1.367,Generalized anxiety disorder (Variant #367),Mental Health,Moderate
+368,J45.909.368,"Unspecified asthma, uncomplicated (Variant #368)",Respiratory,Moderate
+369,J06.9.369,"Acute upper respiratory infection, unspecified (Variant #369)",Respiratory,Mild
+370,I25.10.370,Atherosclerotic heart disease of native coronary artery (Variant #370),Cardiovascular,Severe
+371,M17.11.371,"Unspecified primary osteoarthritis, right knee (Variant #371)",Musculoskeletal,Moderate
+372,K21.9.372,Gastro-esophageal reflux disease without esophagitis (Variant #372),Gastrointestinal,Mild
+373,G40.909.373,"Epilepsy, unspecified, not intractable (Variant #373)",Neurology,Severe
+374,M17.11.374,"Unspecified primary osteoarthritis, right knee (Variant #374)",Musculoskeletal,Moderate
+375,I10.375,Essential (primary) hypertension (Variant #375),Cardiovascular,Mild
+376,M17.11.376,"Unspecified primary osteoarthritis, right knee (Variant #376)",Musculoskeletal,Moderate
+377,R07.9.377,"Chest pain, unspecified (Variant #377)",Cardiovascular,Severe
+378,I25.10.378,Atherosclerotic heart disease of native coronary artery (Variant #378),Cardiovascular,Severe
+379,I10.379,Essential (primary) hypertension (Variant #379),Cardiovascular,Mild
+380,G40.909.380,"Epilepsy, unspecified, not intractable (Variant #380)",Neurology,Severe
+381,E78.5.381,"Hyperlipidemia, unspecified (Variant #381)",Endocrine,Mild
+382,N39.0.382,"Urinary tract infection, site not specified (Variant #382)",Urological,Moderate
+383,I10.383,Essential (primary) hypertension (Variant #383),Cardiovascular,Mild
+384,J45.909.384,"Unspecified asthma, uncomplicated (Variant #384)",Respiratory,Moderate
+385,F41.1.385,Generalized anxiety disorder (Variant #385),Mental Health,Moderate
+386,J18.9.386,"Pneumonia, unspecified organism (Variant #386)",Respiratory,Severe
+387,J18.9.387,"Pneumonia, unspecified organism (Variant #387)",Respiratory,Severe
+388,K21.9.388,Gastro-esophageal reflux disease without esophagitis (Variant #388),Gastrointestinal,Mild
+389,K21.9.389,Gastro-esophageal reflux disease without esophagitis (Variant #389),Gastrointestinal,Mild
+390,M17.11.390,"Unspecified primary osteoarthritis, right knee (Variant #390)",Musculoskeletal,Moderate
+391,N39.0.391,"Urinary tract infection, site not specified (Variant #391)",Urological,Moderate
+392,G40.909.392,"Epilepsy, unspecified, not intractable (Variant #392)",Neurology,Severe
+393,M54.5.393,"Low back pain, unspecified (Variant #393)",Musculoskeletal,Mild
+394,F41.1.394,Generalized anxiety disorder (Variant #394),Mental Health,Moderate
+395,J45.909.395,"Unspecified asthma, uncomplicated (Variant #395)",Respiratory,Moderate
+396,K21.9.396,Gastro-esophageal reflux disease without esophagitis (Variant #396),Gastrointestinal,Mild
+397,N39.0.397,"Urinary tract infection, site not specified (Variant #397)",Urological,Moderate
+398,E11.9.398,Type 2 diabetes mellitus without complications (Variant #398),Endocrine,Moderate
+399,J45.909.399,"Unspecified asthma, uncomplicated (Variant #399)",Respiratory,Moderate
+400,K21.9.400,Gastro-esophageal reflux disease without esophagitis (Variant #400),Gastrointestinal,Mild
+401,C34.90.401,Malignant neoplasm of unspecified part of bronchus or lung (Variant #401),Oncology,Critical
+402,J45.909.402,"Unspecified asthma, uncomplicated (Variant #402)",Respiratory,Moderate
+403,E11.9.403,Type 2 diabetes mellitus without complications (Variant #403),Endocrine,Moderate
+404,I25.10.404,Atherosclerotic heart disease of native coronary artery (Variant #404),Cardiovascular,Severe
+405,I25.10.405,Atherosclerotic heart disease of native coronary artery (Variant #405),Cardiovascular,Severe
+406,E78.5.406,"Hyperlipidemia, unspecified (Variant #406)",Endocrine,Mild
+407,E78.5.407,"Hyperlipidemia, unspecified (Variant #407)",Endocrine,Mild
+408,G40.909.408,"Epilepsy, unspecified, not intractable (Variant #408)",Neurology,Severe
+409,G40.909.409,"Epilepsy, unspecified, not intractable (Variant #409)",Neurology,Severe
+410,J06.9.410,"Acute upper respiratory infection, unspecified (Variant #410)",Respiratory,Mild
+411,C34.90.411,Malignant neoplasm of unspecified part of bronchus or lung (Variant #411),Oncology,Critical
+412,R07.9.412,"Chest pain, unspecified (Variant #412)",Cardiovascular,Severe
+413,I10.413,Essential (primary) hypertension (Variant #413),Cardiovascular,Mild
+414,I10.414,Essential (primary) hypertension (Variant #414),Cardiovascular,Mild
+415,J18.9.415,"Pneumonia, unspecified organism (Variant #415)",Respiratory,Severe
+416,I25.10.416,Atherosclerotic heart disease of native coronary artery (Variant #416),Cardiovascular,Severe
+417,I25.10.417,Atherosclerotic heart disease of native coronary artery (Variant #417),Cardiovascular,Severe
+418,N39.0.418,"Urinary tract infection, site not specified (Variant #418)",Urological,Moderate
+419,K21.9.419,Gastro-esophageal reflux disease without esophagitis (Variant #419),Gastrointestinal,Mild
+420,I10.420,Essential (primary) hypertension (Variant #420),Cardiovascular,Mild
+421,F41.1.421,Generalized anxiety disorder (Variant #421),Mental Health,Moderate
+422,M17.11.422,"Unspecified primary osteoarthritis, right knee (Variant #422)",Musculoskeletal,Moderate
+423,I10.423,Essential (primary) hypertension (Variant #423),Cardiovascular,Mild
+424,J18.9.424,"Pneumonia, unspecified organism (Variant #424)",Respiratory,Severe
+425,C34.90.425,Malignant neoplasm of unspecified part of bronchus or lung (Variant #425),Oncology,Critical
+426,I10.426,Essential (primary) hypertension (Variant #426),Cardiovascular,Mild
+427,F41.1.427,Generalized anxiety disorder (Variant #427),Mental Health,Moderate
+428,M54.5.428,"Low back pain, unspecified (Variant #428)",Musculoskeletal,Mild
+429,R07.9.429,"Chest pain, unspecified (Variant #429)",Cardiovascular,Severe
+430,C34.90.430,Malignant neoplasm of unspecified part of bronchus or lung (Variant #430),Oncology,Critical
+431,J18.9.431,"Pneumonia, unspecified organism (Variant #431)",Respiratory,Severe
+432,F41.1.432,Generalized anxiety disorder (Variant #432),Mental Health,Moderate
+433,R07.9.433,"Chest pain, unspecified (Variant #433)",Cardiovascular,Severe
+434,E78.5.434,"Hyperlipidemia, unspecified (Variant #434)",Endocrine,Mild
+435,F41.1.435,Generalized anxiety disorder (Variant #435),Mental Health,Moderate
+436,K21.9.436,Gastro-esophageal reflux disease without esophagitis (Variant #436),Gastrointestinal,Mild
+437,F41.1.437,Generalized anxiety disorder (Variant #437),Mental Health,Moderate
+438,C34.90.438,Malignant neoplasm of unspecified part of bronchus or lung (Variant #438),Oncology,Critical
+439,I25.10.439,Atherosclerotic heart disease of native coronary artery (Variant #439),Cardiovascular,Severe
+440,F41.1.440,Generalized anxiety disorder (Variant #440),Mental Health,Moderate
+441,I10.441,Essential (primary) hypertension (Variant #441),Cardiovascular,Mild
+442,I25.10.442,Atherosclerotic heart disease of native coronary artery (Variant #442),Cardiovascular,Severe
+443,R07.9.443,"Chest pain, unspecified (Variant #443)",Cardiovascular,Severe
+444,K21.9.444,Gastro-esophageal reflux disease without esophagitis (Variant #444),Gastrointestinal,Mild
+445,I10.445,Essential (primary) hypertension (Variant #445),Cardiovascular,Mild
+446,E11.9.446,Type 2 diabetes mellitus without complications (Variant #446),Endocrine,Moderate
+447,I10.447,Essential (primary) hypertension (Variant #447),Cardiovascular,Mild
+448,K21.9.448,Gastro-esophageal reflux disease without esophagitis (Variant #448),Gastrointestinal,Mild
+449,G40.909.449,"Epilepsy, unspecified, not intractable (Variant #449)",Neurology,Severe
+450,R07.9.450,"Chest pain, unspecified (Variant #450)",Cardiovascular,Severe
+451,R07.9.451,"Chest pain, unspecified (Variant #451)",Cardiovascular,Severe
+452,R07.9.452,"Chest pain, unspecified (Variant #452)",Cardiovascular,Severe
+453,J06.9.453,"Acute upper respiratory infection, unspecified (Variant #453)",Respiratory,Mild
+454,M54.5.454,"Low back pain, unspecified (Variant #454)",Musculoskeletal,Mild
+455,E78.5.455,"Hyperlipidemia, unspecified (Variant #455)",Endocrine,Mild
+456,G40.909.456,"Epilepsy, unspecified, not intractable (Variant #456)",Neurology,Severe
+457,M54.5.457,"Low back pain, unspecified (Variant #457)",Musculoskeletal,Mild
+458,M54.5.458,"Low back pain, unspecified (Variant #458)",Musculoskeletal,Mild
+459,E78.5.459,"Hyperlipidemia, unspecified (Variant #459)",Endocrine,Mild
+460,J06.9.460,"Acute upper respiratory infection, unspecified (Variant #460)",Respiratory,Mild
+461,I25.10.461,Atherosclerotic heart disease of native coronary artery (Variant #461),Cardiovascular,Severe
+462,J06.9.462,"Acute upper respiratory infection, unspecified (Variant #462)",Respiratory,Mild
+463,J18.9.463,"Pneumonia, unspecified organism (Variant #463)",Respiratory,Severe
+464,G40.909.464,"Epilepsy, unspecified, not intractable (Variant #464)",Neurology,Severe
+465,K21.9.465,Gastro-esophageal reflux disease without esophagitis (Variant #465),Gastrointestinal,Mild
+466,J06.9.466,"Acute upper respiratory infection, unspecified (Variant #466)",Respiratory,Mild
+467,I25.10.467,Atherosclerotic heart disease of native coronary artery (Variant #467),Cardiovascular,Severe
+468,G40.909.468,"Epilepsy, unspecified, not intractable (Variant #468)",Neurology,Severe
+469,I25.10.469,Atherosclerotic heart disease of native coronary artery (Variant #469),Cardiovascular,Severe
+470,I25.10.470,Atherosclerotic heart disease of native coronary artery (Variant #470),Cardiovascular,Severe
+471,M54.5.471,"Low back pain, unspecified (Variant #471)",Musculoskeletal,Mild
+472,I25.10.472,Atherosclerotic heart disease of native coronary artery (Variant #472),Cardiovascular,Severe
+473,F41.1.473,Generalized anxiety disorder (Variant #473),Mental Health,Moderate
+474,C34.90.474,Malignant neoplasm of unspecified part of bronchus or lung (Variant #474),Oncology,Critical
+475,R07.9.475,"Chest pain, unspecified (Variant #475)",Cardiovascular,Severe
+476,I25.10.476,Atherosclerotic heart disease of native coronary artery (Variant #476),Cardiovascular,Severe
+477,F41.1.477,Generalized anxiety disorder (Variant #477),Mental Health,Moderate
+478,I25.10.478,Atherosclerotic heart disease of native coronary artery (Variant #478),Cardiovascular,Severe
+479,G40.909.479,"Epilepsy, unspecified, not intractable (Variant #479)",Neurology,Severe
+480,J06.9.480,"Acute upper respiratory infection, unspecified (Variant #480)",Respiratory,Mild
+481,I25.10.481,Atherosclerotic heart disease of native coronary artery (Variant #481),Cardiovascular,Severe
+482,R07.9.482,"Chest pain, unspecified (Variant #482)",Cardiovascular,Severe
+483,I10.483,Essential (primary) hypertension (Variant #483),Cardiovascular,Mild
+484,J45.909.484,"Unspecified asthma, uncomplicated (Variant #484)",Respiratory,Moderate
+485,N39.0.485,"Urinary tract infection, site not specified (Variant #485)",Urological,Moderate
+486,J18.9.486,"Pneumonia, unspecified organism (Variant #486)",Respiratory,Severe
+487,J18.9.487,"Pneumonia, unspecified organism (Variant #487)",Respiratory,Severe
+488,R07.9.488,"Chest pain, unspecified (Variant #488)",Cardiovascular,Severe
+489,I25.10.489,Atherosclerotic heart disease of native coronary artery (Variant #489),Cardiovascular,Severe
+490,I10.490,Essential (primary) hypertension (Variant #490),Cardiovascular,Mild
+491,R07.9.491,"Chest pain, unspecified (Variant #491)",Cardiovascular,Severe
+492,F41.1.492,Generalized anxiety disorder (Variant #492),Mental Health,Moderate
+493,J45.909.493,"Unspecified asthma, uncomplicated (Variant #493)",Respiratory,Moderate
+494,G40.909.494,"Epilepsy, unspecified, not intractable (Variant #494)",Neurology,Severe
+495,I10.495,Essential (primary) hypertension (Variant #495),Cardiovascular,Mild
+496,F41.1.496,Generalized anxiety disorder (Variant #496),Mental Health,Moderate
+497,G40.909.497,"Epilepsy, unspecified, not intractable (Variant #497)",Neurology,Severe
+498,J06.9.498,"Acute upper respiratory infection, unspecified (Variant #498)",Respiratory,Mild
+499,J18.9.499,"Pneumonia, unspecified organism (Variant #499)",Respiratory,Severe
+500,J06.9.500,"Acute upper respiratory infection, unspecified (Variant #500)",Respiratory,Mild
+501,J06.9.501,"Acute upper respiratory infection, unspecified (Variant #501)",Respiratory,Mild
+502,J06.9.502,"Acute upper respiratory infection, unspecified (Variant #502)",Respiratory,Mild
+503,E11.9.503,Type 2 diabetes mellitus without complications (Variant #503),Endocrine,Moderate
+504,E11.9.504,Type 2 diabetes mellitus without complications (Variant #504),Endocrine,Moderate
+505,M17.11.505,"Unspecified primary osteoarthritis, right knee (Variant #505)",Musculoskeletal,Moderate
+506,J18.9.506,"Pneumonia, unspecified organism (Variant #506)",Respiratory,Severe
+507,I25.10.507,Atherosclerotic heart disease of native coronary artery (Variant #507),Cardiovascular,Severe
+508,M17.11.508,"Unspecified primary osteoarthritis, right knee (Variant #508)",Musculoskeletal,Moderate
+509,G40.909.509,"Epilepsy, unspecified, not intractable (Variant #509)",Neurology,Severe
+510,G40.909.510,"Epilepsy, unspecified, not intractable (Variant #510)",Neurology,Severe
+511,K21.9.511,Gastro-esophageal reflux disease without esophagitis (Variant #511),Gastrointestinal,Mild
+512,J06.9.512,"Acute upper respiratory infection, unspecified (Variant #512)",Respiratory,Mild
+513,I10.513,Essential (primary) hypertension (Variant #513),Cardiovascular,Mild
+514,G40.909.514,"Epilepsy, unspecified, not intractable (Variant #514)",Neurology,Severe
+515,M54.5.515,"Low back pain, unspecified (Variant #515)",Musculoskeletal,Mild
+516,E11.9.516,Type 2 diabetes mellitus without complications (Variant #516),Endocrine,Moderate
+517,G40.909.517,"Epilepsy, unspecified, not intractable (Variant #517)",Neurology,Severe
+518,J45.909.518,"Unspecified asthma, uncomplicated (Variant #518)",Respiratory,Moderate
+519,E78.5.519,"Hyperlipidemia, unspecified (Variant #519)",Endocrine,Mild
+520,K21.9.520,Gastro-esophageal reflux disease without esophagitis (Variant #520),Gastrointestinal,Mild
+521,C34.90.521,Malignant neoplasm of unspecified part of bronchus or lung (Variant #521),Oncology,Critical
+522,K21.9.522,Gastro-esophageal reflux disease without esophagitis (Variant #522),Gastrointestinal,Mild
+523,R07.9.523,"Chest pain, unspecified (Variant #523)",Cardiovascular,Severe
+524,G40.909.524,"Epilepsy, unspecified, not intractable (Variant #524)",Neurology,Severe
+525,E11.9.525,Type 2 diabetes mellitus without complications (Variant #525),Endocrine,Moderate
+526,E78.5.526,"Hyperlipidemia, unspecified (Variant #526)",Endocrine,Mild
+527,I25.10.527,Atherosclerotic heart disease of native coronary artery (Variant #527),Cardiovascular,Severe
+528,I10.528,Essential (primary) hypertension (Variant #528),Cardiovascular,Mild
+529,C34.90.529,Malignant neoplasm of unspecified part of bronchus or lung (Variant #529),Oncology,Critical
+530,F41.1.530,Generalized anxiety disorder (Variant #530),Mental Health,Moderate
+531,K21.9.531,Gastro-esophageal reflux disease without esophagitis (Variant #531),Gastrointestinal,Mild
+532,I10.532,Essential (primary) hypertension (Variant #532),Cardiovascular,Mild
+533,E11.9.533,Type 2 diabetes mellitus without complications (Variant #533),Endocrine,Moderate
+534,E11.9.534,Type 2 diabetes mellitus without complications (Variant #534),Endocrine,Moderate
+535,M54.5.535,"Low back pain, unspecified (Variant #535)",Musculoskeletal,Mild
+536,N39.0.536,"Urinary tract infection, site not specified (Variant #536)",Urological,Moderate
+537,M17.11.537,"Unspecified primary osteoarthritis, right knee (Variant #537)",Musculoskeletal,Moderate
+538,C34.90.538,Malignant neoplasm of unspecified part of bronchus or lung (Variant #538),Oncology,Critical
+539,K21.9.539,Gastro-esophageal reflux disease without esophagitis (Variant #539),Gastrointestinal,Mild
+540,I25.10.540,Atherosclerotic heart disease of native coronary artery (Variant #540),Cardiovascular,Severe
+541,I25.10.541,Atherosclerotic heart disease of native coronary artery (Variant #541),Cardiovascular,Severe
+542,R07.9.542,"Chest pain, unspecified (Variant #542)",Cardiovascular,Severe
+543,J45.909.543,"Unspecified asthma, uncomplicated (Variant #543)",Respiratory,Moderate
+544,E11.9.544,Type 2 diabetes mellitus without complications (Variant #544),Endocrine,Moderate
+545,I10.545,Essential (primary) hypertension (Variant #545),Cardiovascular,Mild
+546,E11.9.546,Type 2 diabetes mellitus without complications (Variant #546),Endocrine,Moderate
+547,E11.9.547,Type 2 diabetes mellitus without complications (Variant #547),Endocrine,Moderate
+548,F41.1.548,Generalized anxiety disorder (Variant #548),Mental Health,Moderate
+549,I10.549,Essential (primary) hypertension (Variant #549),Cardiovascular,Mild
+550,F41.1.550,Generalized anxiety disorder (Variant #550),Mental Health,Moderate
+551,J18.9.551,"Pneumonia, unspecified organism (Variant #551)",Respiratory,Severe
+552,E11.9.552,Type 2 diabetes mellitus without complications (Variant #552),Endocrine,Moderate
+553,I25.10.553,Atherosclerotic heart disease of native coronary artery (Variant #553),Cardiovascular,Severe
+554,I10.554,Essential (primary) hypertension (Variant #554),Cardiovascular,Mild
+555,J18.9.555,"Pneumonia, unspecified organism (Variant #555)",Respiratory,Severe
+556,M17.11.556,"Unspecified primary osteoarthritis, right knee (Variant #556)",Musculoskeletal,Moderate
+557,I10.557,Essential (primary) hypertension (Variant #557),Cardiovascular,Mild
+558,R07.9.558,"Chest pain, unspecified (Variant #558)",Cardiovascular,Severe
+559,I10.559,Essential (primary) hypertension (Variant #559),Cardiovascular,Mild
+560,C34.90.560,Malignant neoplasm of unspecified part of bronchus or lung (Variant #560),Oncology,Critical
+561,I25.10.561,Atherosclerotic heart disease of native coronary artery (Variant #561),Cardiovascular,Severe
+562,K21.9.562,Gastro-esophageal reflux disease without esophagitis (Variant #562),Gastrointestinal,Mild
+563,I10.563,Essential (primary) hypertension (Variant #563),Cardiovascular,Mild
+564,F41.1.564,Generalized anxiety disorder (Variant #564),Mental Health,Moderate
+565,J45.909.565,"Unspecified asthma, uncomplicated (Variant #565)",Respiratory,Moderate
+566,C34.90.566,Malignant neoplasm of unspecified part of bronchus or lung (Variant #566),Oncology,Critical
+567,E78.5.567,"Hyperlipidemia, unspecified (Variant #567)",Endocrine,Mild
+568,G40.909.568,"Epilepsy, unspecified, not intractable (Variant #568)",Neurology,Severe
+569,M17.11.569,"Unspecified primary osteoarthritis, right knee (Variant #569)",Musculoskeletal,Moderate
+570,E78.5.570,"Hyperlipidemia, unspecified (Variant #570)",Endocrine,Mild
+571,I25.10.571,Atherosclerotic heart disease of native coronary artery (Variant #571),Cardiovascular,Severe
+572,N39.0.572,"Urinary tract infection, site not specified (Variant #572)",Urological,Moderate
+573,F41.1.573,Generalized anxiety disorder (Variant #573),Mental Health,Moderate
+574,I10.574,Essential (primary) hypertension (Variant #574),Cardiovascular,Mild
+575,E78.5.575,"Hyperlipidemia, unspecified (Variant #575)",Endocrine,Mild
+576,J06.9.576,"Acute upper respiratory infection, unspecified (Variant #576)",Respiratory,Mild
+577,M17.11.577,"Unspecified primary osteoarthritis, right knee (Variant #577)",Musculoskeletal,Moderate
+578,J06.9.578,"Acute upper respiratory infection, unspecified (Variant #578)",Respiratory,Mild
+579,K21.9.579,Gastro-esophageal reflux disease without esophagitis (Variant #579),Gastrointestinal,Mild
+580,M54.5.580,"Low back pain, unspecified (Variant #580)",Musculoskeletal,Mild
+581,I25.10.581,Atherosclerotic heart disease of native coronary artery (Variant #581),Cardiovascular,Severe
+582,F41.1.582,Generalized anxiety disorder (Variant #582),Mental Health,Moderate
+583,E78.5.583,"Hyperlipidemia, unspecified (Variant #583)",Endocrine,Mild
+584,J06.9.584,"Acute upper respiratory infection, unspecified (Variant #584)",Respiratory,Mild
+585,C34.90.585,Malignant neoplasm of unspecified part of bronchus or lung (Variant #585),Oncology,Critical
+586,E78.5.586,"Hyperlipidemia, unspecified (Variant #586)",Endocrine,Mild
+587,F41.1.587,Generalized anxiety disorder (Variant #587),Mental Health,Moderate
+588,J18.9.588,"Pneumonia, unspecified organism (Variant #588)",Respiratory,Severe
+589,J45.909.589,"Unspecified asthma, uncomplicated (Variant #589)",Respiratory,Moderate
+590,J06.9.590,"Acute upper respiratory infection, unspecified (Variant #590)",Respiratory,Mild
+591,J45.909.591,"Unspecified asthma, uncomplicated (Variant #591)",Respiratory,Moderate
+592,F41.1.592,Generalized anxiety disorder (Variant #592),Mental Health,Moderate
+593,E78.5.593,"Hyperlipidemia, unspecified (Variant #593)",Endocrine,Mild
+594,J06.9.594,"Acute upper respiratory infection, unspecified (Variant #594)",Respiratory,Mild
+595,J18.9.595,"Pneumonia, unspecified organism (Variant #595)",Respiratory,Severe
+596,I25.10.596,Atherosclerotic heart disease of native coronary artery (Variant #596),Cardiovascular,Severe
+597,M17.11.597,"Unspecified primary osteoarthritis, right knee (Variant #597)",Musculoskeletal,Moderate
+598,M17.11.598,"Unspecified primary osteoarthritis, right knee (Variant #598)",Musculoskeletal,Moderate
+599,M54.5.599,"Low back pain, unspecified (Variant #599)",Musculoskeletal,Mild
+600,I25.10.600,Atherosclerotic heart disease of native coronary artery (Variant #600),Cardiovascular,Severe
+601,N39.0.601,"Urinary tract infection, site not specified (Variant #601)",Urological,Moderate
+602,C34.90.602,Malignant neoplasm of unspecified part of bronchus or lung (Variant #602),Oncology,Critical
+603,J06.9.603,"Acute upper respiratory infection, unspecified (Variant #603)",Respiratory,Mild
+604,G40.909.604,"Epilepsy, unspecified, not intractable (Variant #604)",Neurology,Severe
+605,J06.9.605,"Acute upper respiratory infection, unspecified (Variant #605)",Respiratory,Mild
+606,E11.9.606,Type 2 diabetes mellitus without complications (Variant #606),Endocrine,Moderate
+607,C34.90.607,Malignant neoplasm of unspecified part of bronchus or lung (Variant #607),Oncology,Critical
+608,K21.9.608,Gastro-esophageal reflux disease without esophagitis (Variant #608),Gastrointestinal,Mild
+609,J06.9.609,"Acute upper respiratory infection, unspecified (Variant #609)",Respiratory,Mild
+610,K21.9.610,Gastro-esophageal reflux disease without esophagitis (Variant #610),Gastrointestinal,Mild
+611,F41.1.611,Generalized anxiety disorder (Variant #611),Mental Health,Moderate
+612,J06.9.612,"Acute upper respiratory infection, unspecified (Variant #612)",Respiratory,Mild
+613,J45.909.613,"Unspecified asthma, uncomplicated (Variant #613)",Respiratory,Moderate
+614,C34.90.614,Malignant neoplasm of unspecified part of bronchus or lung (Variant #614),Oncology,Critical
+615,J18.9.615,"Pneumonia, unspecified organism (Variant #615)",Respiratory,Severe
+616,I10.616,Essential (primary) hypertension (Variant #616),Cardiovascular,Mild
+617,I25.10.617,Atherosclerotic heart disease of native coronary artery (Variant #617),Cardiovascular,Severe
+618,M54.5.618,"Low back pain, unspecified (Variant #618)",Musculoskeletal,Mild
+619,J06.9.619,"Acute upper respiratory infection, unspecified (Variant #619)",Respiratory,Mild
+620,N39.0.620,"Urinary tract infection, site not specified (Variant #620)",Urological,Moderate
+621,M54.5.621,"Low back pain, unspecified (Variant #621)",Musculoskeletal,Mild
+622,F41.1.622,Generalized anxiety disorder (Variant #622),Mental Health,Moderate
+623,J06.9.623,"Acute upper respiratory infection, unspecified (Variant #623)",Respiratory,Mild
+624,E11.9.624,Type 2 diabetes mellitus without complications (Variant #624),Endocrine,Moderate
+625,N39.0.625,"Urinary tract infection, site not specified (Variant #625)",Urological,Moderate
+626,E11.9.626,Type 2 diabetes mellitus without complications (Variant #626),Endocrine,Moderate
+627,G40.909.627,"Epilepsy, unspecified, not intractable (Variant #627)",Neurology,Severe
+628,J45.909.628,"Unspecified asthma, uncomplicated (Variant #628)",Respiratory,Moderate
+629,K21.9.629,Gastro-esophageal reflux disease without esophagitis (Variant #629),Gastrointestinal,Mild
+630,N39.0.630,"Urinary tract infection, site not specified (Variant #630)",Urological,Moderate
+631,C34.90.631,Malignant neoplasm of unspecified part of bronchus or lung (Variant #631),Oncology,Critical
+632,F41.1.632,Generalized anxiety disorder (Variant #632),Mental Health,Moderate
+633,I10.633,Essential (primary) hypertension (Variant #633),Cardiovascular,Mild
+634,J45.909.634,"Unspecified asthma, uncomplicated (Variant #634)",Respiratory,Moderate
+635,M17.11.635,"Unspecified primary osteoarthritis, right knee (Variant #635)",Musculoskeletal,Moderate
+636,G40.909.636,"Epilepsy, unspecified, not intractable (Variant #636)",Neurology,Severe
+637,I25.10.637,Atherosclerotic heart disease of native coronary artery (Variant #637),Cardiovascular,Severe
+638,C34.90.638,Malignant neoplasm of unspecified part of bronchus or lung (Variant #638),Oncology,Critical
+639,J06.9.639,"Acute upper respiratory infection, unspecified (Variant #639)",Respiratory,Mild
+640,M54.5.640,"Low back pain, unspecified (Variant #640)",Musculoskeletal,Mild
+641,J06.9.641,"Acute upper respiratory infection, unspecified (Variant #641)",Respiratory,Mild
+642,M54.5.642,"Low back pain, unspecified (Variant #642)",Musculoskeletal,Mild
+643,I10.643,Essential (primary) hypertension (Variant #643),Cardiovascular,Mild
+644,J18.9.644,"Pneumonia, unspecified organism (Variant #644)",Respiratory,Severe
+645,K21.9.645,Gastro-esophageal reflux disease without esophagitis (Variant #645),Gastrointestinal,Mild
+646,K21.9.646,Gastro-esophageal reflux disease without esophagitis (Variant #646),Gastrointestinal,Mild
+647,J45.909.647,"Unspecified asthma, uncomplicated (Variant #647)",Respiratory,Moderate
+648,J18.9.648,"Pneumonia, unspecified organism (Variant #648)",Respiratory,Severe
+649,E11.9.649,Type 2 diabetes mellitus without complications (Variant #649),Endocrine,Moderate
+650,R07.9.650,"Chest pain, unspecified (Variant #650)",Cardiovascular,Severe
+651,K21.9.651,Gastro-esophageal reflux disease without esophagitis (Variant #651),Gastrointestinal,Mild
+652,K21.9.652,Gastro-esophageal reflux disease without esophagitis (Variant #652),Gastrointestinal,Mild
+653,F41.1.653,Generalized anxiety disorder (Variant #653),Mental Health,Moderate
+654,E11.9.654,Type 2 diabetes mellitus without complications (Variant #654),Endocrine,Moderate
+655,J06.9.655,"Acute upper respiratory infection, unspecified (Variant #655)",Respiratory,Mild
+656,F41.1.656,Generalized anxiety disorder (Variant #656),Mental Health,Moderate
+657,I10.657,Essential (primary) hypertension (Variant #657),Cardiovascular,Mild
+658,N39.0.658,"Urinary tract infection, site not specified (Variant #658)",Urological,Moderate
+659,J06.9.659,"Acute upper respiratory infection, unspecified (Variant #659)",Respiratory,Mild
+660,J18.9.660,"Pneumonia, unspecified organism (Variant #660)",Respiratory,Severe
+661,J18.9.661,"Pneumonia, unspecified organism (Variant #661)",Respiratory,Severe
+662,N39.0.662,"Urinary tract infection, site not specified (Variant #662)",Urological,Moderate
+663,R07.9.663,"Chest pain, unspecified (Variant #663)",Cardiovascular,Severe
+664,G40.909.664,"Epilepsy, unspecified, not intractable (Variant #664)",Neurology,Severe
+665,F41.1.665,Generalized anxiety disorder (Variant #665),Mental Health,Moderate
+666,E78.5.666,"Hyperlipidemia, unspecified (Variant #666)",Endocrine,Mild
+667,E11.9.667,Type 2 diabetes mellitus without complications (Variant #667),Endocrine,Moderate
+668,J06.9.668,"Acute upper respiratory infection, unspecified (Variant #668)",Respiratory,Mild
+669,I10.669,Essential (primary) hypertension (Variant #669),Cardiovascular,Mild
+670,J45.909.670,"Unspecified asthma, uncomplicated (Variant #670)",Respiratory,Moderate
+671,F41.1.671,Generalized anxiety disorder (Variant #671),Mental Health,Moderate
+672,I10.672,Essential (primary) hypertension (Variant #672),Cardiovascular,Mild
+673,J06.9.673,"Acute upper respiratory infection, unspecified (Variant #673)",Respiratory,Mild
+674,J18.9.674,"Pneumonia, unspecified organism (Variant #674)",Respiratory,Severe
+675,M54.5.675,"Low back pain, unspecified (Variant #675)",Musculoskeletal,Mild
+676,G40.909.676,"Epilepsy, unspecified, not intractable (Variant #676)",Neurology,Severe
+677,J06.9.677,"Acute upper respiratory infection, unspecified (Variant #677)",Respiratory,Mild
+678,N39.0.678,"Urinary tract infection, site not specified (Variant #678)",Urological,Moderate
+679,J06.9.679,"Acute upper respiratory infection, unspecified (Variant #679)",Respiratory,Mild
+680,R07.9.680,"Chest pain, unspecified (Variant #680)",Cardiovascular,Severe
+681,N39.0.681,"Urinary tract infection, site not specified (Variant #681)",Urological,Moderate
+682,J18.9.682,"Pneumonia, unspecified organism (Variant #682)",Respiratory,Severe
+683,R07.9.683,"Chest pain, unspecified (Variant #683)",Cardiovascular,Severe
+684,C34.90.684,Malignant neoplasm of unspecified part of bronchus or lung (Variant #684),Oncology,Critical
+685,N39.0.685,"Urinary tract infection, site not specified (Variant #685)",Urological,Moderate
+686,G40.909.686,"Epilepsy, unspecified, not intractable (Variant #686)",Neurology,Severe
+687,E78.5.687,"Hyperlipidemia, unspecified (Variant #687)",Endocrine,Mild
+688,J45.909.688,"Unspecified asthma, uncomplicated (Variant #688)",Respiratory,Moderate
+689,M54.5.689,"Low back pain, unspecified (Variant #689)",Musculoskeletal,Mild
+690,J45.909.690,"Unspecified asthma, uncomplicated (Variant #690)",Respiratory,Moderate
+691,J18.9.691,"Pneumonia, unspecified organism (Variant #691)",Respiratory,Severe
+692,M54.5.692,"Low back pain, unspecified (Variant #692)",Musculoskeletal,Mild
+693,J06.9.693,"Acute upper respiratory infection, unspecified (Variant #693)",Respiratory,Mild
+694,C34.90.694,Malignant neoplasm of unspecified part of bronchus or lung (Variant #694),Oncology,Critical
+695,N39.0.695,"Urinary tract infection, site not specified (Variant #695)",Urological,Moderate
+696,J06.9.696,"Acute upper respiratory infection, unspecified (Variant #696)",Respiratory,Mild
+697,K21.9.697,Gastro-esophageal reflux disease without esophagitis (Variant #697),Gastrointestinal,Mild
+698,J18.9.698,"Pneumonia, unspecified organism (Variant #698)",Respiratory,Severe
+699,F41.1.699,Generalized anxiety disorder (Variant #699),Mental Health,Moderate
+700,R07.9.700,"Chest pain, unspecified (Variant #700)",Cardiovascular,Severe
+701,N39.0.701,"Urinary tract infection, site not specified (Variant #701)",Urological,Moderate
+702,I25.10.702,Atherosclerotic heart disease of native coronary artery (Variant #702),Cardiovascular,Severe
+703,K21.9.703,Gastro-esophageal reflux disease without esophagitis (Variant #703),Gastrointestinal,Mild
+704,M17.11.704,"Unspecified primary osteoarthritis, right knee (Variant #704)",Musculoskeletal,Moderate
+705,K21.9.705,Gastro-esophageal reflux disease without esophagitis (Variant #705),Gastrointestinal,Mild
+706,I10.706,Essential (primary) hypertension (Variant #706),Cardiovascular,Mild
+707,E78.5.707,"Hyperlipidemia, unspecified (Variant #707)",Endocrine,Mild
+708,J06.9.708,"Acute upper respiratory infection, unspecified (Variant #708)",Respiratory,Mild
+709,M54.5.709,"Low back pain, unspecified (Variant #709)",Musculoskeletal,Mild
+710,F41.1.710,Generalized anxiety disorder (Variant #710),Mental Health,Moderate
+711,M17.11.711,"Unspecified primary osteoarthritis, right knee (Variant #711)",Musculoskeletal,Moderate
+712,E78.5.712,"Hyperlipidemia, unspecified (Variant #712)",Endocrine,Mild
+713,I10.713,Essential (primary) hypertension (Variant #713),Cardiovascular,Mild
+714,J06.9.714,"Acute upper respiratory infection, unspecified (Variant #714)",Respiratory,Mild
+715,J45.909.715,"Unspecified asthma, uncomplicated (Variant #715)",Respiratory,Moderate
+716,I25.10.716,Atherosclerotic heart disease of native coronary artery (Variant #716),Cardiovascular,Severe
+717,I25.10.717,Atherosclerotic heart disease of native coronary artery (Variant #717),Cardiovascular,Severe
+718,M17.11.718,"Unspecified primary osteoarthritis, right knee (Variant #718)",Musculoskeletal,Moderate
+719,M17.11.719,"Unspecified primary osteoarthritis, right knee (Variant #719)",Musculoskeletal,Moderate
+720,I25.10.720,Atherosclerotic heart disease of native coronary artery (Variant #720),Cardiovascular,Severe
+721,I25.10.721,Atherosclerotic heart disease of native coronary artery (Variant #721),Cardiovascular,Severe
+722,E11.9.722,Type 2 diabetes mellitus without complications (Variant #722),Endocrine,Moderate
+723,K21.9.723,Gastro-esophageal reflux disease without esophagitis (Variant #723),Gastrointestinal,Mild
+724,I25.10.724,Atherosclerotic heart disease of native coronary artery (Variant #724),Cardiovascular,Severe
+725,J06.9.725,"Acute upper respiratory infection, unspecified (Variant #725)",Respiratory,Mild
+726,I25.10.726,Atherosclerotic heart disease of native coronary artery (Variant #726),Cardiovascular,Severe
+727,M17.11.727,"Unspecified primary osteoarthritis, right knee (Variant #727)",Musculoskeletal,Moderate
+728,N39.0.728,"Urinary tract infection, site not specified (Variant #728)",Urological,Moderate
+729,N39.0.729,"Urinary tract infection, site not specified (Variant #729)",Urological,Moderate
+730,J18.9.730,"Pneumonia, unspecified organism (Variant #730)",Respiratory,Severe
+731,G40.909.731,"Epilepsy, unspecified, not intractable (Variant #731)",Neurology,Severe
+732,F41.1.732,Generalized anxiety disorder (Variant #732),Mental Health,Moderate
+733,N39.0.733,"Urinary tract infection, site not specified (Variant #733)",Urological,Moderate
+734,M17.11.734,"Unspecified primary osteoarthritis, right knee (Variant #734)",Musculoskeletal,Moderate
+735,K21.9.735,Gastro-esophageal reflux disease without esophagitis (Variant #735),Gastrointestinal,Mild
+736,N39.0.736,"Urinary tract infection, site not specified (Variant #736)",Urological,Moderate
+737,E11.9.737,Type 2 diabetes mellitus without complications (Variant #737),Endocrine,Moderate
+738,C34.90.738,Malignant neoplasm of unspecified part of bronchus or lung (Variant #738),Oncology,Critical
+739,I10.739,Essential (primary) hypertension (Variant #739),Cardiovascular,Mild
+740,R07.9.740,"Chest pain, unspecified (Variant #740)",Cardiovascular,Severe
+741,E78.5.741,"Hyperlipidemia, unspecified (Variant #741)",Endocrine,Mild
+742,G40.909.742,"Epilepsy, unspecified, not intractable (Variant #742)",Neurology,Severe
+743,C34.90.743,Malignant neoplasm of unspecified part of bronchus or lung (Variant #743),Oncology,Critical
+744,J45.909.744,"Unspecified asthma, uncomplicated (Variant #744)",Respiratory,Moderate
+745,M54.5.745,"Low back pain, unspecified (Variant #745)",Musculoskeletal,Mild
+746,N39.0.746,"Urinary tract infection, site not specified (Variant #746)",Urological,Moderate
+747,J18.9.747,"Pneumonia, unspecified organism (Variant #747)",Respiratory,Severe
+748,C34.90.748,Malignant neoplasm of unspecified part of bronchus or lung (Variant #748),Oncology,Critical
+749,E78.5.749,"Hyperlipidemia, unspecified (Variant #749)",Endocrine,Mild
+750,M54.5.750,"Low back pain, unspecified (Variant #750)",Musculoskeletal,Mild
+751,J06.9.751,"Acute upper respiratory infection, unspecified (Variant #751)",Respiratory,Mild
+752,M17.11.752,"Unspecified primary osteoarthritis, right knee (Variant #752)",Musculoskeletal,Moderate
+753,E78.5.753,"Hyperlipidemia, unspecified (Variant #753)",Endocrine,Mild
+754,K21.9.754,Gastro-esophageal reflux disease without esophagitis (Variant #754),Gastrointestinal,Mild
+755,I25.10.755,Atherosclerotic heart disease of native coronary artery (Variant #755),Cardiovascular,Severe
+756,I10.756,Essential (primary) hypertension (Variant #756),Cardiovascular,Mild
+757,J45.909.757,"Unspecified asthma, uncomplicated (Variant #757)",Respiratory,Moderate
+758,J06.9.758,"Acute upper respiratory infection, unspecified (Variant #758)",Respiratory,Mild
+759,J45.909.759,"Unspecified asthma, uncomplicated (Variant #759)",Respiratory,Moderate
+760,E11.9.760,Type 2 diabetes mellitus without complications (Variant #760),Endocrine,Moderate
+761,M17.11.761,"Unspecified primary osteoarthritis, right knee (Variant #761)",Musculoskeletal,Moderate
+762,E11.9.762,Type 2 diabetes mellitus without complications (Variant #762),Endocrine,Moderate
+763,E11.9.763,Type 2 diabetes mellitus without complications (Variant #763),Endocrine,Moderate
+764,I25.10.764,Atherosclerotic heart disease of native coronary artery (Variant #764),Cardiovascular,Severe
+765,J06.9.765,"Acute upper respiratory infection, unspecified (Variant #765)",Respiratory,Mild
+766,J45.909.766,"Unspecified asthma, uncomplicated (Variant #766)",Respiratory,Moderate
+767,N39.0.767,"Urinary tract infection, site not specified (Variant #767)",Urological,Moderate
+768,N39.0.768,"Urinary tract infection, site not specified (Variant #768)",Urological,Moderate
+769,N39.0.769,"Urinary tract infection, site not specified (Variant #769)",Urological,Moderate
+770,M17.11.770,"Unspecified primary osteoarthritis, right knee (Variant #770)",Musculoskeletal,Moderate
+771,I10.771,Essential (primary) hypertension (Variant #771),Cardiovascular,Mild
+772,M17.11.772,"Unspecified primary osteoarthritis, right knee (Variant #772)",Musculoskeletal,Moderate
+773,E78.5.773,"Hyperlipidemia, unspecified (Variant #773)",Endocrine,Mild
+774,J06.9.774,"Acute upper respiratory infection, unspecified (Variant #774)",Respiratory,Mild
+775,K21.9.775,Gastro-esophageal reflux disease without esophagitis (Variant #775),Gastrointestinal,Mild
+776,F41.1.776,Generalized anxiety disorder (Variant #776),Mental Health,Moderate
+777,C34.90.777,Malignant neoplasm of unspecified part of bronchus or lung (Variant #777),Oncology,Critical
+778,J06.9.778,"Acute upper respiratory infection, unspecified (Variant #778)",Respiratory,Mild
+779,F41.1.779,Generalized anxiety disorder (Variant #779),Mental Health,Moderate
+780,C34.90.780,Malignant neoplasm of unspecified part of bronchus or lung (Variant #780),Oncology,Critical
+781,E78.5.781,"Hyperlipidemia, unspecified (Variant #781)",Endocrine,Mild
+782,J06.9.782,"Acute upper respiratory infection, unspecified (Variant #782)",Respiratory,Mild
+783,E78.5.783,"Hyperlipidemia, unspecified (Variant #783)",Endocrine,Mild
+784,I25.10.784,Atherosclerotic heart disease of native coronary artery (Variant #784),Cardiovascular,Severe
+785,K21.9.785,Gastro-esophageal reflux disease without esophagitis (Variant #785),Gastrointestinal,Mild
+786,J45.909.786,"Unspecified asthma, uncomplicated (Variant #786)",Respiratory,Moderate
+787,E78.5.787,"Hyperlipidemia, unspecified (Variant #787)",Endocrine,Mild
+788,K21.9.788,Gastro-esophageal reflux disease without esophagitis (Variant #788),Gastrointestinal,Mild
+789,K21.9.789,Gastro-esophageal reflux disease without esophagitis (Variant #789),Gastrointestinal,Mild
+790,R07.9.790,"Chest pain, unspecified (Variant #790)",Cardiovascular,Severe
+791,I10.791,Essential (primary) hypertension (Variant #791),Cardiovascular,Mild
+792,J06.9.792,"Acute upper respiratory infection, unspecified (Variant #792)",Respiratory,Mild
+793,E11.9.793,Type 2 diabetes mellitus without complications (Variant #793),Endocrine,Moderate
+794,C34.90.794,Malignant neoplasm of unspecified part of bronchus or lung (Variant #794),Oncology,Critical
+795,I10.795,Essential (primary) hypertension (Variant #795),Cardiovascular,Mild
+796,M17.11.796,"Unspecified primary osteoarthritis, right knee (Variant #796)",Musculoskeletal,Moderate
+797,M17.11.797,"Unspecified primary osteoarthritis, right knee (Variant #797)",Musculoskeletal,Moderate
+798,E11.9.798,Type 2 diabetes mellitus without complications (Variant #798),Endocrine,Moderate
+799,I25.10.799,Atherosclerotic heart disease of native coronary artery (Variant #799),Cardiovascular,Severe
+800,K21.9.800,Gastro-esophageal reflux disease without esophagitis (Variant #800),Gastrointestinal,Mild
+801,I10.801,Essential (primary) hypertension (Variant #801),Cardiovascular,Mild
+802,N39.0.802,"Urinary tract infection, site not specified (Variant #802)",Urological,Moderate
+803,E11.9.803,Type 2 diabetes mellitus without complications (Variant #803),Endocrine,Moderate
+804,E78.5.804,"Hyperlipidemia, unspecified (Variant #804)",Endocrine,Mild
+805,M17.11.805,"Unspecified primary osteoarthritis, right knee (Variant #805)",Musculoskeletal,Moderate
+806,F41.1.806,Generalized anxiety disorder (Variant #806),Mental Health,Moderate
+807,R07.9.807,"Chest pain, unspecified (Variant #807)",Cardiovascular,Severe
+808,J45.909.808,"Unspecified asthma, uncomplicated (Variant #808)",Respiratory,Moderate
+809,I10.809,Essential (primary) hypertension (Variant #809),Cardiovascular,Mild
+810,E78.5.810,"Hyperlipidemia, unspecified (Variant #810)",Endocrine,Mild
+811,C34.90.811,Malignant neoplasm of unspecified part of bronchus or lung (Variant #811),Oncology,Critical
+812,N39.0.812,"Urinary tract infection, site not specified (Variant #812)",Urological,Moderate
+813,J45.909.813,"Unspecified asthma, uncomplicated (Variant #813)",Respiratory,Moderate
+814,I25.10.814,Atherosclerotic heart disease of native coronary artery (Variant #814),Cardiovascular,Severe
+815,J18.9.815,"Pneumonia, unspecified organism (Variant #815)",Respiratory,Severe
+816,K21.9.816,Gastro-esophageal reflux disease without esophagitis (Variant #816),Gastrointestinal,Mild
+817,J06.9.817,"Acute upper respiratory infection, unspecified (Variant #817)",Respiratory,Mild
+818,J06.9.818,"Acute upper respiratory infection, unspecified (Variant #818)",Respiratory,Mild
+819,J18.9.819,"Pneumonia, unspecified organism (Variant #819)",Respiratory,Severe
+820,I25.10.820,Atherosclerotic heart disease of native coronary artery (Variant #820),Cardiovascular,Severe
+821,J45.909.821,"Unspecified asthma, uncomplicated (Variant #821)",Respiratory,Moderate
+822,I25.10.822,Atherosclerotic heart disease of native coronary artery (Variant #822),Cardiovascular,Severe
+823,M54.5.823,"Low back pain, unspecified (Variant #823)",Musculoskeletal,Mild
+824,J18.9.824,"Pneumonia, unspecified organism (Variant #824)",Respiratory,Severe
+825,N39.0.825,"Urinary tract infection, site not specified (Variant #825)",Urological,Moderate
+826,E11.9.826,Type 2 diabetes mellitus without complications (Variant #826),Endocrine,Moderate
+827,K21.9.827,Gastro-esophageal reflux disease without esophagitis (Variant #827),Gastrointestinal,Mild
+828,I25.10.828,Atherosclerotic heart disease of native coronary artery (Variant #828),Cardiovascular,Severe
+829,J18.9.829,"Pneumonia, unspecified organism (Variant #829)",Respiratory,Severe
+830,R07.9.830,"Chest pain, unspecified (Variant #830)",Cardiovascular,Severe
+831,F41.1.831,Generalized anxiety disorder (Variant #831),Mental Health,Moderate
+832,J45.909.832,"Unspecified asthma, uncomplicated (Variant #832)",Respiratory,Moderate
+833,J45.909.833,"Unspecified asthma, uncomplicated (Variant #833)",Respiratory,Moderate
+834,C34.90.834,Malignant neoplasm of unspecified part of bronchus or lung (Variant #834),Oncology,Critical
+835,R07.9.835,"Chest pain, unspecified (Variant #835)",Cardiovascular,Severe
+836,J18.9.836,"Pneumonia, unspecified organism (Variant #836)",Respiratory,Severe
+837,J18.9.837,"Pneumonia, unspecified organism (Variant #837)",Respiratory,Severe
+838,I10.838,Essential (primary) hypertension (Variant #838),Cardiovascular,Mild
+839,I10.839,Essential (primary) hypertension (Variant #839),Cardiovascular,Mild
+840,I25.10.840,Atherosclerotic heart disease of native coronary artery (Variant #840),Cardiovascular,Severe
+841,E11.9.841,Type 2 diabetes mellitus without complications (Variant #841),Endocrine,Moderate
+842,C34.90.842,Malignant neoplasm of unspecified part of bronchus or lung (Variant #842),Oncology,Critical
+843,J45.909.843,"Unspecified asthma, uncomplicated (Variant #843)",Respiratory,Moderate
+844,F41.1.844,Generalized anxiety disorder (Variant #844),Mental Health,Moderate
+845,I10.845,Essential (primary) hypertension (Variant #845),Cardiovascular,Mild
+846,E11.9.846,Type 2 diabetes mellitus without complications (Variant #846),Endocrine,Moderate
+847,I10.847,Essential (primary) hypertension (Variant #847),Cardiovascular,Mild
+848,J06.9.848,"Acute upper respiratory infection, unspecified (Variant #848)",Respiratory,Mild
+849,E78.5.849,"Hyperlipidemia, unspecified (Variant #849)",Endocrine,Mild
+850,F41.1.850,Generalized anxiety disorder (Variant #850),Mental Health,Moderate
+851,N39.0.851,"Urinary tract infection, site not specified (Variant #851)",Urological,Moderate
+852,R07.9.852,"Chest pain, unspecified (Variant #852)",Cardiovascular,Severe
+853,M54.5.853,"Low back pain, unspecified (Variant #853)",Musculoskeletal,Mild
+854,G40.909.854,"Epilepsy, unspecified, not intractable (Variant #854)",Neurology,Severe
+855,F41.1.855,Generalized anxiety disorder (Variant #855),Mental Health,Moderate
+856,K21.9.856,Gastro-esophageal reflux disease without esophagitis (Variant #856),Gastrointestinal,Mild
+857,J06.9.857,"Acute upper respiratory infection, unspecified (Variant #857)",Respiratory,Mild
+858,E78.5.858,"Hyperlipidemia, unspecified (Variant #858)",Endocrine,Mild
+859,M17.11.859,"Unspecified primary osteoarthritis, right knee (Variant #859)",Musculoskeletal,Moderate
+860,R07.9.860,"Chest pain, unspecified (Variant #860)",Cardiovascular,Severe
+861,I10.861,Essential (primary) hypertension (Variant #861),Cardiovascular,Mild
+862,I25.10.862,Atherosclerotic heart disease of native coronary artery (Variant #862),Cardiovascular,Severe
+863,R07.9.863,"Chest pain, unspecified (Variant #863)",Cardiovascular,Severe
+864,M17.11.864,"Unspecified primary osteoarthritis, right knee (Variant #864)",Musculoskeletal,Moderate
+865,R07.9.865,"Chest pain, unspecified (Variant #865)",Cardiovascular,Severe
+866,G40.909.866,"Epilepsy, unspecified, not intractable (Variant #866)",Neurology,Severe
+867,N39.0.867,"Urinary tract infection, site not specified (Variant #867)",Urological,Moderate
+868,M54.5.868,"Low back pain, unspecified (Variant #868)",Musculoskeletal,Mild
+869,R07.9.869,"Chest pain, unspecified (Variant #869)",Cardiovascular,Severe
+870,G40.909.870,"Epilepsy, unspecified, not intractable (Variant #870)",Neurology,Severe
+871,E78.5.871,"Hyperlipidemia, unspecified (Variant #871)",Endocrine,Mild
+872,E11.9.872,Type 2 diabetes mellitus without complications (Variant #872),Endocrine,Moderate
+873,I10.873,Essential (primary) hypertension (Variant #873),Cardiovascular,Mild
+874,M17.11.874,"Unspecified primary osteoarthritis, right knee (Variant #874)",Musculoskeletal,Moderate
+875,J18.9.875,"Pneumonia, unspecified organism (Variant #875)",Respiratory,Severe
+876,C34.90.876,Malignant neoplasm of unspecified part of bronchus or lung (Variant #876),Oncology,Critical
+877,J45.909.877,"Unspecified asthma, uncomplicated (Variant #877)",Respiratory,Moderate
+878,J45.909.878,"Unspecified asthma, uncomplicated (Variant #878)",Respiratory,Moderate
+879,M17.11.879,"Unspecified primary osteoarthritis, right knee (Variant #879)",Musculoskeletal,Moderate
+880,F41.1.880,Generalized anxiety disorder (Variant #880),Mental Health,Moderate
+881,J06.9.881,"Acute upper respiratory infection, unspecified (Variant #881)",Respiratory,Mild
+882,J06.9.882,"Acute upper respiratory infection, unspecified (Variant #882)",Respiratory,Mild
+883,M54.5.883,"Low back pain, unspecified (Variant #883)",Musculoskeletal,Mild
+884,J45.909.884,"Unspecified asthma, uncomplicated (Variant #884)",Respiratory,Moderate
+885,I25.10.885,Atherosclerotic heart disease of native coronary artery (Variant #885),Cardiovascular,Severe
+886,J18.9.886,"Pneumonia, unspecified organism (Variant #886)",Respiratory,Severe
+887,G40.909.887,"Epilepsy, unspecified, not intractable (Variant #887)",Neurology,Severe
+888,I10.888,Essential (primary) hypertension (Variant #888),Cardiovascular,Mild
+889,E78.5.889,"Hyperlipidemia, unspecified (Variant #889)",Endocrine,Mild
+890,K21.9.890,Gastro-esophageal reflux disease without esophagitis (Variant #890),Gastrointestinal,Mild
+891,R07.9.891,"Chest pain, unspecified (Variant #891)",Cardiovascular,Severe
+892,I10.892,Essential (primary) hypertension (Variant #892),Cardiovascular,Mild
+893,I10.893,Essential (primary) hypertension (Variant #893),Cardiovascular,Mild
+894,M54.5.894,"Low back pain, unspecified (Variant #894)",Musculoskeletal,Mild
+895,G40.909.895,"Epilepsy, unspecified, not intractable (Variant #895)",Neurology,Severe
+896,J18.9.896,"Pneumonia, unspecified organism (Variant #896)",Respiratory,Severe
+897,F41.1.897,Generalized anxiety disorder (Variant #897),Mental Health,Moderate
+898,M17.11.898,"Unspecified primary osteoarthritis, right knee (Variant #898)",Musculoskeletal,Moderate
+899,K21.9.899,Gastro-esophageal reflux disease without esophagitis (Variant #899),Gastrointestinal,Mild
+900,M17.11.900,"Unspecified primary osteoarthritis, right knee (Variant #900)",Musculoskeletal,Moderate
+901,J45.909.901,"Unspecified asthma, uncomplicated (Variant #901)",Respiratory,Moderate
+902,J18.9.902,"Pneumonia, unspecified organism (Variant #902)",Respiratory,Severe
+903,M17.11.903,"Unspecified primary osteoarthritis, right knee (Variant #903)",Musculoskeletal,Moderate
+904,C34.90.904,Malignant neoplasm of unspecified part of bronchus or lung (Variant #904),Oncology,Critical
+905,I25.10.905,Atherosclerotic heart disease of native coronary artery (Variant #905),Cardiovascular,Severe
+906,M54.5.906,"Low back pain, unspecified (Variant #906)",Musculoskeletal,Mild
+907,J18.9.907,"Pneumonia, unspecified organism (Variant #907)",Respiratory,Severe
+908,E11.9.908,Type 2 diabetes mellitus without complications (Variant #908),Endocrine,Moderate
+909,N39.0.909,"Urinary tract infection, site not specified (Variant #909)",Urological,Moderate
+910,E11.9.910,Type 2 diabetes mellitus without complications (Variant #910),Endocrine,Moderate
+911,M54.5.911,"Low back pain, unspecified (Variant #911)",Musculoskeletal,Mild
+912,M54.5.912,"Low back pain, unspecified (Variant #912)",Musculoskeletal,Mild
+913,I10.913,Essential (primary) hypertension (Variant #913),Cardiovascular,Mild
+914,K21.9.914,Gastro-esophageal reflux disease without esophagitis (Variant #914),Gastrointestinal,Mild
+915,I25.10.915,Atherosclerotic heart disease of native coronary artery (Variant #915),Cardiovascular,Severe
+916,J45.909.916,"Unspecified asthma, uncomplicated (Variant #916)",Respiratory,Moderate
+917,N39.0.917,"Urinary tract infection, site not specified (Variant #917)",Urological,Moderate
+918,G40.909.918,"Epilepsy, unspecified, not intractable (Variant #918)",Neurology,Severe
+919,E11.9.919,Type 2 diabetes mellitus without complications (Variant #919),Endocrine,Moderate
+920,R07.9.920,"Chest pain, unspecified (Variant #920)",Cardiovascular,Severe
+921,F41.1.921,Generalized anxiety disorder (Variant #921),Mental Health,Moderate
+922,E78.5.922,"Hyperlipidemia, unspecified (Variant #922)",Endocrine,Mild
+923,R07.9.923,"Chest pain, unspecified (Variant #923)",Cardiovascular,Severe
+924,J45.909.924,"Unspecified asthma, uncomplicated (Variant #924)",Respiratory,Moderate
+925,E78.5.925,"Hyperlipidemia, unspecified (Variant #925)",Endocrine,Mild
+926,E78.5.926,"Hyperlipidemia, unspecified (Variant #926)",Endocrine,Mild
+927,K21.9.927,Gastro-esophageal reflux disease without esophagitis (Variant #927),Gastrointestinal,Mild
+928,E11.9.928,Type 2 diabetes mellitus without complications (Variant #928),Endocrine,Moderate
+929,M54.5.929,"Low back pain, unspecified (Variant #929)",Musculoskeletal,Mild
+930,I25.10.930,Atherosclerotic heart disease of native coronary artery (Variant #930),Cardiovascular,Severe
+931,E11.9.931,Type 2 diabetes mellitus without complications (Variant #931),Endocrine,Moderate
+932,C34.90.932,Malignant neoplasm of unspecified part of bronchus or lung (Variant #932),Oncology,Critical
+933,J06.9.933,"Acute upper respiratory infection, unspecified (Variant #933)",Respiratory,Mild
+934,C34.90.934,Malignant neoplasm of unspecified part of bronchus or lung (Variant #934),Oncology,Critical
+935,E11.9.935,Type 2 diabetes mellitus without complications (Variant #935),Endocrine,Moderate
+936,I25.10.936,Atherosclerotic heart disease of native coronary artery (Variant #936),Cardiovascular,Severe
+937,K21.9.937,Gastro-esophageal reflux disease without esophagitis (Variant #937),Gastrointestinal,Mild
+938,C34.90.938,Malignant neoplasm of unspecified part of bronchus or lung (Variant #938),Oncology,Critical
+939,M54.5.939,"Low back pain, unspecified (Variant #939)",Musculoskeletal,Mild
+940,J45.909.940,"Unspecified asthma, uncomplicated (Variant #940)",Respiratory,Moderate
+941,I10.941,Essential (primary) hypertension (Variant #941),Cardiovascular,Mild
+942,M54.5.942,"Low back pain, unspecified (Variant #942)",Musculoskeletal,Mild
+943,E11.9.943,Type 2 diabetes mellitus without complications (Variant #943),Endocrine,Moderate
+944,R07.9.944,"Chest pain, unspecified (Variant #944)",Cardiovascular,Severe
+945,F41.1.945,Generalized anxiety disorder (Variant #945),Mental Health,Moderate
+946,N39.0.946,"Urinary tract infection, site not specified (Variant #946)",Urological,Moderate
+947,N39.0.947,"Urinary tract infection, site not specified (Variant #947)",Urological,Moderate
+948,E78.5.948,"Hyperlipidemia, unspecified (Variant #948)",Endocrine,Mild
+949,E78.5.949,"Hyperlipidemia, unspecified (Variant #949)",Endocrine,Mild
+950,E78.5.950,"Hyperlipidemia, unspecified (Variant #950)",Endocrine,Mild
+951,M54.5.951,"Low back pain, unspecified (Variant #951)",Musculoskeletal,Mild
+952,J18.9.952,"Pneumonia, unspecified organism (Variant #952)",Respiratory,Severe
+953,E11.9.953,Type 2 diabetes mellitus without complications (Variant #953),Endocrine,Moderate
+954,K21.9.954,Gastro-esophageal reflux disease without esophagitis (Variant #954),Gastrointestinal,Mild
+955,C34.90.955,Malignant neoplasm of unspecified part of bronchus or lung (Variant #955),Oncology,Critical
+956,G40.909.956,"Epilepsy, unspecified, not intractable (Variant #956)",Neurology,Severe
+957,I25.10.957,Atherosclerotic heart disease of native coronary artery (Variant #957),Cardiovascular,Severe
+958,M17.11.958,"Unspecified primary osteoarthritis, right knee (Variant #958)",Musculoskeletal,Moderate
+959,K21.9.959,Gastro-esophageal reflux disease without esophagitis (Variant #959),Gastrointestinal,Mild
+960,E78.5.960,"Hyperlipidemia, unspecified (Variant #960)",Endocrine,Mild
+961,N39.0.961,"Urinary tract infection, site not specified (Variant #961)",Urological,Moderate
+962,E78.5.962,"Hyperlipidemia, unspecified (Variant #962)",Endocrine,Mild
+963,G40.909.963,"Epilepsy, unspecified, not intractable (Variant #963)",Neurology,Severe
+964,G40.909.964,"Epilepsy, unspecified, not intractable (Variant #964)",Neurology,Severe
+965,J45.909.965,"Unspecified asthma, uncomplicated (Variant #965)",Respiratory,Moderate
+966,N39.0.966,"Urinary tract infection, site not specified (Variant #966)",Urological,Moderate
+967,M17.11.967,"Unspecified primary osteoarthritis, right knee (Variant #967)",Musculoskeletal,Moderate
+968,E11.9.968,Type 2 diabetes mellitus without complications (Variant #968),Endocrine,Moderate
+969,I10.969,Essential (primary) hypertension (Variant #969),Cardiovascular,Mild
+970,F41.1.970,Generalized anxiety disorder (Variant #970),Mental Health,Moderate
+971,M17.11.971,"Unspecified primary osteoarthritis, right knee (Variant #971)",Musculoskeletal,Moderate
+972,E78.5.972,"Hyperlipidemia, unspecified (Variant #972)",Endocrine,Mild
+973,C34.90.973,Malignant neoplasm of unspecified part of bronchus or lung (Variant #973),Oncology,Critical
+974,G40.909.974,"Epilepsy, unspecified, not intractable (Variant #974)",Neurology,Severe
+975,I25.10.975,Atherosclerotic heart disease of native coronary artery (Variant #975),Cardiovascular,Severe
+976,N39.0.976,"Urinary tract infection, site not specified (Variant #976)",Urological,Moderate
+977,M54.5.977,"Low back pain, unspecified (Variant #977)",Musculoskeletal,Mild
+978,N39.0.978,"Urinary tract infection, site not specified (Variant #978)",Urological,Moderate
+979,J18.9.979,"Pneumonia, unspecified organism (Variant #979)",Respiratory,Severe
+980,M17.11.980,"Unspecified primary osteoarthritis, right knee (Variant #980)",Musculoskeletal,Moderate
+981,M17.11.981,"Unspecified primary osteoarthritis, right knee (Variant #981)",Musculoskeletal,Moderate
+982,J06.9.982,"Acute upper respiratory infection, unspecified (Variant #982)",Respiratory,Mild
+983,K21.9.983,Gastro-esophageal reflux disease without esophagitis (Variant #983),Gastrointestinal,Mild
+984,J06.9.984,"Acute upper respiratory infection, unspecified (Variant #984)",Respiratory,Mild
+985,E11.9.985,Type 2 diabetes mellitus without complications (Variant #985),Endocrine,Moderate
+986,J18.9.986,"Pneumonia, unspecified organism (Variant #986)",Respiratory,Severe
+987,J18.9.987,"Pneumonia, unspecified organism (Variant #987)",Respiratory,Severe
+988,M17.11.988,"Unspecified primary osteoarthritis, right knee (Variant #988)",Musculoskeletal,Moderate
+989,I25.10.989,Atherosclerotic heart disease of native coronary artery (Variant #989),Cardiovascular,Severe
+990,K21.9.990,Gastro-esophageal reflux disease without esophagitis (Variant #990),Gastrointestinal,Mild
+991,G40.909.991,"Epilepsy, unspecified, not intractable (Variant #991)",Neurology,Severe
+992,E11.9.992,Type 2 diabetes mellitus without complications (Variant #992),Endocrine,Moderate
+993,J18.9.993,"Pneumonia, unspecified organism (Variant #993)",Respiratory,Severe
+994,I25.10.994,Atherosclerotic heart disease of native coronary artery (Variant #994),Cardiovascular,Severe
+995,I25.10.995,Atherosclerotic heart disease of native coronary artery (Variant #995),Cardiovascular,Severe
+996,E78.5.996,"Hyperlipidemia, unspecified (Variant #996)",Endocrine,Mild
+997,E78.5.997,"Hyperlipidemia, unspecified (Variant #997)",Endocrine,Mild
+998,E11.9.998,Type 2 diabetes mellitus without complications (Variant #998),Endocrine,Moderate
+999,M54.5.999,"Low back pain, unspecified (Variant #999)",Musculoskeletal,Mild
+1000,J18.9.1000,"Pneumonia, unspecified organism (Variant #1000)",Respiratory,Severe
+1001,F41.1.1001,Generalized anxiety disorder (Variant #1001),Mental Health,Moderate
+1002,N39.0.1002,"Urinary tract infection, site not specified (Variant #1002)",Urological,Moderate
+1003,E11.9.1003,Type 2 diabetes mellitus without complications (Variant #1003),Endocrine,Moderate
+1004,M17.11.1004,"Unspecified primary osteoarthritis, right knee (Variant #1004)",Musculoskeletal,Moderate
+1005,J45.909.1005,"Unspecified asthma, uncomplicated (Variant #1005)",Respiratory,Moderate
+1006,J18.9.1006,"Pneumonia, unspecified organism (Variant #1006)",Respiratory,Severe
+1007,J45.909.1007,"Unspecified asthma, uncomplicated (Variant #1007)",Respiratory,Moderate
+1008,I25.10.1008,Atherosclerotic heart disease of native coronary artery (Variant #1008),Cardiovascular,Severe
+1009,C34.90.1009,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1009),Oncology,Critical
+1010,N39.0.1010,"Urinary tract infection, site not specified (Variant #1010)",Urological,Moderate
+1011,G40.909.1011,"Epilepsy, unspecified, not intractable (Variant #1011)",Neurology,Severe
+1012,M54.5.1012,"Low back pain, unspecified (Variant #1012)",Musculoskeletal,Mild
+1013,J45.909.1013,"Unspecified asthma, uncomplicated (Variant #1013)",Respiratory,Moderate
+1014,J45.909.1014,"Unspecified asthma, uncomplicated (Variant #1014)",Respiratory,Moderate
+1015,G40.909.1015,"Epilepsy, unspecified, not intractable (Variant #1015)",Neurology,Severe
+1016,M54.5.1016,"Low back pain, unspecified (Variant #1016)",Musculoskeletal,Mild
+1017,I25.10.1017,Atherosclerotic heart disease of native coronary artery (Variant #1017),Cardiovascular,Severe
+1018,R07.9.1018,"Chest pain, unspecified (Variant #1018)",Cardiovascular,Severe
+1019,J18.9.1019,"Pneumonia, unspecified organism (Variant #1019)",Respiratory,Severe
+1020,M54.5.1020,"Low back pain, unspecified (Variant #1020)",Musculoskeletal,Mild
+1021,M17.11.1021,"Unspecified primary osteoarthritis, right knee (Variant #1021)",Musculoskeletal,Moderate
+1022,M17.11.1022,"Unspecified primary osteoarthritis, right knee (Variant #1022)",Musculoskeletal,Moderate
+1023,J06.9.1023,"Acute upper respiratory infection, unspecified (Variant #1023)",Respiratory,Mild
+1024,F41.1.1024,Generalized anxiety disorder (Variant #1024),Mental Health,Moderate
+1025,N39.0.1025,"Urinary tract infection, site not specified (Variant #1025)",Urological,Moderate
+1026,J18.9.1026,"Pneumonia, unspecified organism (Variant #1026)",Respiratory,Severe
+1027,I10.1027,Essential (primary) hypertension (Variant #1027),Cardiovascular,Mild
+1028,R07.9.1028,"Chest pain, unspecified (Variant #1028)",Cardiovascular,Severe
+1029,I25.10.1029,Atherosclerotic heart disease of native coronary artery (Variant #1029),Cardiovascular,Severe
+1030,I25.10.1030,Atherosclerotic heart disease of native coronary artery (Variant #1030),Cardiovascular,Severe
+1031,M17.11.1031,"Unspecified primary osteoarthritis, right knee (Variant #1031)",Musculoskeletal,Moderate
+1032,E78.5.1032,"Hyperlipidemia, unspecified (Variant #1032)",Endocrine,Mild
+1033,N39.0.1033,"Urinary tract infection, site not specified (Variant #1033)",Urological,Moderate
+1034,E78.5.1034,"Hyperlipidemia, unspecified (Variant #1034)",Endocrine,Mild
+1035,M54.5.1035,"Low back pain, unspecified (Variant #1035)",Musculoskeletal,Mild
+1036,K21.9.1036,Gastro-esophageal reflux disease without esophagitis (Variant #1036),Gastrointestinal,Mild
+1037,I25.10.1037,Atherosclerotic heart disease of native coronary artery (Variant #1037),Cardiovascular,Severe
+1038,C34.90.1038,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1038),Oncology,Critical
+1039,I10.1039,Essential (primary) hypertension (Variant #1039),Cardiovascular,Mild
+1040,M17.11.1040,"Unspecified primary osteoarthritis, right knee (Variant #1040)",Musculoskeletal,Moderate
+1041,C34.90.1041,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1041),Oncology,Critical
+1042,J06.9.1042,"Acute upper respiratory infection, unspecified (Variant #1042)",Respiratory,Mild
+1043,M17.11.1043,"Unspecified primary osteoarthritis, right knee (Variant #1043)",Musculoskeletal,Moderate
+1044,I25.10.1044,Atherosclerotic heart disease of native coronary artery (Variant #1044),Cardiovascular,Severe
+1045,J18.9.1045,"Pneumonia, unspecified organism (Variant #1045)",Respiratory,Severe
+1046,G40.909.1046,"Epilepsy, unspecified, not intractable (Variant #1046)",Neurology,Severe
+1047,M17.11.1047,"Unspecified primary osteoarthritis, right knee (Variant #1047)",Musculoskeletal,Moderate
+1048,K21.9.1048,Gastro-esophageal reflux disease without esophagitis (Variant #1048),Gastrointestinal,Mild
+1049,K21.9.1049,Gastro-esophageal reflux disease without esophagitis (Variant #1049),Gastrointestinal,Mild
+1050,K21.9.1050,Gastro-esophageal reflux disease without esophagitis (Variant #1050),Gastrointestinal,Mild
+1051,F41.1.1051,Generalized anxiety disorder (Variant #1051),Mental Health,Moderate
+1052,M17.11.1052,"Unspecified primary osteoarthritis, right knee (Variant #1052)",Musculoskeletal,Moderate
+1053,C34.90.1053,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1053),Oncology,Critical
+1054,F41.1.1054,Generalized anxiety disorder (Variant #1054),Mental Health,Moderate
+1055,I10.1055,Essential (primary) hypertension (Variant #1055),Cardiovascular,Mild
+1056,J06.9.1056,"Acute upper respiratory infection, unspecified (Variant #1056)",Respiratory,Mild
+1057,E11.9.1057,Type 2 diabetes mellitus without complications (Variant #1057),Endocrine,Moderate
+1058,F41.1.1058,Generalized anxiety disorder (Variant #1058),Mental Health,Moderate
+1059,N39.0.1059,"Urinary tract infection, site not specified (Variant #1059)",Urological,Moderate
+1060,I25.10.1060,Atherosclerotic heart disease of native coronary artery (Variant #1060),Cardiovascular,Severe
+1061,C34.90.1061,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1061),Oncology,Critical
+1062,E11.9.1062,Type 2 diabetes mellitus without complications (Variant #1062),Endocrine,Moderate
+1063,C34.90.1063,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1063),Oncology,Critical
+1064,M17.11.1064,"Unspecified primary osteoarthritis, right knee (Variant #1064)",Musculoskeletal,Moderate
+1065,J06.9.1065,"Acute upper respiratory infection, unspecified (Variant #1065)",Respiratory,Mild
+1066,M17.11.1066,"Unspecified primary osteoarthritis, right knee (Variant #1066)",Musculoskeletal,Moderate
+1067,M17.11.1067,"Unspecified primary osteoarthritis, right knee (Variant #1067)",Musculoskeletal,Moderate
+1068,G40.909.1068,"Epilepsy, unspecified, not intractable (Variant #1068)",Neurology,Severe
+1069,J45.909.1069,"Unspecified asthma, uncomplicated (Variant #1069)",Respiratory,Moderate
+1070,J06.9.1070,"Acute upper respiratory infection, unspecified (Variant #1070)",Respiratory,Mild
+1071,K21.9.1071,Gastro-esophageal reflux disease without esophagitis (Variant #1071),Gastrointestinal,Mild
+1072,M17.11.1072,"Unspecified primary osteoarthritis, right knee (Variant #1072)",Musculoskeletal,Moderate
+1073,J18.9.1073,"Pneumonia, unspecified organism (Variant #1073)",Respiratory,Severe
+1074,E11.9.1074,Type 2 diabetes mellitus without complications (Variant #1074),Endocrine,Moderate
+1075,C34.90.1075,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1075),Oncology,Critical
+1076,J45.909.1076,"Unspecified asthma, uncomplicated (Variant #1076)",Respiratory,Moderate
+1077,J18.9.1077,"Pneumonia, unspecified organism (Variant #1077)",Respiratory,Severe
+1078,N39.0.1078,"Urinary tract infection, site not specified (Variant #1078)",Urological,Moderate
+1079,G40.909.1079,"Epilepsy, unspecified, not intractable (Variant #1079)",Neurology,Severe
+1080,J18.9.1080,"Pneumonia, unspecified organism (Variant #1080)",Respiratory,Severe
+1081,I10.1081,Essential (primary) hypertension (Variant #1081),Cardiovascular,Mild
+1082,J06.9.1082,"Acute upper respiratory infection, unspecified (Variant #1082)",Respiratory,Mild
+1083,M17.11.1083,"Unspecified primary osteoarthritis, right knee (Variant #1083)",Musculoskeletal,Moderate
+1084,E11.9.1084,Type 2 diabetes mellitus without complications (Variant #1084),Endocrine,Moderate
+1085,I10.1085,Essential (primary) hypertension (Variant #1085),Cardiovascular,Mild
+1086,F41.1.1086,Generalized anxiety disorder (Variant #1086),Mental Health,Moderate
+1087,E78.5.1087,"Hyperlipidemia, unspecified (Variant #1087)",Endocrine,Mild
+1088,C34.90.1088,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1088),Oncology,Critical
+1089,F41.1.1089,Generalized anxiety disorder (Variant #1089),Mental Health,Moderate
+1090,F41.1.1090,Generalized anxiety disorder (Variant #1090),Mental Health,Moderate
+1091,E11.9.1091,Type 2 diabetes mellitus without complications (Variant #1091),Endocrine,Moderate
+1092,J18.9.1092,"Pneumonia, unspecified organism (Variant #1092)",Respiratory,Severe
+1093,G40.909.1093,"Epilepsy, unspecified, not intractable (Variant #1093)",Neurology,Severe
+1094,K21.9.1094,Gastro-esophageal reflux disease without esophagitis (Variant #1094),Gastrointestinal,Mild
+1095,E11.9.1095,Type 2 diabetes mellitus without complications (Variant #1095),Endocrine,Moderate
+1096,J18.9.1096,"Pneumonia, unspecified organism (Variant #1096)",Respiratory,Severe
+1097,K21.9.1097,Gastro-esophageal reflux disease without esophagitis (Variant #1097),Gastrointestinal,Mild
+1098,M54.5.1098,"Low back pain, unspecified (Variant #1098)",Musculoskeletal,Mild
+1099,J06.9.1099,"Acute upper respiratory infection, unspecified (Variant #1099)",Respiratory,Mild
+1100,G40.909.1100,"Epilepsy, unspecified, not intractable (Variant #1100)",Neurology,Severe
+1101,M54.5.1101,"Low back pain, unspecified (Variant #1101)",Musculoskeletal,Mild
+1102,J45.909.1102,"Unspecified asthma, uncomplicated (Variant #1102)",Respiratory,Moderate
+1103,M54.5.1103,"Low back pain, unspecified (Variant #1103)",Musculoskeletal,Mild
+1104,I25.10.1104,Atherosclerotic heart disease of native coronary artery (Variant #1104),Cardiovascular,Severe
+1105,E11.9.1105,Type 2 diabetes mellitus without complications (Variant #1105),Endocrine,Moderate
+1106,N39.0.1106,"Urinary tract infection, site not specified (Variant #1106)",Urological,Moderate
+1107,K21.9.1107,Gastro-esophageal reflux disease without esophagitis (Variant #1107),Gastrointestinal,Mild
+1108,M17.11.1108,"Unspecified primary osteoarthritis, right knee (Variant #1108)",Musculoskeletal,Moderate
+1109,E78.5.1109,"Hyperlipidemia, unspecified (Variant #1109)",Endocrine,Mild
+1110,I10.1110,Essential (primary) hypertension (Variant #1110),Cardiovascular,Mild
+1111,K21.9.1111,Gastro-esophageal reflux disease without esophagitis (Variant #1111),Gastrointestinal,Mild
+1112,N39.0.1112,"Urinary tract infection, site not specified (Variant #1112)",Urological,Moderate
+1113,E11.9.1113,Type 2 diabetes mellitus without complications (Variant #1113),Endocrine,Moderate
+1114,K21.9.1114,Gastro-esophageal reflux disease without esophagitis (Variant #1114),Gastrointestinal,Mild
+1115,E78.5.1115,"Hyperlipidemia, unspecified (Variant #1115)",Endocrine,Mild
+1116,I10.1116,Essential (primary) hypertension (Variant #1116),Cardiovascular,Mild
+1117,C34.90.1117,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1117),Oncology,Critical
+1118,C34.90.1118,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1118),Oncology,Critical
+1119,J18.9.1119,"Pneumonia, unspecified organism (Variant #1119)",Respiratory,Severe
+1120,J06.9.1120,"Acute upper respiratory infection, unspecified (Variant #1120)",Respiratory,Mild
+1121,E11.9.1121,Type 2 diabetes mellitus without complications (Variant #1121),Endocrine,Moderate
+1122,E78.5.1122,"Hyperlipidemia, unspecified (Variant #1122)",Endocrine,Mild
+1123,M17.11.1123,"Unspecified primary osteoarthritis, right knee (Variant #1123)",Musculoskeletal,Moderate
+1124,J45.909.1124,"Unspecified asthma, uncomplicated (Variant #1124)",Respiratory,Moderate
+1125,G40.909.1125,"Epilepsy, unspecified, not intractable (Variant #1125)",Neurology,Severe
+1126,N39.0.1126,"Urinary tract infection, site not specified (Variant #1126)",Urological,Moderate
+1127,E11.9.1127,Type 2 diabetes mellitus without complications (Variant #1127),Endocrine,Moderate
+1128,I25.10.1128,Atherosclerotic heart disease of native coronary artery (Variant #1128),Cardiovascular,Severe
+1129,M17.11.1129,"Unspecified primary osteoarthritis, right knee (Variant #1129)",Musculoskeletal,Moderate
+1130,R07.9.1130,"Chest pain, unspecified (Variant #1130)",Cardiovascular,Severe
+1131,J06.9.1131,"Acute upper respiratory infection, unspecified (Variant #1131)",Respiratory,Mild
+1132,E11.9.1132,Type 2 diabetes mellitus without complications (Variant #1132),Endocrine,Moderate
+1133,E11.9.1133,Type 2 diabetes mellitus without complications (Variant #1133),Endocrine,Moderate
+1134,F41.1.1134,Generalized anxiety disorder (Variant #1134),Mental Health,Moderate
+1135,J18.9.1135,"Pneumonia, unspecified organism (Variant #1135)",Respiratory,Severe
+1136,G40.909.1136,"Epilepsy, unspecified, not intractable (Variant #1136)",Neurology,Severe
+1137,M17.11.1137,"Unspecified primary osteoarthritis, right knee (Variant #1137)",Musculoskeletal,Moderate
+1138,I10.1138,Essential (primary) hypertension (Variant #1138),Cardiovascular,Mild
+1139,I10.1139,Essential (primary) hypertension (Variant #1139),Cardiovascular,Mild
+1140,I10.1140,Essential (primary) hypertension (Variant #1140),Cardiovascular,Mild
+1141,G40.909.1141,"Epilepsy, unspecified, not intractable (Variant #1141)",Neurology,Severe
+1142,C34.90.1142,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1142),Oncology,Critical
+1143,R07.9.1143,"Chest pain, unspecified (Variant #1143)",Cardiovascular,Severe
+1144,E78.5.1144,"Hyperlipidemia, unspecified (Variant #1144)",Endocrine,Mild
+1145,J06.9.1145,"Acute upper respiratory infection, unspecified (Variant #1145)",Respiratory,Mild
+1146,I10.1146,Essential (primary) hypertension (Variant #1146),Cardiovascular,Mild
+1147,C34.90.1147,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1147),Oncology,Critical
+1148,E78.5.1148,"Hyperlipidemia, unspecified (Variant #1148)",Endocrine,Mild
+1149,K21.9.1149,Gastro-esophageal reflux disease without esophagitis (Variant #1149),Gastrointestinal,Mild
+1150,I25.10.1150,Atherosclerotic heart disease of native coronary artery (Variant #1150),Cardiovascular,Severe
+1151,E78.5.1151,"Hyperlipidemia, unspecified (Variant #1151)",Endocrine,Mild
+1152,J06.9.1152,"Acute upper respiratory infection, unspecified (Variant #1152)",Respiratory,Mild
+1153,J18.9.1153,"Pneumonia, unspecified organism (Variant #1153)",Respiratory,Severe
+1154,E11.9.1154,Type 2 diabetes mellitus without complications (Variant #1154),Endocrine,Moderate
+1155,E78.5.1155,"Hyperlipidemia, unspecified (Variant #1155)",Endocrine,Mild
+1156,C34.90.1156,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1156),Oncology,Critical
+1157,I10.1157,Essential (primary) hypertension (Variant #1157),Cardiovascular,Mild
+1158,I25.10.1158,Atherosclerotic heart disease of native coronary artery (Variant #1158),Cardiovascular,Severe
+1159,J45.909.1159,"Unspecified asthma, uncomplicated (Variant #1159)",Respiratory,Moderate
+1160,I10.1160,Essential (primary) hypertension (Variant #1160),Cardiovascular,Mild
+1161,R07.9.1161,"Chest pain, unspecified (Variant #1161)",Cardiovascular,Severe
+1162,I10.1162,Essential (primary) hypertension (Variant #1162),Cardiovascular,Mild
+1163,R07.9.1163,"Chest pain, unspecified (Variant #1163)",Cardiovascular,Severe
+1164,G40.909.1164,"Epilepsy, unspecified, not intractable (Variant #1164)",Neurology,Severe
+1165,J18.9.1165,"Pneumonia, unspecified organism (Variant #1165)",Respiratory,Severe
+1166,F41.1.1166,Generalized anxiety disorder (Variant #1166),Mental Health,Moderate
+1167,J06.9.1167,"Acute upper respiratory infection, unspecified (Variant #1167)",Respiratory,Mild
+1168,C34.90.1168,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1168),Oncology,Critical
+1169,C34.90.1169,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1169),Oncology,Critical
+1170,I10.1170,Essential (primary) hypertension (Variant #1170),Cardiovascular,Mild
+1171,C34.90.1171,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1171),Oncology,Critical
+1172,K21.9.1172,Gastro-esophageal reflux disease without esophagitis (Variant #1172),Gastrointestinal,Mild
+1173,K21.9.1173,Gastro-esophageal reflux disease without esophagitis (Variant #1173),Gastrointestinal,Mild
+1174,F41.1.1174,Generalized anxiety disorder (Variant #1174),Mental Health,Moderate
+1175,E78.5.1175,"Hyperlipidemia, unspecified (Variant #1175)",Endocrine,Mild
+1176,G40.909.1176,"Epilepsy, unspecified, not intractable (Variant #1176)",Neurology,Severe
+1177,K21.9.1177,Gastro-esophageal reflux disease without esophagitis (Variant #1177),Gastrointestinal,Mild
+1178,N39.0.1178,"Urinary tract infection, site not specified (Variant #1178)",Urological,Moderate
+1179,I10.1179,Essential (primary) hypertension (Variant #1179),Cardiovascular,Mild
+1180,K21.9.1180,Gastro-esophageal reflux disease without esophagitis (Variant #1180),Gastrointestinal,Mild
+1181,M54.5.1181,"Low back pain, unspecified (Variant #1181)",Musculoskeletal,Mild
+1182,M54.5.1182,"Low back pain, unspecified (Variant #1182)",Musculoskeletal,Mild
+1183,M17.11.1183,"Unspecified primary osteoarthritis, right knee (Variant #1183)",Musculoskeletal,Moderate
+1184,E11.9.1184,Type 2 diabetes mellitus without complications (Variant #1184),Endocrine,Moderate
+1185,J06.9.1185,"Acute upper respiratory infection, unspecified (Variant #1185)",Respiratory,Mild
+1186,C34.90.1186,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1186),Oncology,Critical
+1187,K21.9.1187,Gastro-esophageal reflux disease without esophagitis (Variant #1187),Gastrointestinal,Mild
+1188,N39.0.1188,"Urinary tract infection, site not specified (Variant #1188)",Urological,Moderate
+1189,K21.9.1189,Gastro-esophageal reflux disease without esophagitis (Variant #1189),Gastrointestinal,Mild
+1190,M17.11.1190,"Unspecified primary osteoarthritis, right knee (Variant #1190)",Musculoskeletal,Moderate
+1191,M54.5.1191,"Low back pain, unspecified (Variant #1191)",Musculoskeletal,Mild
+1192,I10.1192,Essential (primary) hypertension (Variant #1192),Cardiovascular,Mild
+1193,K21.9.1193,Gastro-esophageal reflux disease without esophagitis (Variant #1193),Gastrointestinal,Mild
+1194,R07.9.1194,"Chest pain, unspecified (Variant #1194)",Cardiovascular,Severe
+1195,J06.9.1195,"Acute upper respiratory infection, unspecified (Variant #1195)",Respiratory,Mild
+1196,J45.909.1196,"Unspecified asthma, uncomplicated (Variant #1196)",Respiratory,Moderate
+1197,C34.90.1197,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1197),Oncology,Critical
+1198,M54.5.1198,"Low back pain, unspecified (Variant #1198)",Musculoskeletal,Mild
+1199,N39.0.1199,"Urinary tract infection, site not specified (Variant #1199)",Urological,Moderate
+1200,J45.909.1200,"Unspecified asthma, uncomplicated (Variant #1200)",Respiratory,Moderate
+1201,N39.0.1201,"Urinary tract infection, site not specified (Variant #1201)",Urological,Moderate
+1202,M54.5.1202,"Low back pain, unspecified (Variant #1202)",Musculoskeletal,Mild
+1203,G40.909.1203,"Epilepsy, unspecified, not intractable (Variant #1203)",Neurology,Severe
+1204,C34.90.1204,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1204),Oncology,Critical
+1205,J45.909.1205,"Unspecified asthma, uncomplicated (Variant #1205)",Respiratory,Moderate
+1206,E78.5.1206,"Hyperlipidemia, unspecified (Variant #1206)",Endocrine,Mild
+1207,G40.909.1207,"Epilepsy, unspecified, not intractable (Variant #1207)",Neurology,Severe
+1208,I10.1208,Essential (primary) hypertension (Variant #1208),Cardiovascular,Mild
+1209,G40.909.1209,"Epilepsy, unspecified, not intractable (Variant #1209)",Neurology,Severe
+1210,N39.0.1210,"Urinary tract infection, site not specified (Variant #1210)",Urological,Moderate
+1211,N39.0.1211,"Urinary tract infection, site not specified (Variant #1211)",Urological,Moderate
+1212,C34.90.1212,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1212),Oncology,Critical
+1213,M17.11.1213,"Unspecified primary osteoarthritis, right knee (Variant #1213)",Musculoskeletal,Moderate
+1214,F41.1.1214,Generalized anxiety disorder (Variant #1214),Mental Health,Moderate
+1215,N39.0.1215,"Urinary tract infection, site not specified (Variant #1215)",Urological,Moderate
+1216,J06.9.1216,"Acute upper respiratory infection, unspecified (Variant #1216)",Respiratory,Mild
+1217,F41.1.1217,Generalized anxiety disorder (Variant #1217),Mental Health,Moderate
+1218,I10.1218,Essential (primary) hypertension (Variant #1218),Cardiovascular,Mild
+1219,J45.909.1219,"Unspecified asthma, uncomplicated (Variant #1219)",Respiratory,Moderate
+1220,E78.5.1220,"Hyperlipidemia, unspecified (Variant #1220)",Endocrine,Mild
+1221,J18.9.1221,"Pneumonia, unspecified organism (Variant #1221)",Respiratory,Severe
+1222,I10.1222,Essential (primary) hypertension (Variant #1222),Cardiovascular,Mild
+1223,E11.9.1223,Type 2 diabetes mellitus without complications (Variant #1223),Endocrine,Moderate
+1224,M54.5.1224,"Low back pain, unspecified (Variant #1224)",Musculoskeletal,Mild
+1225,K21.9.1225,Gastro-esophageal reflux disease without esophagitis (Variant #1225),Gastrointestinal,Mild
+1226,I10.1226,Essential (primary) hypertension (Variant #1226),Cardiovascular,Mild
+1227,M54.5.1227,"Low back pain, unspecified (Variant #1227)",Musculoskeletal,Mild
+1228,I10.1228,Essential (primary) hypertension (Variant #1228),Cardiovascular,Mild
+1229,I10.1229,Essential (primary) hypertension (Variant #1229),Cardiovascular,Mild
+1230,N39.0.1230,"Urinary tract infection, site not specified (Variant #1230)",Urological,Moderate
+1231,G40.909.1231,"Epilepsy, unspecified, not intractable (Variant #1231)",Neurology,Severe
+1232,E78.5.1232,"Hyperlipidemia, unspecified (Variant #1232)",Endocrine,Mild
+1233,E78.5.1233,"Hyperlipidemia, unspecified (Variant #1233)",Endocrine,Mild
+1234,R07.9.1234,"Chest pain, unspecified (Variant #1234)",Cardiovascular,Severe
+1235,J18.9.1235,"Pneumonia, unspecified organism (Variant #1235)",Respiratory,Severe
+1236,I10.1236,Essential (primary) hypertension (Variant #1236),Cardiovascular,Mild
+1237,E78.5.1237,"Hyperlipidemia, unspecified (Variant #1237)",Endocrine,Mild
+1238,E78.5.1238,"Hyperlipidemia, unspecified (Variant #1238)",Endocrine,Mild
+1239,I10.1239,Essential (primary) hypertension (Variant #1239),Cardiovascular,Mild
+1240,E11.9.1240,Type 2 diabetes mellitus without complications (Variant #1240),Endocrine,Moderate
+1241,E78.5.1241,"Hyperlipidemia, unspecified (Variant #1241)",Endocrine,Mild
+1242,K21.9.1242,Gastro-esophageal reflux disease without esophagitis (Variant #1242),Gastrointestinal,Mild
+1243,C34.90.1243,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1243),Oncology,Critical
+1244,C34.90.1244,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1244),Oncology,Critical
+1245,N39.0.1245,"Urinary tract infection, site not specified (Variant #1245)",Urological,Moderate
+1246,N39.0.1246,"Urinary tract infection, site not specified (Variant #1246)",Urological,Moderate
+1247,F41.1.1247,Generalized anxiety disorder (Variant #1247),Mental Health,Moderate
+1248,C34.90.1248,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1248),Oncology,Critical
+1249,E78.5.1249,"Hyperlipidemia, unspecified (Variant #1249)",Endocrine,Mild
+1250,G40.909.1250,"Epilepsy, unspecified, not intractable (Variant #1250)",Neurology,Severe
+1251,M17.11.1251,"Unspecified primary osteoarthritis, right knee (Variant #1251)",Musculoskeletal,Moderate
+1252,I25.10.1252,Atherosclerotic heart disease of native coronary artery (Variant #1252),Cardiovascular,Severe
+1253,C34.90.1253,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1253),Oncology,Critical
+1254,N39.0.1254,"Urinary tract infection, site not specified (Variant #1254)",Urological,Moderate
+1255,M17.11.1255,"Unspecified primary osteoarthritis, right knee (Variant #1255)",Musculoskeletal,Moderate
+1256,M54.5.1256,"Low back pain, unspecified (Variant #1256)",Musculoskeletal,Mild
+1257,M54.5.1257,"Low back pain, unspecified (Variant #1257)",Musculoskeletal,Mild
+1258,I25.10.1258,Atherosclerotic heart disease of native coronary artery (Variant #1258),Cardiovascular,Severe
+1259,J06.9.1259,"Acute upper respiratory infection, unspecified (Variant #1259)",Respiratory,Mild
+1260,I10.1260,Essential (primary) hypertension (Variant #1260),Cardiovascular,Mild
+1261,I10.1261,Essential (primary) hypertension (Variant #1261),Cardiovascular,Mild
+1262,I10.1262,Essential (primary) hypertension (Variant #1262),Cardiovascular,Mild
+1263,C34.90.1263,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1263),Oncology,Critical
+1264,F41.1.1264,Generalized anxiety disorder (Variant #1264),Mental Health,Moderate
+1265,J45.909.1265,"Unspecified asthma, uncomplicated (Variant #1265)",Respiratory,Moderate
+1266,R07.9.1266,"Chest pain, unspecified (Variant #1266)",Cardiovascular,Severe
+1267,E78.5.1267,"Hyperlipidemia, unspecified (Variant #1267)",Endocrine,Mild
+1268,M54.5.1268,"Low back pain, unspecified (Variant #1268)",Musculoskeletal,Mild
+1269,C34.90.1269,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1269),Oncology,Critical
+1270,J45.909.1270,"Unspecified asthma, uncomplicated (Variant #1270)",Respiratory,Moderate
+1271,C34.90.1271,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1271),Oncology,Critical
+1272,I10.1272,Essential (primary) hypertension (Variant #1272),Cardiovascular,Mild
+1273,N39.0.1273,"Urinary tract infection, site not specified (Variant #1273)",Urological,Moderate
+1274,F41.1.1274,Generalized anxiety disorder (Variant #1274),Mental Health,Moderate
+1275,M17.11.1275,"Unspecified primary osteoarthritis, right knee (Variant #1275)",Musculoskeletal,Moderate
+1276,C34.90.1276,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1276),Oncology,Critical
+1277,M54.5.1277,"Low back pain, unspecified (Variant #1277)",Musculoskeletal,Mild
+1278,C34.90.1278,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1278),Oncology,Critical
+1279,M17.11.1279,"Unspecified primary osteoarthritis, right knee (Variant #1279)",Musculoskeletal,Moderate
+1280,M17.11.1280,"Unspecified primary osteoarthritis, right knee (Variant #1280)",Musculoskeletal,Moderate
+1281,C34.90.1281,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1281),Oncology,Critical
+1282,J18.9.1282,"Pneumonia, unspecified organism (Variant #1282)",Respiratory,Severe
+1283,F41.1.1283,Generalized anxiety disorder (Variant #1283),Mental Health,Moderate
+1284,J18.9.1284,"Pneumonia, unspecified organism (Variant #1284)",Respiratory,Severe
+1285,E11.9.1285,Type 2 diabetes mellitus without complications (Variant #1285),Endocrine,Moderate
+1286,M17.11.1286,"Unspecified primary osteoarthritis, right knee (Variant #1286)",Musculoskeletal,Moderate
+1287,J18.9.1287,"Pneumonia, unspecified organism (Variant #1287)",Respiratory,Severe
+1288,E11.9.1288,Type 2 diabetes mellitus without complications (Variant #1288),Endocrine,Moderate
+1289,J45.909.1289,"Unspecified asthma, uncomplicated (Variant #1289)",Respiratory,Moderate
+1290,M17.11.1290,"Unspecified primary osteoarthritis, right knee (Variant #1290)",Musculoskeletal,Moderate
+1291,J45.909.1291,"Unspecified asthma, uncomplicated (Variant #1291)",Respiratory,Moderate
+1292,I25.10.1292,Atherosclerotic heart disease of native coronary artery (Variant #1292),Cardiovascular,Severe
+1293,E78.5.1293,"Hyperlipidemia, unspecified (Variant #1293)",Endocrine,Mild
+1294,I25.10.1294,Atherosclerotic heart disease of native coronary artery (Variant #1294),Cardiovascular,Severe
+1295,M17.11.1295,"Unspecified primary osteoarthritis, right knee (Variant #1295)",Musculoskeletal,Moderate
+1296,I25.10.1296,Atherosclerotic heart disease of native coronary artery (Variant #1296),Cardiovascular,Severe
+1297,J45.909.1297,"Unspecified asthma, uncomplicated (Variant #1297)",Respiratory,Moderate
+1298,I10.1298,Essential (primary) hypertension (Variant #1298),Cardiovascular,Mild
+1299,R07.9.1299,"Chest pain, unspecified (Variant #1299)",Cardiovascular,Severe
+1300,M17.11.1300,"Unspecified primary osteoarthritis, right knee (Variant #1300)",Musculoskeletal,Moderate
+1301,F41.1.1301,Generalized anxiety disorder (Variant #1301),Mental Health,Moderate
+1302,N39.0.1302,"Urinary tract infection, site not specified (Variant #1302)",Urological,Moderate
+1303,E11.9.1303,Type 2 diabetes mellitus without complications (Variant #1303),Endocrine,Moderate
+1304,I10.1304,Essential (primary) hypertension (Variant #1304),Cardiovascular,Mild
+1305,J45.909.1305,"Unspecified asthma, uncomplicated (Variant #1305)",Respiratory,Moderate
+1306,E11.9.1306,Type 2 diabetes mellitus without complications (Variant #1306),Endocrine,Moderate
+1307,J06.9.1307,"Acute upper respiratory infection, unspecified (Variant #1307)",Respiratory,Mild
+1308,J18.9.1308,"Pneumonia, unspecified organism (Variant #1308)",Respiratory,Severe
+1309,E11.9.1309,Type 2 diabetes mellitus without complications (Variant #1309),Endocrine,Moderate
+1310,E78.5.1310,"Hyperlipidemia, unspecified (Variant #1310)",Endocrine,Mild
+1311,J45.909.1311,"Unspecified asthma, uncomplicated (Variant #1311)",Respiratory,Moderate
+1312,C34.90.1312,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1312),Oncology,Critical
+1313,G40.909.1313,"Epilepsy, unspecified, not intractable (Variant #1313)",Neurology,Severe
+1314,E78.5.1314,"Hyperlipidemia, unspecified (Variant #1314)",Endocrine,Mild
+1315,J18.9.1315,"Pneumonia, unspecified organism (Variant #1315)",Respiratory,Severe
+1316,C34.90.1316,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1316),Oncology,Critical
+1317,J06.9.1317,"Acute upper respiratory infection, unspecified (Variant #1317)",Respiratory,Mild
+1318,M54.5.1318,"Low back pain, unspecified (Variant #1318)",Musculoskeletal,Mild
+1319,I10.1319,Essential (primary) hypertension (Variant #1319),Cardiovascular,Mild
+1320,E78.5.1320,"Hyperlipidemia, unspecified (Variant #1320)",Endocrine,Mild
+1321,N39.0.1321,"Urinary tract infection, site not specified (Variant #1321)",Urological,Moderate
+1322,N39.0.1322,"Urinary tract infection, site not specified (Variant #1322)",Urological,Moderate
+1323,I10.1323,Essential (primary) hypertension (Variant #1323),Cardiovascular,Mild
+1324,I10.1324,Essential (primary) hypertension (Variant #1324),Cardiovascular,Mild
+1325,F41.1.1325,Generalized anxiety disorder (Variant #1325),Mental Health,Moderate
+1326,I10.1326,Essential (primary) hypertension (Variant #1326),Cardiovascular,Mild
+1327,R07.9.1327,"Chest pain, unspecified (Variant #1327)",Cardiovascular,Severe
+1328,M17.11.1328,"Unspecified primary osteoarthritis, right knee (Variant #1328)",Musculoskeletal,Moderate
+1329,M17.11.1329,"Unspecified primary osteoarthritis, right knee (Variant #1329)",Musculoskeletal,Moderate
+1330,I10.1330,Essential (primary) hypertension (Variant #1330),Cardiovascular,Mild
+1331,E78.5.1331,"Hyperlipidemia, unspecified (Variant #1331)",Endocrine,Mild
+1332,I25.10.1332,Atherosclerotic heart disease of native coronary artery (Variant #1332),Cardiovascular,Severe
+1333,J06.9.1333,"Acute upper respiratory infection, unspecified (Variant #1333)",Respiratory,Mild
+1334,J45.909.1334,"Unspecified asthma, uncomplicated (Variant #1334)",Respiratory,Moderate
+1335,I10.1335,Essential (primary) hypertension (Variant #1335),Cardiovascular,Mild
+1336,E11.9.1336,Type 2 diabetes mellitus without complications (Variant #1336),Endocrine,Moderate
+1337,J45.909.1337,"Unspecified asthma, uncomplicated (Variant #1337)",Respiratory,Moderate
+1338,C34.90.1338,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1338),Oncology,Critical
+1339,I10.1339,Essential (primary) hypertension (Variant #1339),Cardiovascular,Mild
+1340,J06.9.1340,"Acute upper respiratory infection, unspecified (Variant #1340)",Respiratory,Mild
+1341,E78.5.1341,"Hyperlipidemia, unspecified (Variant #1341)",Endocrine,Mild
+1342,J06.9.1342,"Acute upper respiratory infection, unspecified (Variant #1342)",Respiratory,Mild
+1343,C34.90.1343,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1343),Oncology,Critical
+1344,J18.9.1344,"Pneumonia, unspecified organism (Variant #1344)",Respiratory,Severe
+1345,F41.1.1345,Generalized anxiety disorder (Variant #1345),Mental Health,Moderate
+1346,E78.5.1346,"Hyperlipidemia, unspecified (Variant #1346)",Endocrine,Mild
+1347,C34.90.1347,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1347),Oncology,Critical
+1348,E78.5.1348,"Hyperlipidemia, unspecified (Variant #1348)",Endocrine,Mild
+1349,C34.90.1349,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1349),Oncology,Critical
+1350,E78.5.1350,"Hyperlipidemia, unspecified (Variant #1350)",Endocrine,Mild
+1351,E11.9.1351,Type 2 diabetes mellitus without complications (Variant #1351),Endocrine,Moderate
+1352,F41.1.1352,Generalized anxiety disorder (Variant #1352),Mental Health,Moderate
+1353,R07.9.1353,"Chest pain, unspecified (Variant #1353)",Cardiovascular,Severe
+1354,J18.9.1354,"Pneumonia, unspecified organism (Variant #1354)",Respiratory,Severe
+1355,I25.10.1355,Atherosclerotic heart disease of native coronary artery (Variant #1355),Cardiovascular,Severe
+1356,E78.5.1356,"Hyperlipidemia, unspecified (Variant #1356)",Endocrine,Mild
+1357,K21.9.1357,Gastro-esophageal reflux disease without esophagitis (Variant #1357),Gastrointestinal,Mild
+1358,E11.9.1358,Type 2 diabetes mellitus without complications (Variant #1358),Endocrine,Moderate
+1359,N39.0.1359,"Urinary tract infection, site not specified (Variant #1359)",Urological,Moderate
+1360,M54.5.1360,"Low back pain, unspecified (Variant #1360)",Musculoskeletal,Mild
+1361,I10.1361,Essential (primary) hypertension (Variant #1361),Cardiovascular,Mild
+1362,M17.11.1362,"Unspecified primary osteoarthritis, right knee (Variant #1362)",Musculoskeletal,Moderate
+1363,I25.10.1363,Atherosclerotic heart disease of native coronary artery (Variant #1363),Cardiovascular,Severe
+1364,R07.9.1364,"Chest pain, unspecified (Variant #1364)",Cardiovascular,Severe
+1365,E78.5.1365,"Hyperlipidemia, unspecified (Variant #1365)",Endocrine,Mild
+1366,C34.90.1366,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1366),Oncology,Critical
+1367,E11.9.1367,Type 2 diabetes mellitus without complications (Variant #1367),Endocrine,Moderate
+1368,I25.10.1368,Atherosclerotic heart disease of native coronary artery (Variant #1368),Cardiovascular,Severe
+1369,J45.909.1369,"Unspecified asthma, uncomplicated (Variant #1369)",Respiratory,Moderate
+1370,E78.5.1370,"Hyperlipidemia, unspecified (Variant #1370)",Endocrine,Mild
+1371,E11.9.1371,Type 2 diabetes mellitus without complications (Variant #1371),Endocrine,Moderate
+1372,I25.10.1372,Atherosclerotic heart disease of native coronary artery (Variant #1372),Cardiovascular,Severe
+1373,F41.1.1373,Generalized anxiety disorder (Variant #1373),Mental Health,Moderate
+1374,C34.90.1374,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1374),Oncology,Critical
+1375,R07.9.1375,"Chest pain, unspecified (Variant #1375)",Cardiovascular,Severe
+1376,J45.909.1376,"Unspecified asthma, uncomplicated (Variant #1376)",Respiratory,Moderate
+1377,J45.909.1377,"Unspecified asthma, uncomplicated (Variant #1377)",Respiratory,Moderate
+1378,J18.9.1378,"Pneumonia, unspecified organism (Variant #1378)",Respiratory,Severe
+1379,E78.5.1379,"Hyperlipidemia, unspecified (Variant #1379)",Endocrine,Mild
+1380,C34.90.1380,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1380),Oncology,Critical
+1381,C34.90.1381,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1381),Oncology,Critical
+1382,K21.9.1382,Gastro-esophageal reflux disease without esophagitis (Variant #1382),Gastrointestinal,Mild
+1383,N39.0.1383,"Urinary tract infection, site not specified (Variant #1383)",Urological,Moderate
+1384,I25.10.1384,Atherosclerotic heart disease of native coronary artery (Variant #1384),Cardiovascular,Severe
+1385,J18.9.1385,"Pneumonia, unspecified organism (Variant #1385)",Respiratory,Severe
+1386,I10.1386,Essential (primary) hypertension (Variant #1386),Cardiovascular,Mild
+1387,E11.9.1387,Type 2 diabetes mellitus without complications (Variant #1387),Endocrine,Moderate
+1388,N39.0.1388,"Urinary tract infection, site not specified (Variant #1388)",Urological,Moderate
+1389,J18.9.1389,"Pneumonia, unspecified organism (Variant #1389)",Respiratory,Severe
+1390,I10.1390,Essential (primary) hypertension (Variant #1390),Cardiovascular,Mild
+1391,J18.9.1391,"Pneumonia, unspecified organism (Variant #1391)",Respiratory,Severe
+1392,F41.1.1392,Generalized anxiety disorder (Variant #1392),Mental Health,Moderate
+1393,J45.909.1393,"Unspecified asthma, uncomplicated (Variant #1393)",Respiratory,Moderate
+1394,R07.9.1394,"Chest pain, unspecified (Variant #1394)",Cardiovascular,Severe
+1395,K21.9.1395,Gastro-esophageal reflux disease without esophagitis (Variant #1395),Gastrointestinal,Mild
+1396,J18.9.1396,"Pneumonia, unspecified organism (Variant #1396)",Respiratory,Severe
+1397,M54.5.1397,"Low back pain, unspecified (Variant #1397)",Musculoskeletal,Mild
+1398,I25.10.1398,Atherosclerotic heart disease of native coronary artery (Variant #1398),Cardiovascular,Severe
+1399,M17.11.1399,"Unspecified primary osteoarthritis, right knee (Variant #1399)",Musculoskeletal,Moderate
+1400,J06.9.1400,"Acute upper respiratory infection, unspecified (Variant #1400)",Respiratory,Mild
+1401,R07.9.1401,"Chest pain, unspecified (Variant #1401)",Cardiovascular,Severe
+1402,M17.11.1402,"Unspecified primary osteoarthritis, right knee (Variant #1402)",Musculoskeletal,Moderate
+1403,I10.1403,Essential (primary) hypertension (Variant #1403),Cardiovascular,Mild
+1404,I25.10.1404,Atherosclerotic heart disease of native coronary artery (Variant #1404),Cardiovascular,Severe
+1405,N39.0.1405,"Urinary tract infection, site not specified (Variant #1405)",Urological,Moderate
+1406,I25.10.1406,Atherosclerotic heart disease of native coronary artery (Variant #1406),Cardiovascular,Severe
+1407,J45.909.1407,"Unspecified asthma, uncomplicated (Variant #1407)",Respiratory,Moderate
+1408,K21.9.1408,Gastro-esophageal reflux disease without esophagitis (Variant #1408),Gastrointestinal,Mild
+1409,C34.90.1409,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1409),Oncology,Critical
+1410,C34.90.1410,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1410),Oncology,Critical
+1411,E11.9.1411,Type 2 diabetes mellitus without complications (Variant #1411),Endocrine,Moderate
+1412,M54.5.1412,"Low back pain, unspecified (Variant #1412)",Musculoskeletal,Mild
+1413,R07.9.1413,"Chest pain, unspecified (Variant #1413)",Cardiovascular,Severe
+1414,F41.1.1414,Generalized anxiety disorder (Variant #1414),Mental Health,Moderate
+1415,J06.9.1415,"Acute upper respiratory infection, unspecified (Variant #1415)",Respiratory,Mild
+1416,J06.9.1416,"Acute upper respiratory infection, unspecified (Variant #1416)",Respiratory,Mild
+1417,R07.9.1417,"Chest pain, unspecified (Variant #1417)",Cardiovascular,Severe
+1418,K21.9.1418,Gastro-esophageal reflux disease without esophagitis (Variant #1418),Gastrointestinal,Mild
+1419,J45.909.1419,"Unspecified asthma, uncomplicated (Variant #1419)",Respiratory,Moderate
+1420,I25.10.1420,Atherosclerotic heart disease of native coronary artery (Variant #1420),Cardiovascular,Severe
+1421,K21.9.1421,Gastro-esophageal reflux disease without esophagitis (Variant #1421),Gastrointestinal,Mild
+1422,J45.909.1422,"Unspecified asthma, uncomplicated (Variant #1422)",Respiratory,Moderate
+1423,R07.9.1423,"Chest pain, unspecified (Variant #1423)",Cardiovascular,Severe
+1424,F41.1.1424,Generalized anxiety disorder (Variant #1424),Mental Health,Moderate
+1425,F41.1.1425,Generalized anxiety disorder (Variant #1425),Mental Health,Moderate
+1426,E78.5.1426,"Hyperlipidemia, unspecified (Variant #1426)",Endocrine,Mild
+1427,J06.9.1427,"Acute upper respiratory infection, unspecified (Variant #1427)",Respiratory,Mild
+1428,G40.909.1428,"Epilepsy, unspecified, not intractable (Variant #1428)",Neurology,Severe
+1429,I25.10.1429,Atherosclerotic heart disease of native coronary artery (Variant #1429),Cardiovascular,Severe
+1430,M17.11.1430,"Unspecified primary osteoarthritis, right knee (Variant #1430)",Musculoskeletal,Moderate
+1431,M17.11.1431,"Unspecified primary osteoarthritis, right knee (Variant #1431)",Musculoskeletal,Moderate
+1432,C34.90.1432,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1432),Oncology,Critical
+1433,C34.90.1433,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1433),Oncology,Critical
+1434,E78.5.1434,"Hyperlipidemia, unspecified (Variant #1434)",Endocrine,Mild
+1435,I10.1435,Essential (primary) hypertension (Variant #1435),Cardiovascular,Mild
+1436,C34.90.1436,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1436),Oncology,Critical
+1437,J18.9.1437,"Pneumonia, unspecified organism (Variant #1437)",Respiratory,Severe
+1438,E11.9.1438,Type 2 diabetes mellitus without complications (Variant #1438),Endocrine,Moderate
+1439,G40.909.1439,"Epilepsy, unspecified, not intractable (Variant #1439)",Neurology,Severe
+1440,I25.10.1440,Atherosclerotic heart disease of native coronary artery (Variant #1440),Cardiovascular,Severe
+1441,J06.9.1441,"Acute upper respiratory infection, unspecified (Variant #1441)",Respiratory,Mild
+1442,E78.5.1442,"Hyperlipidemia, unspecified (Variant #1442)",Endocrine,Mild
+1443,N39.0.1443,"Urinary tract infection, site not specified (Variant #1443)",Urological,Moderate
+1444,R07.9.1444,"Chest pain, unspecified (Variant #1444)",Cardiovascular,Severe
+1445,I10.1445,Essential (primary) hypertension (Variant #1445),Cardiovascular,Mild
+1446,E78.5.1446,"Hyperlipidemia, unspecified (Variant #1446)",Endocrine,Mild
+1447,R07.9.1447,"Chest pain, unspecified (Variant #1447)",Cardiovascular,Severe
+1448,G40.909.1448,"Epilepsy, unspecified, not intractable (Variant #1448)",Neurology,Severe
+1449,I25.10.1449,Atherosclerotic heart disease of native coronary artery (Variant #1449),Cardiovascular,Severe
+1450,E78.5.1450,"Hyperlipidemia, unspecified (Variant #1450)",Endocrine,Mild
+1451,I10.1451,Essential (primary) hypertension (Variant #1451),Cardiovascular,Mild
+1452,I10.1452,Essential (primary) hypertension (Variant #1452),Cardiovascular,Mild
+1453,K21.9.1453,Gastro-esophageal reflux disease without esophagitis (Variant #1453),Gastrointestinal,Mild
+1454,J18.9.1454,"Pneumonia, unspecified organism (Variant #1454)",Respiratory,Severe
+1455,C34.90.1455,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1455),Oncology,Critical
+1456,F41.1.1456,Generalized anxiety disorder (Variant #1456),Mental Health,Moderate
+1457,J18.9.1457,"Pneumonia, unspecified organism (Variant #1457)",Respiratory,Severe
+1458,R07.9.1458,"Chest pain, unspecified (Variant #1458)",Cardiovascular,Severe
+1459,J45.909.1459,"Unspecified asthma, uncomplicated (Variant #1459)",Respiratory,Moderate
+1460,M17.11.1460,"Unspecified primary osteoarthritis, right knee (Variant #1460)",Musculoskeletal,Moderate
+1461,E11.9.1461,Type 2 diabetes mellitus without complications (Variant #1461),Endocrine,Moderate
+1462,K21.9.1462,Gastro-esophageal reflux disease without esophagitis (Variant #1462),Gastrointestinal,Mild
+1463,M54.5.1463,"Low back pain, unspecified (Variant #1463)",Musculoskeletal,Mild
+1464,E11.9.1464,Type 2 diabetes mellitus without complications (Variant #1464),Endocrine,Moderate
+1465,J45.909.1465,"Unspecified asthma, uncomplicated (Variant #1465)",Respiratory,Moderate
+1466,J45.909.1466,"Unspecified asthma, uncomplicated (Variant #1466)",Respiratory,Moderate
+1467,J06.9.1467,"Acute upper respiratory infection, unspecified (Variant #1467)",Respiratory,Mild
+1468,E11.9.1468,Type 2 diabetes mellitus without complications (Variant #1468),Endocrine,Moderate
+1469,E11.9.1469,Type 2 diabetes mellitus without complications (Variant #1469),Endocrine,Moderate
+1470,M54.5.1470,"Low back pain, unspecified (Variant #1470)",Musculoskeletal,Mild
+1471,K21.9.1471,Gastro-esophageal reflux disease without esophagitis (Variant #1471),Gastrointestinal,Mild
+1472,I10.1472,Essential (primary) hypertension (Variant #1472),Cardiovascular,Mild
+1473,M54.5.1473,"Low back pain, unspecified (Variant #1473)",Musculoskeletal,Mild
+1474,M17.11.1474,"Unspecified primary osteoarthritis, right knee (Variant #1474)",Musculoskeletal,Moderate
+1475,J06.9.1475,"Acute upper respiratory infection, unspecified (Variant #1475)",Respiratory,Mild
+1476,E78.5.1476,"Hyperlipidemia, unspecified (Variant #1476)",Endocrine,Mild
+1477,N39.0.1477,"Urinary tract infection, site not specified (Variant #1477)",Urological,Moderate
+1478,M54.5.1478,"Low back pain, unspecified (Variant #1478)",Musculoskeletal,Mild
+1479,F41.1.1479,Generalized anxiety disorder (Variant #1479),Mental Health,Moderate
+1480,E11.9.1480,Type 2 diabetes mellitus without complications (Variant #1480),Endocrine,Moderate
+1481,E78.5.1481,"Hyperlipidemia, unspecified (Variant #1481)",Endocrine,Mild
+1482,M54.5.1482,"Low back pain, unspecified (Variant #1482)",Musculoskeletal,Mild
+1483,I25.10.1483,Atherosclerotic heart disease of native coronary artery (Variant #1483),Cardiovascular,Severe
+1484,M17.11.1484,"Unspecified primary osteoarthritis, right knee (Variant #1484)",Musculoskeletal,Moderate
+1485,M17.11.1485,"Unspecified primary osteoarthritis, right knee (Variant #1485)",Musculoskeletal,Moderate
+1486,N39.0.1486,"Urinary tract infection, site not specified (Variant #1486)",Urological,Moderate
+1487,M17.11.1487,"Unspecified primary osteoarthritis, right knee (Variant #1487)",Musculoskeletal,Moderate
+1488,M54.5.1488,"Low back pain, unspecified (Variant #1488)",Musculoskeletal,Mild
+1489,I10.1489,Essential (primary) hypertension (Variant #1489),Cardiovascular,Mild
+1490,F41.1.1490,Generalized anxiety disorder (Variant #1490),Mental Health,Moderate
+1491,M54.5.1491,"Low back pain, unspecified (Variant #1491)",Musculoskeletal,Mild
+1492,M17.11.1492,"Unspecified primary osteoarthritis, right knee (Variant #1492)",Musculoskeletal,Moderate
+1493,J45.909.1493,"Unspecified asthma, uncomplicated (Variant #1493)",Respiratory,Moderate
+1494,J18.9.1494,"Pneumonia, unspecified organism (Variant #1494)",Respiratory,Severe
+1495,M17.11.1495,"Unspecified primary osteoarthritis, right knee (Variant #1495)",Musculoskeletal,Moderate
+1496,J18.9.1496,"Pneumonia, unspecified organism (Variant #1496)",Respiratory,Severe
+1497,C34.90.1497,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1497),Oncology,Critical
+1498,I25.10.1498,Atherosclerotic heart disease of native coronary artery (Variant #1498),Cardiovascular,Severe
+1499,K21.9.1499,Gastro-esophageal reflux disease without esophagitis (Variant #1499),Gastrointestinal,Mild
+1500,I10.1500,Essential (primary) hypertension (Variant #1500),Cardiovascular,Mild
+1501,E78.5.1501,"Hyperlipidemia, unspecified (Variant #1501)",Endocrine,Mild
+1502,I10.1502,Essential (primary) hypertension (Variant #1502),Cardiovascular,Mild
+1503,E11.9.1503,Type 2 diabetes mellitus without complications (Variant #1503),Endocrine,Moderate
+1504,J18.9.1504,"Pneumonia, unspecified organism (Variant #1504)",Respiratory,Severe
+1505,J06.9.1505,"Acute upper respiratory infection, unspecified (Variant #1505)",Respiratory,Mild
+1506,E11.9.1506,Type 2 diabetes mellitus without complications (Variant #1506),Endocrine,Moderate
+1507,R07.9.1507,"Chest pain, unspecified (Variant #1507)",Cardiovascular,Severe
+1508,E11.9.1508,Type 2 diabetes mellitus without complications (Variant #1508),Endocrine,Moderate
+1509,M54.5.1509,"Low back pain, unspecified (Variant #1509)",Musculoskeletal,Mild
+1510,M54.5.1510,"Low back pain, unspecified (Variant #1510)",Musculoskeletal,Mild
+1511,N39.0.1511,"Urinary tract infection, site not specified (Variant #1511)",Urological,Moderate
+1512,G40.909.1512,"Epilepsy, unspecified, not intractable (Variant #1512)",Neurology,Severe
+1513,J18.9.1513,"Pneumonia, unspecified organism (Variant #1513)",Respiratory,Severe
+1514,J18.9.1514,"Pneumonia, unspecified organism (Variant #1514)",Respiratory,Severe
+1515,I10.1515,Essential (primary) hypertension (Variant #1515),Cardiovascular,Mild
+1516,J45.909.1516,"Unspecified asthma, uncomplicated (Variant #1516)",Respiratory,Moderate
+1517,K21.9.1517,Gastro-esophageal reflux disease without esophagitis (Variant #1517),Gastrointestinal,Mild
+1518,M54.5.1518,"Low back pain, unspecified (Variant #1518)",Musculoskeletal,Mild
+1519,I25.10.1519,Atherosclerotic heart disease of native coronary artery (Variant #1519),Cardiovascular,Severe
+1520,I25.10.1520,Atherosclerotic heart disease of native coronary artery (Variant #1520),Cardiovascular,Severe
+1521,E78.5.1521,"Hyperlipidemia, unspecified (Variant #1521)",Endocrine,Mild
+1522,E78.5.1522,"Hyperlipidemia, unspecified (Variant #1522)",Endocrine,Mild
+1523,M54.5.1523,"Low back pain, unspecified (Variant #1523)",Musculoskeletal,Mild
+1524,I25.10.1524,Atherosclerotic heart disease of native coronary artery (Variant #1524),Cardiovascular,Severe
+1525,C34.90.1525,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1525),Oncology,Critical
+1526,J18.9.1526,"Pneumonia, unspecified organism (Variant #1526)",Respiratory,Severe
+1527,E78.5.1527,"Hyperlipidemia, unspecified (Variant #1527)",Endocrine,Mild
+1528,G40.909.1528,"Epilepsy, unspecified, not intractable (Variant #1528)",Neurology,Severe
+1529,M17.11.1529,"Unspecified primary osteoarthritis, right knee (Variant #1529)",Musculoskeletal,Moderate
+1530,J06.9.1530,"Acute upper respiratory infection, unspecified (Variant #1530)",Respiratory,Mild
+1531,E78.5.1531,"Hyperlipidemia, unspecified (Variant #1531)",Endocrine,Mild
+1532,C34.90.1532,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1532),Oncology,Critical
+1533,N39.0.1533,"Urinary tract infection, site not specified (Variant #1533)",Urological,Moderate
+1534,F41.1.1534,Generalized anxiety disorder (Variant #1534),Mental Health,Moderate
+1535,K21.9.1535,Gastro-esophageal reflux disease without esophagitis (Variant #1535),Gastrointestinal,Mild
+1536,J06.9.1536,"Acute upper respiratory infection, unspecified (Variant #1536)",Respiratory,Mild
+1537,F41.1.1537,Generalized anxiety disorder (Variant #1537),Mental Health,Moderate
+1538,J06.9.1538,"Acute upper respiratory infection, unspecified (Variant #1538)",Respiratory,Mild
+1539,J06.9.1539,"Acute upper respiratory infection, unspecified (Variant #1539)",Respiratory,Mild
+1540,I25.10.1540,Atherosclerotic heart disease of native coronary artery (Variant #1540),Cardiovascular,Severe
+1541,R07.9.1541,"Chest pain, unspecified (Variant #1541)",Cardiovascular,Severe
+1542,N39.0.1542,"Urinary tract infection, site not specified (Variant #1542)",Urological,Moderate
+1543,J06.9.1543,"Acute upper respiratory infection, unspecified (Variant #1543)",Respiratory,Mild
+1544,E11.9.1544,Type 2 diabetes mellitus without complications (Variant #1544),Endocrine,Moderate
+1545,M17.11.1545,"Unspecified primary osteoarthritis, right knee (Variant #1545)",Musculoskeletal,Moderate
+1546,E78.5.1546,"Hyperlipidemia, unspecified (Variant #1546)",Endocrine,Mild
+1547,J06.9.1547,"Acute upper respiratory infection, unspecified (Variant #1547)",Respiratory,Mild
+1548,M54.5.1548,"Low back pain, unspecified (Variant #1548)",Musculoskeletal,Mild
+1549,E78.5.1549,"Hyperlipidemia, unspecified (Variant #1549)",Endocrine,Mild
+1550,J18.9.1550,"Pneumonia, unspecified organism (Variant #1550)",Respiratory,Severe
+1551,M17.11.1551,"Unspecified primary osteoarthritis, right knee (Variant #1551)",Musculoskeletal,Moderate
+1552,I10.1552,Essential (primary) hypertension (Variant #1552),Cardiovascular,Mild
+1553,E78.5.1553,"Hyperlipidemia, unspecified (Variant #1553)",Endocrine,Mild
+1554,N39.0.1554,"Urinary tract infection, site not specified (Variant #1554)",Urological,Moderate
+1555,M54.5.1555,"Low back pain, unspecified (Variant #1555)",Musculoskeletal,Mild
+1556,E11.9.1556,Type 2 diabetes mellitus without complications (Variant #1556),Endocrine,Moderate
+1557,J18.9.1557,"Pneumonia, unspecified organism (Variant #1557)",Respiratory,Severe
+1558,E11.9.1558,Type 2 diabetes mellitus without complications (Variant #1558),Endocrine,Moderate
+1559,E11.9.1559,Type 2 diabetes mellitus without complications (Variant #1559),Endocrine,Moderate
+1560,J06.9.1560,"Acute upper respiratory infection, unspecified (Variant #1560)",Respiratory,Mild
+1561,C34.90.1561,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1561),Oncology,Critical
+1562,G40.909.1562,"Epilepsy, unspecified, not intractable (Variant #1562)",Neurology,Severe
+1563,J06.9.1563,"Acute upper respiratory infection, unspecified (Variant #1563)",Respiratory,Mild
+1564,J06.9.1564,"Acute upper respiratory infection, unspecified (Variant #1564)",Respiratory,Mild
+1565,F41.1.1565,Generalized anxiety disorder (Variant #1565),Mental Health,Moderate
+1566,K21.9.1566,Gastro-esophageal reflux disease without esophagitis (Variant #1566),Gastrointestinal,Mild
+1567,J45.909.1567,"Unspecified asthma, uncomplicated (Variant #1567)",Respiratory,Moderate
+1568,R07.9.1568,"Chest pain, unspecified (Variant #1568)",Cardiovascular,Severe
+1569,E11.9.1569,Type 2 diabetes mellitus without complications (Variant #1569),Endocrine,Moderate
+1570,M54.5.1570,"Low back pain, unspecified (Variant #1570)",Musculoskeletal,Mild
+1571,E11.9.1571,Type 2 diabetes mellitus without complications (Variant #1571),Endocrine,Moderate
+1572,E11.9.1572,Type 2 diabetes mellitus without complications (Variant #1572),Endocrine,Moderate
+1573,I10.1573,Essential (primary) hypertension (Variant #1573),Cardiovascular,Mild
+1574,F41.1.1574,Generalized anxiety disorder (Variant #1574),Mental Health,Moderate
+1575,M54.5.1575,"Low back pain, unspecified (Variant #1575)",Musculoskeletal,Mild
+1576,I10.1576,Essential (primary) hypertension (Variant #1576),Cardiovascular,Mild
+1577,E78.5.1577,"Hyperlipidemia, unspecified (Variant #1577)",Endocrine,Mild
+1578,C34.90.1578,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1578),Oncology,Critical
+1579,R07.9.1579,"Chest pain, unspecified (Variant #1579)",Cardiovascular,Severe
+1580,J06.9.1580,"Acute upper respiratory infection, unspecified (Variant #1580)",Respiratory,Mild
+1581,G40.909.1581,"Epilepsy, unspecified, not intractable (Variant #1581)",Neurology,Severe
+1582,F41.1.1582,Generalized anxiety disorder (Variant #1582),Mental Health,Moderate
+1583,I25.10.1583,Atherosclerotic heart disease of native coronary artery (Variant #1583),Cardiovascular,Severe
+1584,J18.9.1584,"Pneumonia, unspecified organism (Variant #1584)",Respiratory,Severe
+1585,I10.1585,Essential (primary) hypertension (Variant #1585),Cardiovascular,Mild
+1586,I25.10.1586,Atherosclerotic heart disease of native coronary artery (Variant #1586),Cardiovascular,Severe
+1587,I25.10.1587,Atherosclerotic heart disease of native coronary artery (Variant #1587),Cardiovascular,Severe
+1588,I25.10.1588,Atherosclerotic heart disease of native coronary artery (Variant #1588),Cardiovascular,Severe
+1589,K21.9.1589,Gastro-esophageal reflux disease without esophagitis (Variant #1589),Gastrointestinal,Mild
+1590,K21.9.1590,Gastro-esophageal reflux disease without esophagitis (Variant #1590),Gastrointestinal,Mild
+1591,E78.5.1591,"Hyperlipidemia, unspecified (Variant #1591)",Endocrine,Mild
+1592,I10.1592,Essential (primary) hypertension (Variant #1592),Cardiovascular,Mild
+1593,E78.5.1593,"Hyperlipidemia, unspecified (Variant #1593)",Endocrine,Mild
+1594,C34.90.1594,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1594),Oncology,Critical
+1595,N39.0.1595,"Urinary tract infection, site not specified (Variant #1595)",Urological,Moderate
+1596,N39.0.1596,"Urinary tract infection, site not specified (Variant #1596)",Urological,Moderate
+1597,M17.11.1597,"Unspecified primary osteoarthritis, right knee (Variant #1597)",Musculoskeletal,Moderate
+1598,I10.1598,Essential (primary) hypertension (Variant #1598),Cardiovascular,Mild
+1599,J18.9.1599,"Pneumonia, unspecified organism (Variant #1599)",Respiratory,Severe
+1600,J06.9.1600,"Acute upper respiratory infection, unspecified (Variant #1600)",Respiratory,Mild
+1601,M54.5.1601,"Low back pain, unspecified (Variant #1601)",Musculoskeletal,Mild
+1602,I25.10.1602,Atherosclerotic heart disease of native coronary artery (Variant #1602),Cardiovascular,Severe
+1603,E11.9.1603,Type 2 diabetes mellitus without complications (Variant #1603),Endocrine,Moderate
+1604,M17.11.1604,"Unspecified primary osteoarthritis, right knee (Variant #1604)",Musculoskeletal,Moderate
+1605,E11.9.1605,Type 2 diabetes mellitus without complications (Variant #1605),Endocrine,Moderate
+1606,E78.5.1606,"Hyperlipidemia, unspecified (Variant #1606)",Endocrine,Mild
+1607,M54.5.1607,"Low back pain, unspecified (Variant #1607)",Musculoskeletal,Mild
+1608,M17.11.1608,"Unspecified primary osteoarthritis, right knee (Variant #1608)",Musculoskeletal,Moderate
+1609,N39.0.1609,"Urinary tract infection, site not specified (Variant #1609)",Urological,Moderate
+1610,M17.11.1610,"Unspecified primary osteoarthritis, right knee (Variant #1610)",Musculoskeletal,Moderate
+1611,E11.9.1611,Type 2 diabetes mellitus without complications (Variant #1611),Endocrine,Moderate
+1612,M17.11.1612,"Unspecified primary osteoarthritis, right knee (Variant #1612)",Musculoskeletal,Moderate
+1613,J45.909.1613,"Unspecified asthma, uncomplicated (Variant #1613)",Respiratory,Moderate
+1614,I10.1614,Essential (primary) hypertension (Variant #1614),Cardiovascular,Mild
+1615,J45.909.1615,"Unspecified asthma, uncomplicated (Variant #1615)",Respiratory,Moderate
+1616,M54.5.1616,"Low back pain, unspecified (Variant #1616)",Musculoskeletal,Mild
+1617,G40.909.1617,"Epilepsy, unspecified, not intractable (Variant #1617)",Neurology,Severe
+1618,R07.9.1618,"Chest pain, unspecified (Variant #1618)",Cardiovascular,Severe
+1619,E11.9.1619,Type 2 diabetes mellitus without complications (Variant #1619),Endocrine,Moderate
+1620,R07.9.1620,"Chest pain, unspecified (Variant #1620)",Cardiovascular,Severe
+1621,M54.5.1621,"Low back pain, unspecified (Variant #1621)",Musculoskeletal,Mild
+1622,I25.10.1622,Atherosclerotic heart disease of native coronary artery (Variant #1622),Cardiovascular,Severe
+1623,F41.1.1623,Generalized anxiety disorder (Variant #1623),Mental Health,Moderate
+1624,E78.5.1624,"Hyperlipidemia, unspecified (Variant #1624)",Endocrine,Mild
+1625,R07.9.1625,"Chest pain, unspecified (Variant #1625)",Cardiovascular,Severe
+1626,F41.1.1626,Generalized anxiety disorder (Variant #1626),Mental Health,Moderate
+1627,J45.909.1627,"Unspecified asthma, uncomplicated (Variant #1627)",Respiratory,Moderate
+1628,I10.1628,Essential (primary) hypertension (Variant #1628),Cardiovascular,Mild
+1629,G40.909.1629,"Epilepsy, unspecified, not intractable (Variant #1629)",Neurology,Severe
+1630,M54.5.1630,"Low back pain, unspecified (Variant #1630)",Musculoskeletal,Mild
+1631,I25.10.1631,Atherosclerotic heart disease of native coronary artery (Variant #1631),Cardiovascular,Severe
+1632,G40.909.1632,"Epilepsy, unspecified, not intractable (Variant #1632)",Neurology,Severe
+1633,R07.9.1633,"Chest pain, unspecified (Variant #1633)",Cardiovascular,Severe
+1634,G40.909.1634,"Epilepsy, unspecified, not intractable (Variant #1634)",Neurology,Severe
+1635,C34.90.1635,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1635),Oncology,Critical
+1636,M54.5.1636,"Low back pain, unspecified (Variant #1636)",Musculoskeletal,Mild
+1637,F41.1.1637,Generalized anxiety disorder (Variant #1637),Mental Health,Moderate
+1638,I25.10.1638,Atherosclerotic heart disease of native coronary artery (Variant #1638),Cardiovascular,Severe
+1639,R07.9.1639,"Chest pain, unspecified (Variant #1639)",Cardiovascular,Severe
+1640,G40.909.1640,"Epilepsy, unspecified, not intractable (Variant #1640)",Neurology,Severe
+1641,M54.5.1641,"Low back pain, unspecified (Variant #1641)",Musculoskeletal,Mild
+1642,F41.1.1642,Generalized anxiety disorder (Variant #1642),Mental Health,Moderate
+1643,I25.10.1643,Atherosclerotic heart disease of native coronary artery (Variant #1643),Cardiovascular,Severe
+1644,E78.5.1644,"Hyperlipidemia, unspecified (Variant #1644)",Endocrine,Mild
+1645,M54.5.1645,"Low back pain, unspecified (Variant #1645)",Musculoskeletal,Mild
+1646,K21.9.1646,Gastro-esophageal reflux disease without esophagitis (Variant #1646),Gastrointestinal,Mild
+1647,J18.9.1647,"Pneumonia, unspecified organism (Variant #1647)",Respiratory,Severe
+1648,J18.9.1648,"Pneumonia, unspecified organism (Variant #1648)",Respiratory,Severe
+1649,I10.1649,Essential (primary) hypertension (Variant #1649),Cardiovascular,Mild
+1650,E78.5.1650,"Hyperlipidemia, unspecified (Variant #1650)",Endocrine,Mild
+1651,K21.9.1651,Gastro-esophageal reflux disease without esophagitis (Variant #1651),Gastrointestinal,Mild
+1652,J06.9.1652,"Acute upper respiratory infection, unspecified (Variant #1652)",Respiratory,Mild
+1653,J18.9.1653,"Pneumonia, unspecified organism (Variant #1653)",Respiratory,Severe
+1654,I25.10.1654,Atherosclerotic heart disease of native coronary artery (Variant #1654),Cardiovascular,Severe
+1655,J06.9.1655,"Acute upper respiratory infection, unspecified (Variant #1655)",Respiratory,Mild
+1656,E78.5.1656,"Hyperlipidemia, unspecified (Variant #1656)",Endocrine,Mild
+1657,E11.9.1657,Type 2 diabetes mellitus without complications (Variant #1657),Endocrine,Moderate
+1658,M17.11.1658,"Unspecified primary osteoarthritis, right knee (Variant #1658)",Musculoskeletal,Moderate
+1659,J18.9.1659,"Pneumonia, unspecified organism (Variant #1659)",Respiratory,Severe
+1660,M17.11.1660,"Unspecified primary osteoarthritis, right knee (Variant #1660)",Musculoskeletal,Moderate
+1661,I25.10.1661,Atherosclerotic heart disease of native coronary artery (Variant #1661),Cardiovascular,Severe
+1662,K21.9.1662,Gastro-esophageal reflux disease without esophagitis (Variant #1662),Gastrointestinal,Mild
+1663,J45.909.1663,"Unspecified asthma, uncomplicated (Variant #1663)",Respiratory,Moderate
+1664,J45.909.1664,"Unspecified asthma, uncomplicated (Variant #1664)",Respiratory,Moderate
+1665,E78.5.1665,"Hyperlipidemia, unspecified (Variant #1665)",Endocrine,Mild
+1666,J45.909.1666,"Unspecified asthma, uncomplicated (Variant #1666)",Respiratory,Moderate
+1667,K21.9.1667,Gastro-esophageal reflux disease without esophagitis (Variant #1667),Gastrointestinal,Mild
+1668,J18.9.1668,"Pneumonia, unspecified organism (Variant #1668)",Respiratory,Severe
+1669,I25.10.1669,Atherosclerotic heart disease of native coronary artery (Variant #1669),Cardiovascular,Severe
+1670,K21.9.1670,Gastro-esophageal reflux disease without esophagitis (Variant #1670),Gastrointestinal,Mild
+1671,K21.9.1671,Gastro-esophageal reflux disease without esophagitis (Variant #1671),Gastrointestinal,Mild
+1672,F41.1.1672,Generalized anxiety disorder (Variant #1672),Mental Health,Moderate
+1673,G40.909.1673,"Epilepsy, unspecified, not intractable (Variant #1673)",Neurology,Severe
+1674,I10.1674,Essential (primary) hypertension (Variant #1674),Cardiovascular,Mild
+1675,R07.9.1675,"Chest pain, unspecified (Variant #1675)",Cardiovascular,Severe
+1676,G40.909.1676,"Epilepsy, unspecified, not intractable (Variant #1676)",Neurology,Severe
+1677,R07.9.1677,"Chest pain, unspecified (Variant #1677)",Cardiovascular,Severe
+1678,J45.909.1678,"Unspecified asthma, uncomplicated (Variant #1678)",Respiratory,Moderate
+1679,I25.10.1679,Atherosclerotic heart disease of native coronary artery (Variant #1679),Cardiovascular,Severe
+1680,G40.909.1680,"Epilepsy, unspecified, not intractable (Variant #1680)",Neurology,Severe
+1681,R07.9.1681,"Chest pain, unspecified (Variant #1681)",Cardiovascular,Severe
+1682,N39.0.1682,"Urinary tract infection, site not specified (Variant #1682)",Urological,Moderate
+1683,R07.9.1683,"Chest pain, unspecified (Variant #1683)",Cardiovascular,Severe
+1684,J06.9.1684,"Acute upper respiratory infection, unspecified (Variant #1684)",Respiratory,Mild
+1685,J45.909.1685,"Unspecified asthma, uncomplicated (Variant #1685)",Respiratory,Moderate
+1686,C34.90.1686,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1686),Oncology,Critical
+1687,R07.9.1687,"Chest pain, unspecified (Variant #1687)",Cardiovascular,Severe
+1688,R07.9.1688,"Chest pain, unspecified (Variant #1688)",Cardiovascular,Severe
+1689,M54.5.1689,"Low back pain, unspecified (Variant #1689)",Musculoskeletal,Mild
+1690,E11.9.1690,Type 2 diabetes mellitus without complications (Variant #1690),Endocrine,Moderate
+1691,J45.909.1691,"Unspecified asthma, uncomplicated (Variant #1691)",Respiratory,Moderate
+1692,J45.909.1692,"Unspecified asthma, uncomplicated (Variant #1692)",Respiratory,Moderate
+1693,J45.909.1693,"Unspecified asthma, uncomplicated (Variant #1693)",Respiratory,Moderate
+1694,J18.9.1694,"Pneumonia, unspecified organism (Variant #1694)",Respiratory,Severe
+1695,C34.90.1695,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1695),Oncology,Critical
+1696,F41.1.1696,Generalized anxiety disorder (Variant #1696),Mental Health,Moderate
+1697,G40.909.1697,"Epilepsy, unspecified, not intractable (Variant #1697)",Neurology,Severe
+1698,C34.90.1698,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1698),Oncology,Critical
+1699,N39.0.1699,"Urinary tract infection, site not specified (Variant #1699)",Urological,Moderate
+1700,E78.5.1700,"Hyperlipidemia, unspecified (Variant #1700)",Endocrine,Mild
+1701,E78.5.1701,"Hyperlipidemia, unspecified (Variant #1701)",Endocrine,Mild
+1702,M17.11.1702,"Unspecified primary osteoarthritis, right knee (Variant #1702)",Musculoskeletal,Moderate
+1703,C34.90.1703,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1703),Oncology,Critical
+1704,E78.5.1704,"Hyperlipidemia, unspecified (Variant #1704)",Endocrine,Mild
+1705,G40.909.1705,"Epilepsy, unspecified, not intractable (Variant #1705)",Neurology,Severe
+1706,R07.9.1706,"Chest pain, unspecified (Variant #1706)",Cardiovascular,Severe
+1707,R07.9.1707,"Chest pain, unspecified (Variant #1707)",Cardiovascular,Severe
+1708,G40.909.1708,"Epilepsy, unspecified, not intractable (Variant #1708)",Neurology,Severe
+1709,J18.9.1709,"Pneumonia, unspecified organism (Variant #1709)",Respiratory,Severe
+1710,I10.1710,Essential (primary) hypertension (Variant #1710),Cardiovascular,Mild
+1711,E11.9.1711,Type 2 diabetes mellitus without complications (Variant #1711),Endocrine,Moderate
+1712,F41.1.1712,Generalized anxiety disorder (Variant #1712),Mental Health,Moderate
+1713,F41.1.1713,Generalized anxiety disorder (Variant #1713),Mental Health,Moderate
+1714,F41.1.1714,Generalized anxiety disorder (Variant #1714),Mental Health,Moderate
+1715,F41.1.1715,Generalized anxiety disorder (Variant #1715),Mental Health,Moderate
+1716,E78.5.1716,"Hyperlipidemia, unspecified (Variant #1716)",Endocrine,Mild
+1717,J18.9.1717,"Pneumonia, unspecified organism (Variant #1717)",Respiratory,Severe
+1718,K21.9.1718,Gastro-esophageal reflux disease without esophagitis (Variant #1718),Gastrointestinal,Mild
+1719,J18.9.1719,"Pneumonia, unspecified organism (Variant #1719)",Respiratory,Severe
+1720,M54.5.1720,"Low back pain, unspecified (Variant #1720)",Musculoskeletal,Mild
+1721,I25.10.1721,Atherosclerotic heart disease of native coronary artery (Variant #1721),Cardiovascular,Severe
+1722,N39.0.1722,"Urinary tract infection, site not specified (Variant #1722)",Urological,Moderate
+1723,K21.9.1723,Gastro-esophageal reflux disease without esophagitis (Variant #1723),Gastrointestinal,Mild
+1724,F41.1.1724,Generalized anxiety disorder (Variant #1724),Mental Health,Moderate
+1725,I10.1725,Essential (primary) hypertension (Variant #1725),Cardiovascular,Mild
+1726,E11.9.1726,Type 2 diabetes mellitus without complications (Variant #1726),Endocrine,Moderate
+1727,N39.0.1727,"Urinary tract infection, site not specified (Variant #1727)",Urological,Moderate
+1728,I10.1728,Essential (primary) hypertension (Variant #1728),Cardiovascular,Mild
+1729,C34.90.1729,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1729),Oncology,Critical
+1730,E11.9.1730,Type 2 diabetes mellitus without complications (Variant #1730),Endocrine,Moderate
+1731,R07.9.1731,"Chest pain, unspecified (Variant #1731)",Cardiovascular,Severe
+1732,K21.9.1732,Gastro-esophageal reflux disease without esophagitis (Variant #1732),Gastrointestinal,Mild
+1733,J06.9.1733,"Acute upper respiratory infection, unspecified (Variant #1733)",Respiratory,Mild
+1734,C34.90.1734,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1734),Oncology,Critical
+1735,C34.90.1735,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1735),Oncology,Critical
+1736,F41.1.1736,Generalized anxiety disorder (Variant #1736),Mental Health,Moderate
+1737,E78.5.1737,"Hyperlipidemia, unspecified (Variant #1737)",Endocrine,Mild
+1738,E11.9.1738,Type 2 diabetes mellitus without complications (Variant #1738),Endocrine,Moderate
+1739,E11.9.1739,Type 2 diabetes mellitus without complications (Variant #1739),Endocrine,Moderate
+1740,C34.90.1740,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1740),Oncology,Critical
+1741,G40.909.1741,"Epilepsy, unspecified, not intractable (Variant #1741)",Neurology,Severe
+1742,R07.9.1742,"Chest pain, unspecified (Variant #1742)",Cardiovascular,Severe
+1743,G40.909.1743,"Epilepsy, unspecified, not intractable (Variant #1743)",Neurology,Severe
+1744,M54.5.1744,"Low back pain, unspecified (Variant #1744)",Musculoskeletal,Mild
+1745,I25.10.1745,Atherosclerotic heart disease of native coronary artery (Variant #1745),Cardiovascular,Severe
+1746,E11.9.1746,Type 2 diabetes mellitus without complications (Variant #1746),Endocrine,Moderate
+1747,J06.9.1747,"Acute upper respiratory infection, unspecified (Variant #1747)",Respiratory,Mild
+1748,I10.1748,Essential (primary) hypertension (Variant #1748),Cardiovascular,Mild
+1749,J45.909.1749,"Unspecified asthma, uncomplicated (Variant #1749)",Respiratory,Moderate
+1750,M54.5.1750,"Low back pain, unspecified (Variant #1750)",Musculoskeletal,Mild
+1751,G40.909.1751,"Epilepsy, unspecified, not intractable (Variant #1751)",Neurology,Severe
+1752,M54.5.1752,"Low back pain, unspecified (Variant #1752)",Musculoskeletal,Mild
+1753,I25.10.1753,Atherosclerotic heart disease of native coronary artery (Variant #1753),Cardiovascular,Severe
+1754,M17.11.1754,"Unspecified primary osteoarthritis, right knee (Variant #1754)",Musculoskeletal,Moderate
+1755,M54.5.1755,"Low back pain, unspecified (Variant #1755)",Musculoskeletal,Mild
+1756,K21.9.1756,Gastro-esophageal reflux disease without esophagitis (Variant #1756),Gastrointestinal,Mild
+1757,E11.9.1757,Type 2 diabetes mellitus without complications (Variant #1757),Endocrine,Moderate
+1758,J06.9.1758,"Acute upper respiratory infection, unspecified (Variant #1758)",Respiratory,Mild
+1759,E78.5.1759,"Hyperlipidemia, unspecified (Variant #1759)",Endocrine,Mild
+1760,I10.1760,Essential (primary) hypertension (Variant #1760),Cardiovascular,Mild
+1761,F41.1.1761,Generalized anxiety disorder (Variant #1761),Mental Health,Moderate
+1762,J18.9.1762,"Pneumonia, unspecified organism (Variant #1762)",Respiratory,Severe
+1763,C34.90.1763,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1763),Oncology,Critical
+1764,R07.9.1764,"Chest pain, unspecified (Variant #1764)",Cardiovascular,Severe
+1765,M54.5.1765,"Low back pain, unspecified (Variant #1765)",Musculoskeletal,Mild
+1766,G40.909.1766,"Epilepsy, unspecified, not intractable (Variant #1766)",Neurology,Severe
+1767,I10.1767,Essential (primary) hypertension (Variant #1767),Cardiovascular,Mild
+1768,G40.909.1768,"Epilepsy, unspecified, not intractable (Variant #1768)",Neurology,Severe
+1769,J06.9.1769,"Acute upper respiratory infection, unspecified (Variant #1769)",Respiratory,Mild
+1770,R07.9.1770,"Chest pain, unspecified (Variant #1770)",Cardiovascular,Severe
+1771,I10.1771,Essential (primary) hypertension (Variant #1771),Cardiovascular,Mild
+1772,N39.0.1772,"Urinary tract infection, site not specified (Variant #1772)",Urological,Moderate
+1773,E78.5.1773,"Hyperlipidemia, unspecified (Variant #1773)",Endocrine,Mild
+1774,E78.5.1774,"Hyperlipidemia, unspecified (Variant #1774)",Endocrine,Mild
+1775,N39.0.1775,"Urinary tract infection, site not specified (Variant #1775)",Urological,Moderate
+1776,E11.9.1776,Type 2 diabetes mellitus without complications (Variant #1776),Endocrine,Moderate
+1777,C34.90.1777,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1777),Oncology,Critical
+1778,E78.5.1778,"Hyperlipidemia, unspecified (Variant #1778)",Endocrine,Mild
+1779,C34.90.1779,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1779),Oncology,Critical
+1780,K21.9.1780,Gastro-esophageal reflux disease without esophagitis (Variant #1780),Gastrointestinal,Mild
+1781,N39.0.1781,"Urinary tract infection, site not specified (Variant #1781)",Urological,Moderate
+1782,G40.909.1782,"Epilepsy, unspecified, not intractable (Variant #1782)",Neurology,Severe
+1783,M54.5.1783,"Low back pain, unspecified (Variant #1783)",Musculoskeletal,Mild
+1784,M54.5.1784,"Low back pain, unspecified (Variant #1784)",Musculoskeletal,Mild
+1785,M17.11.1785,"Unspecified primary osteoarthritis, right knee (Variant #1785)",Musculoskeletal,Moderate
+1786,C34.90.1786,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1786),Oncology,Critical
+1787,K21.9.1787,Gastro-esophageal reflux disease without esophagitis (Variant #1787),Gastrointestinal,Mild
+1788,M17.11.1788,"Unspecified primary osteoarthritis, right knee (Variant #1788)",Musculoskeletal,Moderate
+1789,C34.90.1789,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1789),Oncology,Critical
+1790,E11.9.1790,Type 2 diabetes mellitus without complications (Variant #1790),Endocrine,Moderate
+1791,J18.9.1791,"Pneumonia, unspecified organism (Variant #1791)",Respiratory,Severe
+1792,E11.9.1792,Type 2 diabetes mellitus without complications (Variant #1792),Endocrine,Moderate
+1793,K21.9.1793,Gastro-esophageal reflux disease without esophagitis (Variant #1793),Gastrointestinal,Mild
+1794,E78.5.1794,"Hyperlipidemia, unspecified (Variant #1794)",Endocrine,Mild
+1795,J45.909.1795,"Unspecified asthma, uncomplicated (Variant #1795)",Respiratory,Moderate
+1796,J06.9.1796,"Acute upper respiratory infection, unspecified (Variant #1796)",Respiratory,Mild
+1797,M54.5.1797,"Low back pain, unspecified (Variant #1797)",Musculoskeletal,Mild
+1798,E11.9.1798,Type 2 diabetes mellitus without complications (Variant #1798),Endocrine,Moderate
+1799,G40.909.1799,"Epilepsy, unspecified, not intractable (Variant #1799)",Neurology,Severe
+1800,M54.5.1800,"Low back pain, unspecified (Variant #1800)",Musculoskeletal,Mild
+1801,J06.9.1801,"Acute upper respiratory infection, unspecified (Variant #1801)",Respiratory,Mild
+1802,C34.90.1802,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1802),Oncology,Critical
+1803,J45.909.1803,"Unspecified asthma, uncomplicated (Variant #1803)",Respiratory,Moderate
+1804,F41.1.1804,Generalized anxiety disorder (Variant #1804),Mental Health,Moderate
+1805,J18.9.1805,"Pneumonia, unspecified organism (Variant #1805)",Respiratory,Severe
+1806,M54.5.1806,"Low back pain, unspecified (Variant #1806)",Musculoskeletal,Mild
+1807,E11.9.1807,Type 2 diabetes mellitus without complications (Variant #1807),Endocrine,Moderate
+1808,E11.9.1808,Type 2 diabetes mellitus without complications (Variant #1808),Endocrine,Moderate
+1809,E78.5.1809,"Hyperlipidemia, unspecified (Variant #1809)",Endocrine,Mild
+1810,R07.9.1810,"Chest pain, unspecified (Variant #1810)",Cardiovascular,Severe
+1811,R07.9.1811,"Chest pain, unspecified (Variant #1811)",Cardiovascular,Severe
+1812,K21.9.1812,Gastro-esophageal reflux disease without esophagitis (Variant #1812),Gastrointestinal,Mild
+1813,G40.909.1813,"Epilepsy, unspecified, not intractable (Variant #1813)",Neurology,Severe
+1814,J06.9.1814,"Acute upper respiratory infection, unspecified (Variant #1814)",Respiratory,Mild
+1815,M17.11.1815,"Unspecified primary osteoarthritis, right knee (Variant #1815)",Musculoskeletal,Moderate
+1816,M17.11.1816,"Unspecified primary osteoarthritis, right knee (Variant #1816)",Musculoskeletal,Moderate
+1817,K21.9.1817,Gastro-esophageal reflux disease without esophagitis (Variant #1817),Gastrointestinal,Mild
+1818,J06.9.1818,"Acute upper respiratory infection, unspecified (Variant #1818)",Respiratory,Mild
+1819,J45.909.1819,"Unspecified asthma, uncomplicated (Variant #1819)",Respiratory,Moderate
+1820,E11.9.1820,Type 2 diabetes mellitus without complications (Variant #1820),Endocrine,Moderate
+1821,R07.9.1821,"Chest pain, unspecified (Variant #1821)",Cardiovascular,Severe
+1822,E11.9.1822,Type 2 diabetes mellitus without complications (Variant #1822),Endocrine,Moderate
+1823,F41.1.1823,Generalized anxiety disorder (Variant #1823),Mental Health,Moderate
+1824,J06.9.1824,"Acute upper respiratory infection, unspecified (Variant #1824)",Respiratory,Mild
+1825,M17.11.1825,"Unspecified primary osteoarthritis, right knee (Variant #1825)",Musculoskeletal,Moderate
+1826,J18.9.1826,"Pneumonia, unspecified organism (Variant #1826)",Respiratory,Severe
+1827,E78.5.1827,"Hyperlipidemia, unspecified (Variant #1827)",Endocrine,Mild
+1828,C34.90.1828,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1828),Oncology,Critical
+1829,C34.90.1829,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1829),Oncology,Critical
+1830,G40.909.1830,"Epilepsy, unspecified, not intractable (Variant #1830)",Neurology,Severe
+1831,C34.90.1831,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1831),Oncology,Critical
+1832,J45.909.1832,"Unspecified asthma, uncomplicated (Variant #1832)",Respiratory,Moderate
+1833,N39.0.1833,"Urinary tract infection, site not specified (Variant #1833)",Urological,Moderate
+1834,C34.90.1834,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1834),Oncology,Critical
+1835,E78.5.1835,"Hyperlipidemia, unspecified (Variant #1835)",Endocrine,Mild
+1836,R07.9.1836,"Chest pain, unspecified (Variant #1836)",Cardiovascular,Severe
+1837,F41.1.1837,Generalized anxiety disorder (Variant #1837),Mental Health,Moderate
+1838,G40.909.1838,"Epilepsy, unspecified, not intractable (Variant #1838)",Neurology,Severe
+1839,J06.9.1839,"Acute upper respiratory infection, unspecified (Variant #1839)",Respiratory,Mild
+1840,J18.9.1840,"Pneumonia, unspecified organism (Variant #1840)",Respiratory,Severe
+1841,N39.0.1841,"Urinary tract infection, site not specified (Variant #1841)",Urological,Moderate
+1842,I25.10.1842,Atherosclerotic heart disease of native coronary artery (Variant #1842),Cardiovascular,Severe
+1843,E11.9.1843,Type 2 diabetes mellitus without complications (Variant #1843),Endocrine,Moderate
+1844,E11.9.1844,Type 2 diabetes mellitus without complications (Variant #1844),Endocrine,Moderate
+1845,I25.10.1845,Atherosclerotic heart disease of native coronary artery (Variant #1845),Cardiovascular,Severe
+1846,J18.9.1846,"Pneumonia, unspecified organism (Variant #1846)",Respiratory,Severe
+1847,M54.5.1847,"Low back pain, unspecified (Variant #1847)",Musculoskeletal,Mild
+1848,K21.9.1848,Gastro-esophageal reflux disease without esophagitis (Variant #1848),Gastrointestinal,Mild
+1849,M17.11.1849,"Unspecified primary osteoarthritis, right knee (Variant #1849)",Musculoskeletal,Moderate
+1850,K21.9.1850,Gastro-esophageal reflux disease without esophagitis (Variant #1850),Gastrointestinal,Mild
+1851,J45.909.1851,"Unspecified asthma, uncomplicated (Variant #1851)",Respiratory,Moderate
+1852,E11.9.1852,Type 2 diabetes mellitus without complications (Variant #1852),Endocrine,Moderate
+1853,K21.9.1853,Gastro-esophageal reflux disease without esophagitis (Variant #1853),Gastrointestinal,Mild
+1854,R07.9.1854,"Chest pain, unspecified (Variant #1854)",Cardiovascular,Severe
+1855,J45.909.1855,"Unspecified asthma, uncomplicated (Variant #1855)",Respiratory,Moderate
+1856,K21.9.1856,Gastro-esophageal reflux disease without esophagitis (Variant #1856),Gastrointestinal,Mild
+1857,E78.5.1857,"Hyperlipidemia, unspecified (Variant #1857)",Endocrine,Mild
+1858,E78.5.1858,"Hyperlipidemia, unspecified (Variant #1858)",Endocrine,Mild
+1859,E11.9.1859,Type 2 diabetes mellitus without complications (Variant #1859),Endocrine,Moderate
+1860,G40.909.1860,"Epilepsy, unspecified, not intractable (Variant #1860)",Neurology,Severe
+1861,I10.1861,Essential (primary) hypertension (Variant #1861),Cardiovascular,Mild
+1862,R07.9.1862,"Chest pain, unspecified (Variant #1862)",Cardiovascular,Severe
+1863,J45.909.1863,"Unspecified asthma, uncomplicated (Variant #1863)",Respiratory,Moderate
+1864,I25.10.1864,Atherosclerotic heart disease of native coronary artery (Variant #1864),Cardiovascular,Severe
+1865,C34.90.1865,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1865),Oncology,Critical
+1866,G40.909.1866,"Epilepsy, unspecified, not intractable (Variant #1866)",Neurology,Severe
+1867,M17.11.1867,"Unspecified primary osteoarthritis, right knee (Variant #1867)",Musculoskeletal,Moderate
+1868,M17.11.1868,"Unspecified primary osteoarthritis, right knee (Variant #1868)",Musculoskeletal,Moderate
+1869,E11.9.1869,Type 2 diabetes mellitus without complications (Variant #1869),Endocrine,Moderate
+1870,E78.5.1870,"Hyperlipidemia, unspecified (Variant #1870)",Endocrine,Mild
+1871,J18.9.1871,"Pneumonia, unspecified organism (Variant #1871)",Respiratory,Severe
+1872,G40.909.1872,"Epilepsy, unspecified, not intractable (Variant #1872)",Neurology,Severe
+1873,R07.9.1873,"Chest pain, unspecified (Variant #1873)",Cardiovascular,Severe
+1874,E78.5.1874,"Hyperlipidemia, unspecified (Variant #1874)",Endocrine,Mild
+1875,I10.1875,Essential (primary) hypertension (Variant #1875),Cardiovascular,Mild
+1876,N39.0.1876,"Urinary tract infection, site not specified (Variant #1876)",Urological,Moderate
+1877,I10.1877,Essential (primary) hypertension (Variant #1877),Cardiovascular,Mild
+1878,C34.90.1878,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1878),Oncology,Critical
+1879,J45.909.1879,"Unspecified asthma, uncomplicated (Variant #1879)",Respiratory,Moderate
+1880,G40.909.1880,"Epilepsy, unspecified, not intractable (Variant #1880)",Neurology,Severe
+1881,J18.9.1881,"Pneumonia, unspecified organism (Variant #1881)",Respiratory,Severe
+1882,E78.5.1882,"Hyperlipidemia, unspecified (Variant #1882)",Endocrine,Mild
+1883,E11.9.1883,Type 2 diabetes mellitus without complications (Variant #1883),Endocrine,Moderate
+1884,E78.5.1884,"Hyperlipidemia, unspecified (Variant #1884)",Endocrine,Mild
+1885,J06.9.1885,"Acute upper respiratory infection, unspecified (Variant #1885)",Respiratory,Mild
+1886,C34.90.1886,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1886),Oncology,Critical
+1887,C34.90.1887,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1887),Oncology,Critical
+1888,M17.11.1888,"Unspecified primary osteoarthritis, right knee (Variant #1888)",Musculoskeletal,Moderate
+1889,G40.909.1889,"Epilepsy, unspecified, not intractable (Variant #1889)",Neurology,Severe
+1890,I25.10.1890,Atherosclerotic heart disease of native coronary artery (Variant #1890),Cardiovascular,Severe
+1891,I25.10.1891,Atherosclerotic heart disease of native coronary artery (Variant #1891),Cardiovascular,Severe
+1892,K21.9.1892,Gastro-esophageal reflux disease without esophagitis (Variant #1892),Gastrointestinal,Mild
+1893,I10.1893,Essential (primary) hypertension (Variant #1893),Cardiovascular,Mild
+1894,M54.5.1894,"Low back pain, unspecified (Variant #1894)",Musculoskeletal,Mild
+1895,G40.909.1895,"Epilepsy, unspecified, not intractable (Variant #1895)",Neurology,Severe
+1896,M54.5.1896,"Low back pain, unspecified (Variant #1896)",Musculoskeletal,Mild
+1897,E11.9.1897,Type 2 diabetes mellitus without complications (Variant #1897),Endocrine,Moderate
+1898,E11.9.1898,Type 2 diabetes mellitus without complications (Variant #1898),Endocrine,Moderate
+1899,M17.11.1899,"Unspecified primary osteoarthritis, right knee (Variant #1899)",Musculoskeletal,Moderate
+1900,F41.1.1900,Generalized anxiety disorder (Variant #1900),Mental Health,Moderate
+1901,G40.909.1901,"Epilepsy, unspecified, not intractable (Variant #1901)",Neurology,Severe
+1902,J06.9.1902,"Acute upper respiratory infection, unspecified (Variant #1902)",Respiratory,Mild
+1903,N39.0.1903,"Urinary tract infection, site not specified (Variant #1903)",Urological,Moderate
+1904,J06.9.1904,"Acute upper respiratory infection, unspecified (Variant #1904)",Respiratory,Mild
+1905,G40.909.1905,"Epilepsy, unspecified, not intractable (Variant #1905)",Neurology,Severe
+1906,G40.909.1906,"Epilepsy, unspecified, not intractable (Variant #1906)",Neurology,Severe
+1907,K21.9.1907,Gastro-esophageal reflux disease without esophagitis (Variant #1907),Gastrointestinal,Mild
+1908,M17.11.1908,"Unspecified primary osteoarthritis, right knee (Variant #1908)",Musculoskeletal,Moderate
+1909,R07.9.1909,"Chest pain, unspecified (Variant #1909)",Cardiovascular,Severe
+1910,E78.5.1910,"Hyperlipidemia, unspecified (Variant #1910)",Endocrine,Mild
+1911,G40.909.1911,"Epilepsy, unspecified, not intractable (Variant #1911)",Neurology,Severe
+1912,J06.9.1912,"Acute upper respiratory infection, unspecified (Variant #1912)",Respiratory,Mild
+1913,J06.9.1913,"Acute upper respiratory infection, unspecified (Variant #1913)",Respiratory,Mild
+1914,G40.909.1914,"Epilepsy, unspecified, not intractable (Variant #1914)",Neurology,Severe
+1915,J06.9.1915,"Acute upper respiratory infection, unspecified (Variant #1915)",Respiratory,Mild
+1916,M17.11.1916,"Unspecified primary osteoarthritis, right knee (Variant #1916)",Musculoskeletal,Moderate
+1917,R07.9.1917,"Chest pain, unspecified (Variant #1917)",Cardiovascular,Severe
+1918,F41.1.1918,Generalized anxiety disorder (Variant #1918),Mental Health,Moderate
+1919,C34.90.1919,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1919),Oncology,Critical
+1920,C34.90.1920,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1920),Oncology,Critical
+1921,N39.0.1921,"Urinary tract infection, site not specified (Variant #1921)",Urological,Moderate
+1922,J06.9.1922,"Acute upper respiratory infection, unspecified (Variant #1922)",Respiratory,Mild
+1923,J18.9.1923,"Pneumonia, unspecified organism (Variant #1923)",Respiratory,Severe
+1924,J45.909.1924,"Unspecified asthma, uncomplicated (Variant #1924)",Respiratory,Moderate
+1925,E78.5.1925,"Hyperlipidemia, unspecified (Variant #1925)",Endocrine,Mild
+1926,N39.0.1926,"Urinary tract infection, site not specified (Variant #1926)",Urological,Moderate
+1927,M17.11.1927,"Unspecified primary osteoarthritis, right knee (Variant #1927)",Musculoskeletal,Moderate
+1928,E78.5.1928,"Hyperlipidemia, unspecified (Variant #1928)",Endocrine,Mild
+1929,M54.5.1929,"Low back pain, unspecified (Variant #1929)",Musculoskeletal,Mild
+1930,E78.5.1930,"Hyperlipidemia, unspecified (Variant #1930)",Endocrine,Mild
+1931,M54.5.1931,"Low back pain, unspecified (Variant #1931)",Musculoskeletal,Mild
+1932,J06.9.1932,"Acute upper respiratory infection, unspecified (Variant #1932)",Respiratory,Mild
+1933,K21.9.1933,Gastro-esophageal reflux disease without esophagitis (Variant #1933),Gastrointestinal,Mild
+1934,N39.0.1934,"Urinary tract infection, site not specified (Variant #1934)",Urological,Moderate
+1935,I10.1935,Essential (primary) hypertension (Variant #1935),Cardiovascular,Mild
+1936,N39.0.1936,"Urinary tract infection, site not specified (Variant #1936)",Urological,Moderate
+1937,K21.9.1937,Gastro-esophageal reflux disease without esophagitis (Variant #1937),Gastrointestinal,Mild
+1938,N39.0.1938,"Urinary tract infection, site not specified (Variant #1938)",Urological,Moderate
+1939,J18.9.1939,"Pneumonia, unspecified organism (Variant #1939)",Respiratory,Severe
+1940,M54.5.1940,"Low back pain, unspecified (Variant #1940)",Musculoskeletal,Mild
+1941,M17.11.1941,"Unspecified primary osteoarthritis, right knee (Variant #1941)",Musculoskeletal,Moderate
+1942,J45.909.1942,"Unspecified asthma, uncomplicated (Variant #1942)",Respiratory,Moderate
+1943,F41.1.1943,Generalized anxiety disorder (Variant #1943),Mental Health,Moderate
+1944,F41.1.1944,Generalized anxiety disorder (Variant #1944),Mental Health,Moderate
+1945,M54.5.1945,"Low back pain, unspecified (Variant #1945)",Musculoskeletal,Mild
+1946,J45.909.1946,"Unspecified asthma, uncomplicated (Variant #1946)",Respiratory,Moderate
+1947,N39.0.1947,"Urinary tract infection, site not specified (Variant #1947)",Urological,Moderate
+1948,E78.5.1948,"Hyperlipidemia, unspecified (Variant #1948)",Endocrine,Mild
+1949,I25.10.1949,Atherosclerotic heart disease of native coronary artery (Variant #1949),Cardiovascular,Severe
+1950,E11.9.1950,Type 2 diabetes mellitus without complications (Variant #1950),Endocrine,Moderate
+1951,G40.909.1951,"Epilepsy, unspecified, not intractable (Variant #1951)",Neurology,Severe
+1952,M17.11.1952,"Unspecified primary osteoarthritis, right knee (Variant #1952)",Musculoskeletal,Moderate
+1953,E78.5.1953,"Hyperlipidemia, unspecified (Variant #1953)",Endocrine,Mild
+1954,K21.9.1954,Gastro-esophageal reflux disease without esophagitis (Variant #1954),Gastrointestinal,Mild
+1955,F41.1.1955,Generalized anxiety disorder (Variant #1955),Mental Health,Moderate
+1956,M54.5.1956,"Low back pain, unspecified (Variant #1956)",Musculoskeletal,Mild
+1957,R07.9.1957,"Chest pain, unspecified (Variant #1957)",Cardiovascular,Severe
+1958,G40.909.1958,"Epilepsy, unspecified, not intractable (Variant #1958)",Neurology,Severe
+1959,G40.909.1959,"Epilepsy, unspecified, not intractable (Variant #1959)",Neurology,Severe
+1960,E78.5.1960,"Hyperlipidemia, unspecified (Variant #1960)",Endocrine,Mild
+1961,I25.10.1961,Atherosclerotic heart disease of native coronary artery (Variant #1961),Cardiovascular,Severe
+1962,C34.90.1962,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1962),Oncology,Critical
+1963,I25.10.1963,Atherosclerotic heart disease of native coronary artery (Variant #1963),Cardiovascular,Severe
+1964,I10.1964,Essential (primary) hypertension (Variant #1964),Cardiovascular,Mild
+1965,J18.9.1965,"Pneumonia, unspecified organism (Variant #1965)",Respiratory,Severe
+1966,M54.5.1966,"Low back pain, unspecified (Variant #1966)",Musculoskeletal,Mild
+1967,K21.9.1967,Gastro-esophageal reflux disease without esophagitis (Variant #1967),Gastrointestinal,Mild
+1968,G40.909.1968,"Epilepsy, unspecified, not intractable (Variant #1968)",Neurology,Severe
+1969,M17.11.1969,"Unspecified primary osteoarthritis, right knee (Variant #1969)",Musculoskeletal,Moderate
+1970,N39.0.1970,"Urinary tract infection, site not specified (Variant #1970)",Urological,Moderate
+1971,K21.9.1971,Gastro-esophageal reflux disease without esophagitis (Variant #1971),Gastrointestinal,Mild
+1972,F41.1.1972,Generalized anxiety disorder (Variant #1972),Mental Health,Moderate
+1973,C34.90.1973,Malignant neoplasm of unspecified part of bronchus or lung (Variant #1973),Oncology,Critical
+1974,J45.909.1974,"Unspecified asthma, uncomplicated (Variant #1974)",Respiratory,Moderate
+1975,M54.5.1975,"Low back pain, unspecified (Variant #1975)",Musculoskeletal,Mild
+1976,J06.9.1976,"Acute upper respiratory infection, unspecified (Variant #1976)",Respiratory,Mild
+1977,J45.909.1977,"Unspecified asthma, uncomplicated (Variant #1977)",Respiratory,Moderate
+1978,G40.909.1978,"Epilepsy, unspecified, not intractable (Variant #1978)",Neurology,Severe
+1979,R07.9.1979,"Chest pain, unspecified (Variant #1979)",Cardiovascular,Severe
+1980,N39.0.1980,"Urinary tract infection, site not specified (Variant #1980)",Urological,Moderate
+1981,E11.9.1981,Type 2 diabetes mellitus without complications (Variant #1981),Endocrine,Moderate
+1982,N39.0.1982,"Urinary tract infection, site not specified (Variant #1982)",Urological,Moderate
+1983,N39.0.1983,"Urinary tract infection, site not specified (Variant #1983)",Urological,Moderate
+1984,M54.5.1984,"Low back pain, unspecified (Variant #1984)",Musculoskeletal,Mild
+1985,G40.909.1985,"Epilepsy, unspecified, not intractable (Variant #1985)",Neurology,Severe
+1986,F41.1.1986,Generalized anxiety disorder (Variant #1986),Mental Health,Moderate
+1987,I10.1987,Essential (primary) hypertension (Variant #1987),Cardiovascular,Mild
+1988,G40.909.1988,"Epilepsy, unspecified, not intractable (Variant #1988)",Neurology,Severe
+1989,J06.9.1989,"Acute upper respiratory infection, unspecified (Variant #1989)",Respiratory,Mild
+1990,N39.0.1990,"Urinary tract infection, site not specified (Variant #1990)",Urological,Moderate
+1991,N39.0.1991,"Urinary tract infection, site not specified (Variant #1991)",Urological,Moderate
+1992,E11.9.1992,Type 2 diabetes mellitus without complications (Variant #1992),Endocrine,Moderate
+1993,I10.1993,Essential (primary) hypertension (Variant #1993),Cardiovascular,Mild
+1994,N39.0.1994,"Urinary tract infection, site not specified (Variant #1994)",Urological,Moderate
+1995,K21.9.1995,Gastro-esophageal reflux disease without esophagitis (Variant #1995),Gastrointestinal,Mild
+1996,K21.9.1996,Gastro-esophageal reflux disease without esophagitis (Variant #1996),Gastrointestinal,Mild
+1997,J45.909.1997,"Unspecified asthma, uncomplicated (Variant #1997)",Respiratory,Moderate
+1998,I10.1998,Essential (primary) hypertension (Variant #1998),Cardiovascular,Mild
+1999,E78.5.1999,"Hyperlipidemia, unspecified (Variant #1999)",Endocrine,Mild
+2000,J45.909.2000,"Unspecified asthma, uncomplicated (Variant #2000)",Respiratory,Moderate

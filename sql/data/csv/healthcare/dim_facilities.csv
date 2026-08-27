@@ -1,0 +1,501 @@
+facility_id,facility_name,facility_type,address,city,state,zip_code,bed_capacity
+1,Seattle General Hospital #1,General Hospital,2910 Health Parkway,Seattle,WA,98101,596
+2,Philadelphia Specialty Clinic #2,Specialty Clinic,1632 Health Parkway,Philadelphia,PA,19101,47
+3,San Antonio Specialty Clinic #3,Specialty Clinic,3151 Health Parkway,San Antonio,TX,78201,308
+4,Austin Diagnostic Center #4,Diagnostic Center,8043 Health Parkway,Austin,TX,78701,790
+5,Philadelphia General Hospital #5,General Hospital,4931 Health Parkway,Philadelphia,PA,19101,427
+6,Seattle Diagnostic Center #6,Diagnostic Center,4208 Health Parkway,Seattle,WA,98101,619
+7,Houston Specialty Clinic #7,Specialty Clinic,5150 Health Parkway,Houston,TX,77001,42
+8,Seattle Diagnostic Center #8,Diagnostic Center,8380 Health Parkway,Seattle,WA,98101,664
+9,Houston General Hospital #9,General Hospital,1759 Health Parkway,Houston,TX,77001,21
+10,San Jose Diagnostic Center #10,Diagnostic Center,4065 Health Parkway,San Jose,CA,95101,144
+11,Dallas Urgent Care #11,Urgent Care,3068 Health Parkway,Dallas,TX,75201,333
+12,San Jose Specialty Clinic #12,Specialty Clinic,3084 Health Parkway,San Jose,CA,95101,53
+13,Austin General Hospital #13,General Hospital,9289 Health Parkway,Austin,TX,78701,344
+14,Boston Specialty Clinic #14,Specialty Clinic,5077 Health Parkway,Boston,MA,02101,576
+15,Denver Urgent Care #15,Urgent Care,5857 Health Parkway,Denver,CO,80201,242
+16,San Diego Specialty Clinic #16,Specialty Clinic,789 Health Parkway,San Diego,CA,92101,18
+17,Denver Specialty Clinic #17,Specialty Clinic,391 Health Parkway,Denver,CO,80201,595
+18,Chicago General Hospital #18,General Hospital,9028 Health Parkway,Chicago,IL,60601,361
+19,San Diego General Hospital #19,General Hospital,6043 Health Parkway,San Diego,CA,92101,720
+20,San Diego Urgent Care #20,Urgent Care,2929 Health Parkway,San Diego,CA,92101,29
+21,Houston Diagnostic Center #21,Diagnostic Center,6779 Health Parkway,Houston,TX,77001,643
+22,Seattle General Hospital #22,General Hospital,244 Health Parkway,Seattle,WA,98101,33
+23,Philadelphia General Hospital #23,General Hospital,978 Health Parkway,Philadelphia,PA,19101,678
+24,Denver Urgent Care #24,Urgent Care,3152 Health Parkway,Denver,CO,80201,160
+25,Chicago Urgent Care #25,Urgent Care,261 Health Parkway,Chicago,IL,60601,751
+26,Philadelphia Specialty Clinic #26,Specialty Clinic,5443 Health Parkway,Philadelphia,PA,19101,546
+27,Houston General Hospital #27,General Hospital,6063 Health Parkway,Houston,TX,77001,12
+28,Boston Specialty Clinic #28,Specialty Clinic,8652 Health Parkway,Boston,MA,02101,607
+29,San Diego General Hospital #29,General Hospital,7558 Health Parkway,San Diego,CA,92101,556
+30,Chicago General Hospital #30,General Hospital,4218 Health Parkway,Chicago,IL,60601,763
+31,San Diego General Hospital #31,General Hospital,5209 Health Parkway,San Diego,CA,92101,133
+32,Philadelphia Specialty Clinic #32,Specialty Clinic,8886 Health Parkway,Philadelphia,PA,19101,289
+33,San Diego General Hospital #33,General Hospital,1400 Health Parkway,San Diego,CA,92101,534
+34,Denver Diagnostic Center #34,Diagnostic Center,9603 Health Parkway,Denver,CO,80201,135
+35,New York Diagnostic Center #35,Diagnostic Center,4300 Health Parkway,New York,NY,10001,567
+36,San Jose Urgent Care #36,Urgent Care,7136 Health Parkway,San Jose,CA,95101,140
+37,Dallas Diagnostic Center #37,Diagnostic Center,9213 Health Parkway,Dallas,TX,75201,29
+38,Seattle Diagnostic Center #38,Diagnostic Center,6456 Health Parkway,Seattle,WA,98101,292
+39,Houston General Hospital #39,General Hospital,7762 Health Parkway,Houston,TX,77001,248
+40,San Diego General Hospital #40,General Hospital,9361 Health Parkway,San Diego,CA,92101,63
+41,Seattle Urgent Care #41,Urgent Care,652 Health Parkway,Seattle,WA,98101,143
+42,Boston Urgent Care #42,Urgent Care,3907 Health Parkway,Boston,MA,02101,349
+43,Philadelphia General Hospital #43,General Hospital,6450 Health Parkway,Philadelphia,PA,19101,197
+44,New York Diagnostic Center #44,Diagnostic Center,3658 Health Parkway,New York,NY,10001,517
+45,Jacksonville General Hospital #45,General Hospital,8943 Health Parkway,Jacksonville,FL,32201,142
+46,Jacksonville General Hospital #46,General Hospital,9689 Health Parkway,Jacksonville,FL,32201,314
+47,San Antonio Diagnostic Center #47,Diagnostic Center,9535 Health Parkway,San Antonio,TX,78201,63
+48,Phoenix General Hospital #48,General Hospital,8764 Health Parkway,Phoenix,AZ,85001,701
+49,Los Angeles General Hospital #49,General Hospital,9498 Health Parkway,Los Angeles,CA,90001,693
+50,Houston Diagnostic Center #50,Diagnostic Center,248 Health Parkway,Houston,TX,77001,505
+51,Phoenix Specialty Clinic #51,Specialty Clinic,8155 Health Parkway,Phoenix,AZ,85001,623
+52,Phoenix Urgent Care #52,Urgent Care,6444 Health Parkway,Phoenix,AZ,85001,236
+53,Seattle Specialty Clinic #53,Specialty Clinic,8405 Health Parkway,Seattle,WA,98101,353
+54,Dallas Urgent Care #54,Urgent Care,8082 Health Parkway,Dallas,TX,75201,292
+55,Philadelphia Specialty Clinic #55,Specialty Clinic,1808 Health Parkway,Philadelphia,PA,19101,650
+56,Los Angeles Urgent Care #56,Urgent Care,9129 Health Parkway,Los Angeles,CA,90001,672
+57,Philadelphia Urgent Care #57,Urgent Care,2188 Health Parkway,Philadelphia,PA,19101,30
+58,Phoenix Specialty Clinic #58,Specialty Clinic,3452 Health Parkway,Phoenix,AZ,85001,36
+59,Jacksonville Urgent Care #59,Urgent Care,8051 Health Parkway,Jacksonville,FL,32201,484
+60,San Diego Diagnostic Center #60,Diagnostic Center,2723 Health Parkway,San Diego,CA,92101,34
+61,Phoenix Specialty Clinic #61,Specialty Clinic,9062 Health Parkway,Phoenix,AZ,85001,28
+62,San Antonio General Hospital #62,General Hospital,5658 Health Parkway,San Antonio,TX,78201,786
+63,San Antonio Diagnostic Center #63,Diagnostic Center,6720 Health Parkway,San Antonio,TX,78201,144
+64,Philadelphia Urgent Care #64,Urgent Care,5559 Health Parkway,Philadelphia,PA,19101,55
+65,Denver Specialty Clinic #65,Specialty Clinic,4920 Health Parkway,Denver,CO,80201,616
+66,San Antonio Urgent Care #66,Urgent Care,7129 Health Parkway,San Antonio,TX,78201,795
+67,Phoenix Diagnostic Center #67,Diagnostic Center,7556 Health Parkway,Phoenix,AZ,85001,717
+68,Denver General Hospital #68,General Hospital,409 Health Parkway,Denver,CO,80201,572
+69,Chicago Diagnostic Center #69,Diagnostic Center,1877 Health Parkway,Chicago,IL,60601,418
+70,Jacksonville General Hospital #70,General Hospital,7275 Health Parkway,Jacksonville,FL,32201,553
+71,Jacksonville Urgent Care #71,Urgent Care,2928 Health Parkway,Jacksonville,FL,32201,338
+72,Dallas Specialty Clinic #72,Specialty Clinic,6098 Health Parkway,Dallas,TX,75201,257
+73,Denver Diagnostic Center #73,Diagnostic Center,6055 Health Parkway,Denver,CO,80201,741
+74,Phoenix Specialty Clinic #74,Specialty Clinic,4558 Health Parkway,Phoenix,AZ,85001,526
+75,Dallas General Hospital #75,General Hospital,8659 Health Parkway,Dallas,TX,75201,648
+76,Houston Specialty Clinic #76,Specialty Clinic,1781 Health Parkway,Houston,TX,77001,70
+77,Los Angeles General Hospital #77,General Hospital,2024 Health Parkway,Los Angeles,CA,90001,100
+78,San Antonio Diagnostic Center #78,Diagnostic Center,7916 Health Parkway,San Antonio,TX,78201,794
+79,Jacksonville Diagnostic Center #79,Diagnostic Center,798 Health Parkway,Jacksonville,FL,32201,581
+80,Seattle Diagnostic Center #80,Diagnostic Center,3019 Health Parkway,Seattle,WA,98101,314
+81,San Antonio Specialty Clinic #81,Specialty Clinic,8428 Health Parkway,San Antonio,TX,78201,666
+82,San Antonio Specialty Clinic #82,Specialty Clinic,9446 Health Parkway,San Antonio,TX,78201,27
+83,New York Urgent Care #83,Urgent Care,7382 Health Parkway,New York,NY,10001,281
+84,Chicago Urgent Care #84,Urgent Care,3940 Health Parkway,Chicago,IL,60601,255
+85,Dallas Specialty Clinic #85,Specialty Clinic,7535 Health Parkway,Dallas,TX,75201,629
+86,Phoenix Specialty Clinic #86,Specialty Clinic,8822 Health Parkway,Phoenix,AZ,85001,33
+87,New York Specialty Clinic #87,Specialty Clinic,5413 Health Parkway,New York,NY,10001,665
+88,Seattle Specialty Clinic #88,Specialty Clinic,9087 Health Parkway,Seattle,WA,98101,349
+89,Dallas Specialty Clinic #89,Specialty Clinic,8368 Health Parkway,Dallas,TX,75201,534
+90,Phoenix General Hospital #90,General Hospital,8280 Health Parkway,Phoenix,AZ,85001,211
+91,Philadelphia General Hospital #91,General Hospital,7705 Health Parkway,Philadelphia,PA,19101,223
+92,Boston Diagnostic Center #92,Diagnostic Center,5992 Health Parkway,Boston,MA,02101,442
+93,Houston Diagnostic Center #93,Diagnostic Center,2689 Health Parkway,Houston,TX,77001,358
+94,Seattle Urgent Care #94,Urgent Care,8774 Health Parkway,Seattle,WA,98101,760
+95,Austin Specialty Clinic #95,Specialty Clinic,2930 Health Parkway,Austin,TX,78701,153
+96,Jacksonville Urgent Care #96,Urgent Care,8444 Health Parkway,Jacksonville,FL,32201,461
+97,San Jose Specialty Clinic #97,Specialty Clinic,8105 Health Parkway,San Jose,CA,95101,707
+98,Seattle Specialty Clinic #98,Specialty Clinic,5273 Health Parkway,Seattle,WA,98101,119
+99,San Jose Diagnostic Center #99,Diagnostic Center,7757 Health Parkway,San Jose,CA,95101,452
+100,Boston General Hospital #100,General Hospital,1355 Health Parkway,Boston,MA,02101,374
+101,Denver General Hospital #101,General Hospital,465 Health Parkway,Denver,CO,80201,14
+102,Dallas Diagnostic Center #102,Diagnostic Center,992 Health Parkway,Dallas,TX,75201,606
+103,Phoenix General Hospital #103,General Hospital,4982 Health Parkway,Phoenix,AZ,85001,485
+104,Austin Diagnostic Center #104,Diagnostic Center,9326 Health Parkway,Austin,TX,78701,277
+105,San Jose General Hospital #105,General Hospital,2749 Health Parkway,San Jose,CA,95101,566
+106,Austin General Hospital #106,General Hospital,2124 Health Parkway,Austin,TX,78701,195
+107,Chicago Diagnostic Center #107,Diagnostic Center,6565 Health Parkway,Chicago,IL,60601,443
+108,Los Angeles Diagnostic Center #108,Diagnostic Center,5004 Health Parkway,Los Angeles,CA,90001,135
+109,Phoenix Diagnostic Center #109,Diagnostic Center,1492 Health Parkway,Phoenix,AZ,85001,383
+110,Boston Specialty Clinic #110,Specialty Clinic,9732 Health Parkway,Boston,MA,02101,229
+111,New York Specialty Clinic #111,Specialty Clinic,2791 Health Parkway,New York,NY,10001,69
+112,Jacksonville Urgent Care #112,Urgent Care,6939 Health Parkway,Jacksonville,FL,32201,317
+113,Austin Diagnostic Center #113,Diagnostic Center,4401 Health Parkway,Austin,TX,78701,193
+114,Dallas Urgent Care #114,Urgent Care,3327 Health Parkway,Dallas,TX,75201,545
+115,Seattle Specialty Clinic #115,Specialty Clinic,9323 Health Parkway,Seattle,WA,98101,683
+116,San Diego Specialty Clinic #116,Specialty Clinic,5262 Health Parkway,San Diego,CA,92101,407
+117,Los Angeles Diagnostic Center #117,Diagnostic Center,722 Health Parkway,Los Angeles,CA,90001,279
+118,Phoenix Urgent Care #118,Urgent Care,4459 Health Parkway,Phoenix,AZ,85001,665
+119,San Diego General Hospital #119,General Hospital,6722 Health Parkway,San Diego,CA,92101,798
+120,San Jose General Hospital #120,General Hospital,1968 Health Parkway,San Jose,CA,95101,554
+121,Houston General Hospital #121,General Hospital,829 Health Parkway,Houston,TX,77001,268
+122,Phoenix Urgent Care #122,Urgent Care,2496 Health Parkway,Phoenix,AZ,85001,42
+123,San Jose Urgent Care #123,Urgent Care,8371 Health Parkway,San Jose,CA,95101,365
+124,Austin General Hospital #124,General Hospital,3325 Health Parkway,Austin,TX,78701,391
+125,Houston Specialty Clinic #125,Specialty Clinic,6166 Health Parkway,Houston,TX,77001,696
+126,San Antonio Diagnostic Center #126,Diagnostic Center,7450 Health Parkway,San Antonio,TX,78201,65
+127,Denver Urgent Care #127,Urgent Care,6376 Health Parkway,Denver,CO,80201,32
+128,Denver Diagnostic Center #128,Diagnostic Center,4809 Health Parkway,Denver,CO,80201,545
+129,New York Urgent Care #129,Urgent Care,8765 Health Parkway,New York,NY,10001,576
+130,New York Urgent Care #130,Urgent Care,2065 Health Parkway,New York,NY,10001,23
+131,Seattle General Hospital #131,General Hospital,1582 Health Parkway,Seattle,WA,98101,470
+132,Houston General Hospital #132,General Hospital,1551 Health Parkway,Houston,TX,77001,398
+133,San Antonio Urgent Care #133,Urgent Care,5628 Health Parkway,San Antonio,TX,78201,49
+134,San Antonio General Hospital #134,General Hospital,1748 Health Parkway,San Antonio,TX,78201,308
+135,Los Angeles Urgent Care #135,Urgent Care,7425 Health Parkway,Los Angeles,CA,90001,79
+136,San Antonio Urgent Care #136,Urgent Care,2073 Health Parkway,San Antonio,TX,78201,697
+137,Philadelphia Diagnostic Center #137,Diagnostic Center,883 Health Parkway,Philadelphia,PA,19101,509
+138,Seattle Diagnostic Center #138,Diagnostic Center,2469 Health Parkway,Seattle,WA,98101,316
+139,Phoenix General Hospital #139,General Hospital,9570 Health Parkway,Phoenix,AZ,85001,118
+140,San Diego General Hospital #140,General Hospital,7063 Health Parkway,San Diego,CA,92101,469
+141,San Antonio Urgent Care #141,Urgent Care,5551 Health Parkway,San Antonio,TX,78201,567
+142,Los Angeles General Hospital #142,General Hospital,8897 Health Parkway,Los Angeles,CA,90001,729
+143,New York Urgent Care #143,Urgent Care,7041 Health Parkway,New York,NY,10001,731
+144,Los Angeles Specialty Clinic #144,Specialty Clinic,7630 Health Parkway,Los Angeles,CA,90001,632
+145,Houston Specialty Clinic #145,Specialty Clinic,9359 Health Parkway,Houston,TX,77001,326
+146,Denver Urgent Care #146,Urgent Care,6183 Health Parkway,Denver,CO,80201,786
+147,San Jose Diagnostic Center #147,Diagnostic Center,4177 Health Parkway,San Jose,CA,95101,734
+148,Phoenix Urgent Care #148,Urgent Care,1301 Health Parkway,Phoenix,AZ,85001,324
+149,Austin General Hospital #149,General Hospital,2755 Health Parkway,Austin,TX,78701,42
+150,Seattle General Hospital #150,General Hospital,2985 Health Parkway,Seattle,WA,98101,650
+151,Jacksonville Urgent Care #151,Urgent Care,9102 Health Parkway,Jacksonville,FL,32201,592
+152,Austin Diagnostic Center #152,Diagnostic Center,4293 Health Parkway,Austin,TX,78701,513
+153,Boston Urgent Care #153,Urgent Care,353 Health Parkway,Boston,MA,02101,222
+154,Chicago Specialty Clinic #154,Specialty Clinic,2000 Health Parkway,Chicago,IL,60601,69
+155,Jacksonville Specialty Clinic #155,Specialty Clinic,3758 Health Parkway,Jacksonville,FL,32201,455
+156,Los Angeles Diagnostic Center #156,Diagnostic Center,2551 Health Parkway,Los Angeles,CA,90001,46
+157,New York Urgent Care #157,Urgent Care,1968 Health Parkway,New York,NY,10001,531
+158,Chicago Specialty Clinic #158,Specialty Clinic,3993 Health Parkway,Chicago,IL,60601,493
+159,Houston Specialty Clinic #159,Specialty Clinic,739 Health Parkway,Houston,TX,77001,757
+160,Denver Specialty Clinic #160,Specialty Clinic,4302 Health Parkway,Denver,CO,80201,407
+161,Denver Specialty Clinic #161,Specialty Clinic,5044 Health Parkway,Denver,CO,80201,733
+162,Houston Urgent Care #162,Urgent Care,6153 Health Parkway,Houston,TX,77001,346
+163,Dallas Specialty Clinic #163,Specialty Clinic,5123 Health Parkway,Dallas,TX,75201,516
+164,Los Angeles Specialty Clinic #164,Specialty Clinic,7691 Health Parkway,Los Angeles,CA,90001,196
+165,Dallas Urgent Care #165,Urgent Care,7224 Health Parkway,Dallas,TX,75201,125
+166,Phoenix General Hospital #166,General Hospital,2531 Health Parkway,Phoenix,AZ,85001,461
+167,San Antonio Specialty Clinic #167,Specialty Clinic,6625 Health Parkway,San Antonio,TX,78201,324
+168,Dallas Specialty Clinic #168,Specialty Clinic,3450 Health Parkway,Dallas,TX,75201,188
+169,Houston General Hospital #169,General Hospital,5472 Health Parkway,Houston,TX,77001,146
+170,San Diego Urgent Care #170,Urgent Care,6313 Health Parkway,San Diego,CA,92101,741
+171,Phoenix Specialty Clinic #171,Specialty Clinic,6222 Health Parkway,Phoenix,AZ,85001,142
+172,Austin General Hospital #172,General Hospital,542 Health Parkway,Austin,TX,78701,35
+173,Chicago Specialty Clinic #173,Specialty Clinic,9095 Health Parkway,Chicago,IL,60601,675
+174,Jacksonville Specialty Clinic #174,Specialty Clinic,5444 Health Parkway,Jacksonville,FL,32201,54
+175,Chicago General Hospital #175,General Hospital,6624 Health Parkway,Chicago,IL,60601,683
+176,Boston Diagnostic Center #176,Diagnostic Center,7737 Health Parkway,Boston,MA,02101,531
+177,Boston General Hospital #177,General Hospital,5083 Health Parkway,Boston,MA,02101,618
+178,Houston Specialty Clinic #178,Specialty Clinic,5863 Health Parkway,Houston,TX,77001,720
+179,Denver Specialty Clinic #179,Specialty Clinic,5193 Health Parkway,Denver,CO,80201,454
+180,Phoenix General Hospital #180,General Hospital,1608 Health Parkway,Phoenix,AZ,85001,142
+181,Los Angeles Diagnostic Center #181,Diagnostic Center,369 Health Parkway,Los Angeles,CA,90001,42
+182,Jacksonville Urgent Care #182,Urgent Care,1784 Health Parkway,Jacksonville,FL,32201,754
+183,Houston Specialty Clinic #183,Specialty Clinic,6214 Health Parkway,Houston,TX,77001,498
+184,Boston General Hospital #184,General Hospital,3172 Health Parkway,Boston,MA,02101,257
+185,Houston Urgent Care #185,Urgent Care,8345 Health Parkway,Houston,TX,77001,714
+186,New York General Hospital #186,General Hospital,4537 Health Parkway,New York,NY,10001,301
+187,Philadelphia Specialty Clinic #187,Specialty Clinic,2988 Health Parkway,Philadelphia,PA,19101,574
+188,Dallas Specialty Clinic #188,Specialty Clinic,5688 Health Parkway,Dallas,TX,75201,31
+189,Denver Specialty Clinic #189,Specialty Clinic,9430 Health Parkway,Denver,CO,80201,294
+190,Dallas Specialty Clinic #190,Specialty Clinic,7718 Health Parkway,Dallas,TX,75201,722
+191,Boston General Hospital #191,General Hospital,5497 Health Parkway,Boston,MA,02101,361
+192,Austin General Hospital #192,General Hospital,8103 Health Parkway,Austin,TX,78701,478
+193,Denver Specialty Clinic #193,Specialty Clinic,5518 Health Parkway,Denver,CO,80201,751
+194,Philadelphia Diagnostic Center #194,Diagnostic Center,983 Health Parkway,Philadelphia,PA,19101,448
+195,Dallas Urgent Care #195,Urgent Care,3360 Health Parkway,Dallas,TX,75201,750
+196,New York Specialty Clinic #196,Specialty Clinic,5339 Health Parkway,New York,NY,10001,215
+197,Houston Specialty Clinic #197,Specialty Clinic,1947 Health Parkway,Houston,TX,77001,721
+198,Jacksonville Specialty Clinic #198,Specialty Clinic,2186 Health Parkway,Jacksonville,FL,32201,785
+199,Dallas Urgent Care #199,Urgent Care,9252 Health Parkway,Dallas,TX,75201,301
+200,Philadelphia Diagnostic Center #200,Diagnostic Center,8968 Health Parkway,Philadelphia,PA,19101,191
+201,Boston Urgent Care #201,Urgent Care,7105 Health Parkway,Boston,MA,02101,536
+202,Houston Specialty Clinic #202,Specialty Clinic,1299 Health Parkway,Houston,TX,77001,212
+203,San Diego Diagnostic Center #203,Diagnostic Center,1570 Health Parkway,San Diego,CA,92101,450
+204,Seattle Urgent Care #204,Urgent Care,3901 Health Parkway,Seattle,WA,98101,762
+205,Los Angeles Urgent Care #205,Urgent Care,1297 Health Parkway,Los Angeles,CA,90001,755
+206,San Jose General Hospital #206,General Hospital,6494 Health Parkway,San Jose,CA,95101,473
+207,Seattle Urgent Care #207,Urgent Care,9650 Health Parkway,Seattle,WA,98101,659
+208,Boston Diagnostic Center #208,Diagnostic Center,7657 Health Parkway,Boston,MA,02101,341
+209,Boston Specialty Clinic #209,Specialty Clinic,3636 Health Parkway,Boston,MA,02101,438
+210,Seattle Urgent Care #210,Urgent Care,4092 Health Parkway,Seattle,WA,98101,334
+211,Dallas Specialty Clinic #211,Specialty Clinic,1780 Health Parkway,Dallas,TX,75201,797
+212,Seattle Specialty Clinic #212,Specialty Clinic,2571 Health Parkway,Seattle,WA,98101,416
+213,Jacksonville General Hospital #213,General Hospital,7144 Health Parkway,Jacksonville,FL,32201,547
+214,Chicago Diagnostic Center #214,Diagnostic Center,3801 Health Parkway,Chicago,IL,60601,170
+215,San Antonio Specialty Clinic #215,Specialty Clinic,9453 Health Parkway,San Antonio,TX,78201,93
+216,Austin Urgent Care #216,Urgent Care,454 Health Parkway,Austin,TX,78701,329
+217,Boston General Hospital #217,General Hospital,9769 Health Parkway,Boston,MA,02101,98
+218,Austin Diagnostic Center #218,Diagnostic Center,9875 Health Parkway,Austin,TX,78701,371
+219,Denver Specialty Clinic #219,Specialty Clinic,8871 Health Parkway,Denver,CO,80201,159
+220,Dallas Urgent Care #220,Urgent Care,8846 Health Parkway,Dallas,TX,75201,312
+221,Denver Urgent Care #221,Urgent Care,8582 Health Parkway,Denver,CO,80201,745
+222,New York General Hospital #222,General Hospital,683 Health Parkway,New York,NY,10001,629
+223,Houston Diagnostic Center #223,Diagnostic Center,2946 Health Parkway,Houston,TX,77001,336
+224,New York General Hospital #224,General Hospital,8418 Health Parkway,New York,NY,10001,358
+225,San Antonio Diagnostic Center #225,Diagnostic Center,6174 Health Parkway,San Antonio,TX,78201,325
+226,New York Urgent Care #226,Urgent Care,681 Health Parkway,New York,NY,10001,247
+227,New York Diagnostic Center #227,Diagnostic Center,532 Health Parkway,New York,NY,10001,723
+228,New York Specialty Clinic #228,Specialty Clinic,1389 Health Parkway,New York,NY,10001,375
+229,Los Angeles Diagnostic Center #229,Diagnostic Center,612 Health Parkway,Los Angeles,CA,90001,590
+230,San Diego General Hospital #230,General Hospital,9319 Health Parkway,San Diego,CA,92101,61
+231,San Antonio Diagnostic Center #231,Diagnostic Center,7989 Health Parkway,San Antonio,TX,78201,640
+232,Boston General Hospital #232,General Hospital,1322 Health Parkway,Boston,MA,02101,331
+233,Boston General Hospital #233,General Hospital,2077 Health Parkway,Boston,MA,02101,688
+234,Chicago Diagnostic Center #234,Diagnostic Center,947 Health Parkway,Chicago,IL,60601,583
+235,New York Specialty Clinic #235,Specialty Clinic,506 Health Parkway,New York,NY,10001,304
+236,New York Urgent Care #236,Urgent Care,2802 Health Parkway,New York,NY,10001,131
+237,Jacksonville Diagnostic Center #237,Diagnostic Center,6960 Health Parkway,Jacksonville,FL,32201,754
+238,Phoenix General Hospital #238,General Hospital,584 Health Parkway,Phoenix,AZ,85001,312
+239,San Jose General Hospital #239,General Hospital,1504 Health Parkway,San Jose,CA,95101,433
+240,Chicago General Hospital #240,General Hospital,9438 Health Parkway,Chicago,IL,60601,354
+241,Philadelphia Urgent Care #241,Urgent Care,1734 Health Parkway,Philadelphia,PA,19101,743
+242,Denver Specialty Clinic #242,Specialty Clinic,9993 Health Parkway,Denver,CO,80201,379
+243,San Antonio Urgent Care #243,Urgent Care,9618 Health Parkway,San Antonio,TX,78201,179
+244,Chicago Urgent Care #244,Urgent Care,7942 Health Parkway,Chicago,IL,60601,509
+245,San Antonio Diagnostic Center #245,Diagnostic Center,8462 Health Parkway,San Antonio,TX,78201,44
+246,Phoenix Specialty Clinic #246,Specialty Clinic,4958 Health Parkway,Phoenix,AZ,85001,719
+247,Denver Diagnostic Center #247,Diagnostic Center,9265 Health Parkway,Denver,CO,80201,413
+248,Denver General Hospital #248,General Hospital,1463 Health Parkway,Denver,CO,80201,206
+249,Los Angeles Diagnostic Center #249,Diagnostic Center,1274 Health Parkway,Los Angeles,CA,90001,86
+250,Austin Urgent Care #250,Urgent Care,528 Health Parkway,Austin,TX,78701,471
+251,San Antonio Specialty Clinic #251,Specialty Clinic,8811 Health Parkway,San Antonio,TX,78201,366
+252,Chicago Urgent Care #252,Urgent Care,3177 Health Parkway,Chicago,IL,60601,242
+253,Chicago Specialty Clinic #253,Specialty Clinic,1090 Health Parkway,Chicago,IL,60601,624
+254,Chicago General Hospital #254,General Hospital,7657 Health Parkway,Chicago,IL,60601,87
+255,Austin Urgent Care #255,Urgent Care,7510 Health Parkway,Austin,TX,78701,464
+256,San Diego General Hospital #256,General Hospital,1432 Health Parkway,San Diego,CA,92101,287
+257,Houston General Hospital #257,General Hospital,6726 Health Parkway,Houston,TX,77001,279
+258,San Jose General Hospital #258,General Hospital,9418 Health Parkway,San Jose,CA,95101,299
+259,Boston Urgent Care #259,Urgent Care,3843 Health Parkway,Boston,MA,02101,230
+260,Dallas Specialty Clinic #260,Specialty Clinic,8387 Health Parkway,Dallas,TX,75201,464
+261,San Jose Diagnostic Center #261,Diagnostic Center,4043 Health Parkway,San Jose,CA,95101,382
+262,Dallas Urgent Care #262,Urgent Care,3950 Health Parkway,Dallas,TX,75201,185
+263,Los Angeles Urgent Care #263,Urgent Care,4137 Health Parkway,Los Angeles,CA,90001,507
+264,Los Angeles Urgent Care #264,Urgent Care,8910 Health Parkway,Los Angeles,CA,90001,473
+265,San Antonio General Hospital #265,General Hospital,2651 Health Parkway,San Antonio,TX,78201,730
+266,Dallas Diagnostic Center #266,Diagnostic Center,5777 Health Parkway,Dallas,TX,75201,701
+267,Los Angeles Diagnostic Center #267,Diagnostic Center,9892 Health Parkway,Los Angeles,CA,90001,631
+268,Austin Urgent Care #268,Urgent Care,4627 Health Parkway,Austin,TX,78701,672
+269,New York General Hospital #269,General Hospital,4450 Health Parkway,New York,NY,10001,697
+270,San Jose Diagnostic Center #270,Diagnostic Center,4575 Health Parkway,San Jose,CA,95101,143
+271,Houston Diagnostic Center #271,Diagnostic Center,4790 Health Parkway,Houston,TX,77001,236
+272,Houston General Hospital #272,General Hospital,253 Health Parkway,Houston,TX,77001,673
+273,Phoenix Diagnostic Center #273,Diagnostic Center,9899 Health Parkway,Phoenix,AZ,85001,69
+274,Philadelphia Diagnostic Center #274,Diagnostic Center,9935 Health Parkway,Philadelphia,PA,19101,286
+275,Houston Urgent Care #275,Urgent Care,9744 Health Parkway,Houston,TX,77001,17
+276,Chicago Urgent Care #276,Urgent Care,4409 Health Parkway,Chicago,IL,60601,36
+277,Denver Specialty Clinic #277,Specialty Clinic,6358 Health Parkway,Denver,CO,80201,612
+278,Phoenix General Hospital #278,General Hospital,9102 Health Parkway,Phoenix,AZ,85001,144
+279,Philadelphia Specialty Clinic #279,Specialty Clinic,7560 Health Parkway,Philadelphia,PA,19101,104
+280,Austin Diagnostic Center #280,Diagnostic Center,5342 Health Parkway,Austin,TX,78701,401
+281,Austin Urgent Care #281,Urgent Care,3353 Health Parkway,Austin,TX,78701,656
+282,Austin Specialty Clinic #282,Specialty Clinic,1119 Health Parkway,Austin,TX,78701,349
+283,New York Urgent Care #283,Urgent Care,6161 Health Parkway,New York,NY,10001,469
+284,Phoenix Diagnostic Center #284,Diagnostic Center,4297 Health Parkway,Phoenix,AZ,85001,537
+285,Seattle General Hospital #285,General Hospital,232 Health Parkway,Seattle,WA,98101,115
+286,Philadelphia Diagnostic Center #286,Diagnostic Center,9433 Health Parkway,Philadelphia,PA,19101,120
+287,Boston Urgent Care #287,Urgent Care,8955 Health Parkway,Boston,MA,02101,344
+288,New York Urgent Care #288,Urgent Care,3663 Health Parkway,New York,NY,10001,785
+289,San Jose Urgent Care #289,Urgent Care,9748 Health Parkway,San Jose,CA,95101,51
+290,Chicago Specialty Clinic #290,Specialty Clinic,8255 Health Parkway,Chicago,IL,60601,247
+291,Denver General Hospital #291,General Hospital,1678 Health Parkway,Denver,CO,80201,625
+292,Denver Diagnostic Center #292,Diagnostic Center,5975 Health Parkway,Denver,CO,80201,375
+293,Seattle Specialty Clinic #293,Specialty Clinic,5090 Health Parkway,Seattle,WA,98101,557
+294,Seattle Urgent Care #294,Urgent Care,3855 Health Parkway,Seattle,WA,98101,226
+295,New York Urgent Care #295,Urgent Care,5115 Health Parkway,New York,NY,10001,310
+296,San Jose Specialty Clinic #296,Specialty Clinic,5753 Health Parkway,San Jose,CA,95101,111
+297,Houston General Hospital #297,General Hospital,827 Health Parkway,Houston,TX,77001,552
+298,Los Angeles Urgent Care #298,Urgent Care,9338 Health Parkway,Los Angeles,CA,90001,563
+299,Phoenix Urgent Care #299,Urgent Care,3271 Health Parkway,Phoenix,AZ,85001,687
+300,Chicago Specialty Clinic #300,Specialty Clinic,9360 Health Parkway,Chicago,IL,60601,160
+301,San Jose Urgent Care #301,Urgent Care,1697 Health Parkway,San Jose,CA,95101,797
+302,Dallas General Hospital #302,General Hospital,9336 Health Parkway,Dallas,TX,75201,762
+303,Phoenix General Hospital #303,General Hospital,8640 Health Parkway,Phoenix,AZ,85001,257
+304,New York General Hospital #304,General Hospital,9454 Health Parkway,New York,NY,10001,11
+305,New York General Hospital #305,General Hospital,7582 Health Parkway,New York,NY,10001,79
+306,Boston Urgent Care #306,Urgent Care,5376 Health Parkway,Boston,MA,02101,453
+307,San Diego Specialty Clinic #307,Specialty Clinic,2027 Health Parkway,San Diego,CA,92101,696
+308,Philadelphia Urgent Care #308,Urgent Care,2506 Health Parkway,Philadelphia,PA,19101,591
+309,Los Angeles General Hospital #309,General Hospital,5624 Health Parkway,Los Angeles,CA,90001,577
+310,Denver General Hospital #310,General Hospital,9294 Health Parkway,Denver,CO,80201,601
+311,Philadelphia General Hospital #311,General Hospital,4848 Health Parkway,Philadelphia,PA,19101,328
+312,Seattle Urgent Care #312,Urgent Care,1857 Health Parkway,Seattle,WA,98101,549
+313,San Antonio Urgent Care #313,Urgent Care,6705 Health Parkway,San Antonio,TX,78201,467
+314,Los Angeles Diagnostic Center #314,Diagnostic Center,543 Health Parkway,Los Angeles,CA,90001,703
+315,Phoenix Specialty Clinic #315,Specialty Clinic,6867 Health Parkway,Phoenix,AZ,85001,283
+316,San Diego Specialty Clinic #316,Specialty Clinic,6915 Health Parkway,San Diego,CA,92101,347
+317,San Jose Urgent Care #317,Urgent Care,142 Health Parkway,San Jose,CA,95101,425
+318,Seattle Urgent Care #318,Urgent Care,4846 Health Parkway,Seattle,WA,98101,713
+319,Houston Diagnostic Center #319,Diagnostic Center,2451 Health Parkway,Houston,TX,77001,681
+320,Dallas Diagnostic Center #320,Diagnostic Center,6947 Health Parkway,Dallas,TX,75201,564
+321,New York General Hospital #321,General Hospital,5750 Health Parkway,New York,NY,10001,265
+322,Phoenix Diagnostic Center #322,Diagnostic Center,8159 Health Parkway,Phoenix,AZ,85001,677
+323,San Antonio General Hospital #323,General Hospital,2787 Health Parkway,San Antonio,TX,78201,205
+324,San Diego Diagnostic Center #324,Diagnostic Center,9976 Health Parkway,San Diego,CA,92101,602
+325,San Antonio Diagnostic Center #325,Diagnostic Center,8613 Health Parkway,San Antonio,TX,78201,168
+326,Jacksonville Urgent Care #326,Urgent Care,4391 Health Parkway,Jacksonville,FL,32201,551
+327,San Jose Urgent Care #327,Urgent Care,7772 Health Parkway,San Jose,CA,95101,679
+328,Phoenix General Hospital #328,General Hospital,1974 Health Parkway,Phoenix,AZ,85001,580
+329,Houston Specialty Clinic #329,Specialty Clinic,2480 Health Parkway,Houston,TX,77001,447
+330,Boston Specialty Clinic #330,Specialty Clinic,3538 Health Parkway,Boston,MA,02101,22
+331,Austin Specialty Clinic #331,Specialty Clinic,9990 Health Parkway,Austin,TX,78701,125
+332,Phoenix Diagnostic Center #332,Diagnostic Center,8341 Health Parkway,Phoenix,AZ,85001,479
+333,New York Specialty Clinic #333,Specialty Clinic,3880 Health Parkway,New York,NY,10001,37
+334,Jacksonville Diagnostic Center #334,Diagnostic Center,6620 Health Parkway,Jacksonville,FL,32201,21
+335,Denver Specialty Clinic #335,Specialty Clinic,8694 Health Parkway,Denver,CO,80201,643
+336,Denver Diagnostic Center #336,Diagnostic Center,2575 Health Parkway,Denver,CO,80201,34
+337,Dallas Diagnostic Center #337,Diagnostic Center,2599 Health Parkway,Dallas,TX,75201,76
+338,Los Angeles General Hospital #338,General Hospital,7817 Health Parkway,Los Angeles,CA,90001,157
+339,Boston Urgent Care #339,Urgent Care,466 Health Parkway,Boston,MA,02101,739
+340,Boston Diagnostic Center #340,Diagnostic Center,3697 Health Parkway,Boston,MA,02101,498
+341,Houston Specialty Clinic #341,Specialty Clinic,9707 Health Parkway,Houston,TX,77001,722
+342,San Jose General Hospital #342,General Hospital,6216 Health Parkway,San Jose,CA,95101,314
+343,Austin Urgent Care #343,Urgent Care,9454 Health Parkway,Austin,TX,78701,447
+344,San Antonio General Hospital #344,General Hospital,4060 Health Parkway,San Antonio,TX,78201,337
+345,Dallas Diagnostic Center #345,Diagnostic Center,1652 Health Parkway,Dallas,TX,75201,275
+346,Denver Urgent Care #346,Urgent Care,919 Health Parkway,Denver,CO,80201,671
+347,Boston General Hospital #347,General Hospital,7327 Health Parkway,Boston,MA,02101,308
+348,Philadelphia Diagnostic Center #348,Diagnostic Center,6411 Health Parkway,Philadelphia,PA,19101,518
+349,Jacksonville Urgent Care #349,Urgent Care,8445 Health Parkway,Jacksonville,FL,32201,351
+350,Chicago Diagnostic Center #350,Diagnostic Center,2248 Health Parkway,Chicago,IL,60601,195
+351,Jacksonville General Hospital #351,General Hospital,3513 Health Parkway,Jacksonville,FL,32201,682
+352,Los Angeles Urgent Care #352,Urgent Care,4230 Health Parkway,Los Angeles,CA,90001,345
+353,Philadelphia Specialty Clinic #353,Specialty Clinic,5927 Health Parkway,Philadelphia,PA,19101,434
+354,Denver Urgent Care #354,Urgent Care,3357 Health Parkway,Denver,CO,80201,451
+355,San Jose Urgent Care #355,Urgent Care,728 Health Parkway,San Jose,CA,95101,680
+356,Chicago General Hospital #356,General Hospital,7171 Health Parkway,Chicago,IL,60601,313
+357,Chicago General Hospital #357,General Hospital,8620 Health Parkway,Chicago,IL,60601,44
+358,Los Angeles Diagnostic Center #358,Diagnostic Center,2919 Health Parkway,Los Angeles,CA,90001,740
+359,Los Angeles Urgent Care #359,Urgent Care,4860 Health Parkway,Los Angeles,CA,90001,29
+360,Philadelphia General Hospital #360,General Hospital,2094 Health Parkway,Philadelphia,PA,19101,396
+361,Phoenix Urgent Care #361,Urgent Care,191 Health Parkway,Phoenix,AZ,85001,249
+362,Boston Specialty Clinic #362,Specialty Clinic,5062 Health Parkway,Boston,MA,02101,172
+363,Boston Specialty Clinic #363,Specialty Clinic,9968 Health Parkway,Boston,MA,02101,756
+364,Austin General Hospital #364,General Hospital,8247 Health Parkway,Austin,TX,78701,352
+365,Philadelphia Urgent Care #365,Urgent Care,6068 Health Parkway,Philadelphia,PA,19101,175
+366,Denver Urgent Care #366,Urgent Care,226 Health Parkway,Denver,CO,80201,621
+367,San Jose Specialty Clinic #367,Specialty Clinic,5970 Health Parkway,San Jose,CA,95101,450
+368,San Jose General Hospital #368,General Hospital,2859 Health Parkway,San Jose,CA,95101,436
+369,San Antonio General Hospital #369,General Hospital,2125 Health Parkway,San Antonio,TX,78201,593
+370,San Jose Urgent Care #370,Urgent Care,4111 Health Parkway,San Jose,CA,95101,334
+371,New York Urgent Care #371,Urgent Care,7643 Health Parkway,New York,NY,10001,513
+372,Chicago Specialty Clinic #372,Specialty Clinic,7237 Health Parkway,Chicago,IL,60601,524
+373,Austin Urgent Care #373,Urgent Care,2884 Health Parkway,Austin,TX,78701,750
+374,San Jose Urgent Care #374,Urgent Care,9428 Health Parkway,San Jose,CA,95101,672
+375,Denver Specialty Clinic #375,Specialty Clinic,6262 Health Parkway,Denver,CO,80201,92
+376,San Jose General Hospital #376,General Hospital,1755 Health Parkway,San Jose,CA,95101,790
+377,San Diego Diagnostic Center #377,Diagnostic Center,3409 Health Parkway,San Diego,CA,92101,38
+378,Denver Diagnostic Center #378,Diagnostic Center,7134 Health Parkway,Denver,CO,80201,565
+379,Phoenix Diagnostic Center #379,Diagnostic Center,2614 Health Parkway,Phoenix,AZ,85001,174
+380,Los Angeles Urgent Care #380,Urgent Care,252 Health Parkway,Los Angeles,CA,90001,407
+381,Dallas Diagnostic Center #381,Diagnostic Center,8632 Health Parkway,Dallas,TX,75201,797
+382,Seattle Diagnostic Center #382,Diagnostic Center,6564 Health Parkway,Seattle,WA,98101,55
+383,Dallas Specialty Clinic #383,Specialty Clinic,9735 Health Parkway,Dallas,TX,75201,641
+384,Denver Urgent Care #384,Urgent Care,4164 Health Parkway,Denver,CO,80201,240
+385,San Jose Specialty Clinic #385,Specialty Clinic,5474 Health Parkway,San Jose,CA,95101,374
+386,Houston Specialty Clinic #386,Specialty Clinic,7445 Health Parkway,Houston,TX,77001,120
+387,New York Diagnostic Center #387,Diagnostic Center,8523 Health Parkway,New York,NY,10001,336
+388,Austin Specialty Clinic #388,Specialty Clinic,2464 Health Parkway,Austin,TX,78701,675
+389,Phoenix Urgent Care #389,Urgent Care,8750 Health Parkway,Phoenix,AZ,85001,183
+390,Jacksonville General Hospital #390,General Hospital,1361 Health Parkway,Jacksonville,FL,32201,598
+391,Seattle Urgent Care #391,Urgent Care,7197 Health Parkway,Seattle,WA,98101,98
+392,San Antonio Specialty Clinic #392,Specialty Clinic,2162 Health Parkway,San Antonio,TX,78201,372
+393,Boston Diagnostic Center #393,Diagnostic Center,6955 Health Parkway,Boston,MA,02101,449
+394,Jacksonville Specialty Clinic #394,Specialty Clinic,2332 Health Parkway,Jacksonville,FL,32201,560
+395,Seattle Diagnostic Center #395,Diagnostic Center,3649 Health Parkway,Seattle,WA,98101,383
+396,San Antonio Urgent Care #396,Urgent Care,1761 Health Parkway,San Antonio,TX,78201,96
+397,San Diego Urgent Care #397,Urgent Care,4961 Health Parkway,San Diego,CA,92101,80
+398,San Diego Urgent Care #398,Urgent Care,1059 Health Parkway,San Diego,CA,92101,199
+399,Dallas General Hospital #399,General Hospital,7873 Health Parkway,Dallas,TX,75201,377
+400,Phoenix Urgent Care #400,Urgent Care,8930 Health Parkway,Phoenix,AZ,85001,267
+401,San Jose Diagnostic Center #401,Diagnostic Center,632 Health Parkway,San Jose,CA,95101,774
+402,Austin Urgent Care #402,Urgent Care,3824 Health Parkway,Austin,TX,78701,161
+403,Denver Diagnostic Center #403,Diagnostic Center,8642 Health Parkway,Denver,CO,80201,450
+404,Austin General Hospital #404,General Hospital,8498 Health Parkway,Austin,TX,78701,366
+405,San Antonio Specialty Clinic #405,Specialty Clinic,1331 Health Parkway,San Antonio,TX,78201,659
+406,Philadelphia Urgent Care #406,Urgent Care,7301 Health Parkway,Philadelphia,PA,19101,496
+407,San Jose Urgent Care #407,Urgent Care,6198 Health Parkway,San Jose,CA,95101,513
+408,Boston General Hospital #408,General Hospital,6299 Health Parkway,Boston,MA,02101,314
+409,New York Diagnostic Center #409,Diagnostic Center,3160 Health Parkway,New York,NY,10001,605
+410,New York Urgent Care #410,Urgent Care,5273 Health Parkway,New York,NY,10001,43
+411,Austin Diagnostic Center #411,Diagnostic Center,7692 Health Parkway,Austin,TX,78701,25
+412,San Diego Urgent Care #412,Urgent Care,9462 Health Parkway,San Diego,CA,92101,701
+413,San Jose Urgent Care #413,Urgent Care,8099 Health Parkway,San Jose,CA,95101,145
+414,Denver Urgent Care #414,Urgent Care,9009 Health Parkway,Denver,CO,80201,396
+415,Jacksonville Diagnostic Center #415,Diagnostic Center,9170 Health Parkway,Jacksonville,FL,32201,546
+416,Jacksonville General Hospital #416,General Hospital,996 Health Parkway,Jacksonville,FL,32201,590
+417,San Diego Specialty Clinic #417,Specialty Clinic,3089 Health Parkway,San Diego,CA,92101,191
+418,Philadelphia Specialty Clinic #418,Specialty Clinic,1241 Health Parkway,Philadelphia,PA,19101,707
+419,Seattle General Hospital #419,General Hospital,6539 Health Parkway,Seattle,WA,98101,192
+420,Austin Specialty Clinic #420,Specialty Clinic,9646 Health Parkway,Austin,TX,78701,100
+421,Philadelphia Urgent Care #421,Urgent Care,2545 Health Parkway,Philadelphia,PA,19101,304
+422,Los Angeles General Hospital #422,General Hospital,9057 Health Parkway,Los Angeles,CA,90001,551
+423,San Jose General Hospital #423,General Hospital,838 Health Parkway,San Jose,CA,95101,113
+424,New York General Hospital #424,General Hospital,5654 Health Parkway,New York,NY,10001,295
+425,Seattle Urgent Care #425,Urgent Care,9495 Health Parkway,Seattle,WA,98101,740
+426,Los Angeles Diagnostic Center #426,Diagnostic Center,1530 Health Parkway,Los Angeles,CA,90001,288
+427,Chicago General Hospital #427,General Hospital,4479 Health Parkway,Chicago,IL,60601,454
+428,New York General Hospital #428,General Hospital,268 Health Parkway,New York,NY,10001,131
+429,Seattle General Hospital #429,General Hospital,2362 Health Parkway,Seattle,WA,98101,125
+430,Dallas Diagnostic Center #430,Diagnostic Center,6663 Health Parkway,Dallas,TX,75201,80
+431,Denver Urgent Care #431,Urgent Care,8135 Health Parkway,Denver,CO,80201,153
+432,San Diego Diagnostic Center #432,Diagnostic Center,7170 Health Parkway,San Diego,CA,92101,765
+433,Austin Specialty Clinic #433,Specialty Clinic,4377 Health Parkway,Austin,TX,78701,170
+434,Houston Diagnostic Center #434,Diagnostic Center,2915 Health Parkway,Houston,TX,77001,542
+435,Houston General Hospital #435,General Hospital,146 Health Parkway,Houston,TX,77001,606
+436,New York Specialty Clinic #436,Specialty Clinic,8064 Health Parkway,New York,NY,10001,71
+437,Austin Diagnostic Center #437,Diagnostic Center,8381 Health Parkway,Austin,TX,78701,603
+438,Dallas Specialty Clinic #438,Specialty Clinic,8857 Health Parkway,Dallas,TX,75201,787
+439,Austin Specialty Clinic #439,Specialty Clinic,9351 Health Parkway,Austin,TX,78701,598
+440,Denver General Hospital #440,General Hospital,6029 Health Parkway,Denver,CO,80201,124
+441,New York General Hospital #441,General Hospital,6690 Health Parkway,New York,NY,10001,81
+442,Chicago Diagnostic Center #442,Diagnostic Center,5439 Health Parkway,Chicago,IL,60601,618
+443,Chicago General Hospital #443,General Hospital,6675 Health Parkway,Chicago,IL,60601,43
+444,Dallas Diagnostic Center #444,Diagnostic Center,5693 Health Parkway,Dallas,TX,75201,89
+445,Seattle Diagnostic Center #445,Diagnostic Center,3873 Health Parkway,Seattle,WA,98101,295
+446,Denver Specialty Clinic #446,Specialty Clinic,7485 Health Parkway,Denver,CO,80201,504
+447,Philadelphia Urgent Care #447,Urgent Care,1771 Health Parkway,Philadelphia,PA,19101,77
+448,Philadelphia Specialty Clinic #448,Specialty Clinic,5645 Health Parkway,Philadelphia,PA,19101,751
+449,Los Angeles Urgent Care #449,Urgent Care,9219 Health Parkway,Los Angeles,CA,90001,271
+450,Seattle Urgent Care #450,Urgent Care,6826 Health Parkway,Seattle,WA,98101,769
+451,Boston General Hospital #451,General Hospital,8334 Health Parkway,Boston,MA,02101,586
+452,Houston Diagnostic Center #452,Diagnostic Center,2688 Health Parkway,Houston,TX,77001,754
+453,Dallas Urgent Care #453,Urgent Care,9153 Health Parkway,Dallas,TX,75201,124
+454,Boston Urgent Care #454,Urgent Care,1363 Health Parkway,Boston,MA,02101,648
+455,Denver Diagnostic Center #455,Diagnostic Center,3990 Health Parkway,Denver,CO,80201,641
+456,Jacksonville General Hospital #456,General Hospital,217 Health Parkway,Jacksonville,FL,32201,766
+457,San Antonio Diagnostic Center #457,Diagnostic Center,6612 Health Parkway,San Antonio,TX,78201,370
+458,New York Diagnostic Center #458,Diagnostic Center,1371 Health Parkway,New York,NY,10001,792
+459,Austin Urgent Care #459,Urgent Care,6304 Health Parkway,Austin,TX,78701,176
+460,Boston General Hospital #460,General Hospital,3205 Health Parkway,Boston,MA,02101,380
+461,New York Urgent Care #461,Urgent Care,6282 Health Parkway,New York,NY,10001,243
+462,San Jose Specialty Clinic #462,Specialty Clinic,194 Health Parkway,San Jose,CA,95101,436
+463,Boston Diagnostic Center #463,Diagnostic Center,3877 Health Parkway,Boston,MA,02101,591
+464,San Jose Specialty Clinic #464,Specialty Clinic,9207 Health Parkway,San Jose,CA,95101,105
+465,Seattle Diagnostic Center #465,Diagnostic Center,6203 Health Parkway,Seattle,WA,98101,668
+466,New York Urgent Care #466,Urgent Care,8684 Health Parkway,New York,NY,10001,156
+467,Boston Specialty Clinic #467,Specialty Clinic,3051 Health Parkway,Boston,MA,02101,26
+468,San Antonio Diagnostic Center #468,Diagnostic Center,7118 Health Parkway,San Antonio,TX,78201,582
+469,Boston Diagnostic Center #469,Diagnostic Center,5140 Health Parkway,Boston,MA,02101,673
+470,Phoenix Urgent Care #470,Urgent Care,5347 Health Parkway,Phoenix,AZ,85001,112
+471,San Diego Specialty Clinic #471,Specialty Clinic,3568 Health Parkway,San Diego,CA,92101,308
+472,Los Angeles Diagnostic Center #472,Diagnostic Center,2336 Health Parkway,Los Angeles,CA,90001,363
+473,Philadelphia Diagnostic Center #473,Diagnostic Center,6544 Health Parkway,Philadelphia,PA,19101,371
+474,Austin General Hospital #474,General Hospital,2923 Health Parkway,Austin,TX,78701,214
+475,Philadelphia General Hospital #475,General Hospital,5976 Health Parkway,Philadelphia,PA,19101,409
+476,San Antonio General Hospital #476,General Hospital,1178 Health Parkway,San Antonio,TX,78201,251
+477,Seattle Urgent Care #477,Urgent Care,7532 Health Parkway,Seattle,WA,98101,374
+478,Boston Urgent Care #478,Urgent Care,6895 Health Parkway,Boston,MA,02101,227
+479,New York Specialty Clinic #479,Specialty Clinic,4942 Health Parkway,New York,NY,10001,715
+480,Los Angeles General Hospital #480,General Hospital,3615 Health Parkway,Los Angeles,CA,90001,466
+481,Phoenix Specialty Clinic #481,Specialty Clinic,9307 Health Parkway,Phoenix,AZ,85001,210
+482,Jacksonville Diagnostic Center #482,Diagnostic Center,9878 Health Parkway,Jacksonville,FL,32201,60
+483,Los Angeles Urgent Care #483,Urgent Care,9638 Health Parkway,Los Angeles,CA,90001,372
+484,Philadelphia Specialty Clinic #484,Specialty Clinic,398 Health Parkway,Philadelphia,PA,19101,547
+485,San Antonio Specialty Clinic #485,Specialty Clinic,9635 Health Parkway,San Antonio,TX,78201,181
+486,Houston General Hospital #486,General Hospital,5078 Health Parkway,Houston,TX,77001,278
+487,Denver Urgent Care #487,Urgent Care,4426 Health Parkway,Denver,CO,80201,506
+488,San Antonio Urgent Care #488,Urgent Care,7103 Health Parkway,San Antonio,TX,78201,71
+489,San Jose Urgent Care #489,Urgent Care,9233 Health Parkway,San Jose,CA,95101,99
+490,Austin General Hospital #490,General Hospital,1479 Health Parkway,Austin,TX,78701,685
+491,Houston Urgent Care #491,Urgent Care,9880 Health Parkway,Houston,TX,77001,382
+492,Jacksonville Specialty Clinic #492,Specialty Clinic,7051 Health Parkway,Jacksonville,FL,32201,678
+493,San Antonio Diagnostic Center #493,Diagnostic Center,3531 Health Parkway,San Antonio,TX,78201,572
+494,Austin Diagnostic Center #494,Diagnostic Center,1575 Health Parkway,Austin,TX,78701,798
+495,Chicago General Hospital #495,General Hospital,2813 Health Parkway,Chicago,IL,60601,573
+496,Seattle General Hospital #496,General Hospital,9067 Health Parkway,Seattle,WA,98101,764
+497,San Jose Urgent Care #497,Urgent Care,4830 Health Parkway,San Jose,CA,95101,451
+498,Houston Diagnostic Center #498,Diagnostic Center,1438 Health Parkway,Houston,TX,77001,162
+499,Boston Urgent Care #499,Urgent Care,9343 Health Parkway,Boston,MA,02101,680
+500,Los Angeles Diagnostic Center #500,Diagnostic Center,3497 Health Parkway,Los Angeles,CA,90001,357

@@ -25,3 +25,11 @@ ENV/
 .vscode/
 .idea/
 *.swp
+
+# SQLite Databases (>100MB limit on GitHub)
+*.db
+*.db-journal
+
+# Large 1M row data files (>50MB limit on GitHub)
+sales_transactions.json
+sales_transactions.csv

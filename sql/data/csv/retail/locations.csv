@@ -1,0 +1,1301 @@
+location_id,location_name,location_type,region,city,state,postal_code,square_feet,opened_date
+1,Store #0001 - Miami,Store,West,Miami,FL,33101,53372,2020-06-27
+2,Store #0002 - Philadelphia,Store,East,Philadelphia,PA,19101,15230,2022-12-02
+3,Store #0003 - El Paso,Store,South,El Paso,TX,79901,99727,2016-11-27
+4,Store #0004 - Louisville,Store,West,Louisville,KY,40201,38533,2020-04-22
+5,Store #0005 - Kansas City,Store,South,Kansas City,MO,64101,118354,2017-02-17
+6,Store #0006 - Chicago,Store,East,Chicago,IL,60601,25862,2022-06-08
+7,Store #0007 - Boston,Store,West,Boston,MA,02101,42854,2016-07-27
+8,Store #0008 - Las Vegas,Store,Midwest,Las Vegas,NV,89101,31562,2015-04-27
+9,Store #0009 - Atlanta,Store,North,Atlanta,GA,30301,26400,2022-02-21
+10,Store #0010 - San Diego,Store,North,San Diego,CA,92101,62537,2013-12-27
+11,Store #0011 - Columbus,Store,South,Columbus,OH,43201,73753,2016-02-01
+12,Store #0012 - Boston,Store,East,Boston,MA,02101,41586,2016-05-07
+13,Store #0013 - Portland,Store,North,Portland,OR,97201,75076,2015-09-13
+14,Store #0014 - El Paso,Store,North,El Paso,TX,79901,21508,2015-09-02
+15,Store #0015 - Charlotte,Store,North,Charlotte,NC,28201,44801,2017-05-21
+16,Store #0016 - San Jose,Store,South,San Jose,CA,95101,35810,2015-03-23
+17,Store #0017 - Phoenix,Store,East,Phoenix,AZ,85001,62193,2017-11-26
+18,Store #0018 - Dallas,Store,West,Dallas,TX,75201,46358,2015-01-14
+19,Store #0019 - Memphis,Store,Midwest,Memphis,TN,38101,46045,2016-07-01
+20,Store #0020 - Memphis,Store,East,Memphis,TN,38101,29502,2022-02-12
+21,Store #0021 - San Antonio,Store,North,San Antonio,TX,78201,54066,2019-07-14
+22,Store #0022 - Baltimore,Store,North,Baltimore,MD,21201,57161,2017-05-12
+23,Store #0023 - Fort Worth,Store,East,Fort Worth,TX,76101,87446,2017-05-11
+24,Store #0024 - Tucson,Store,East,Tucson,AZ,85701,64775,2014-08-31
+25,Store #0025 - Dallas,Store,South,Dallas,TX,75201,66101,2020-07-20
+26,Store #0026 - San Diego,Store,East,San Diego,CA,92101,104107,2015-10-31
+27,Store #0027 - Boston,Store,West,Boston,MA,02101,70510,2019-01-31
+28,Store #0028 - Jacksonville,Store,South,Jacksonville,FL,32201,64252,2019-05-17
+29,Store #0029 - Atlanta,Store,Midwest,Atlanta,GA,30301,19855,2023-02-18
+30,Store #0030 - Los Angeles,Store,South,Los Angeles,CA,90001,29781,2020-09-05
+31,Store #0031 - Milwaukee,Store,East,Milwaukee,WI,53201,8571,2022-04-10
+32,Store #0032 - Kansas City,Store,West,Kansas City,MO,64101,111598,2015-02-23
+33,Store #0033 - Los Angeles,Store,West,Los Angeles,CA,90001,41843,2019-11-19
+34,Store #0034 - Fresno,Store,West,Fresno,CA,93701,41106,2019-07-28
+35,Store #0035 - Houston,Store,North,Houston,TX,77001,76907,2018-02-11
+36,Store #0036 - Louisville,Store,East,Louisville,KY,40201,110534,2014-12-22
+37,Store #0037 - Atlanta,Store,South,Atlanta,GA,30301,115895,2021-11-05
+38,Store #0038 - Portland,Store,East,Portland,OR,97201,77091,2019-11-12
+39,Store #0039 - Louisville,Store,East,Louisville,KY,40201,55905,2022-03-13
+40,Store #0040 - Mesa,Store,North,Mesa,AZ,85201,11282,2017-12-09
+41,Store #0041 - San Jose,Store,South,San Jose,CA,95101,104492,2017-08-25
+42,Store #0042 - Nashville,Store,Midwest,Nashville,TN,37201,33065,2015-05-25
+43,Store #0043 - San Jose,Store,North,San Jose,CA,95101,112331,2020-02-09
+44,Store #0044 - San Jose,Store,West,San Jose,CA,95101,35771,2019-07-25
+45,Store #0045 - Dallas,Store,North,Dallas,TX,75201,46631,2016-01-15
+46,Store #0046 - Austin,Store,North,Austin,TX,78701,59295,2015-05-24
+47,Store #0047 - Phoenix,Store,West,Phoenix,AZ,85001,72117,2020-05-28
+48,Store #0048 - Charlotte,Store,Midwest,Charlotte,NC,28201,64847,2014-12-26
+49,Store #0049 - Baltimore,Store,East,Baltimore,MD,21201,100452,2016-04-05
+50,Store #0050 - Nashville,Store,South,Nashville,TN,37201,101002,2020-04-14
+51,Store #0051 - Mesa,Store,North,Mesa,AZ,85201,108066,2022-09-17
+52,Store #0052 - Colorado Springs,Store,Midwest,Colorado Springs,CO,80901,74607,2021-01-24
+53,Store #0053 - Boston,Store,East,Boston,MA,02101,104595,2016-08-30
+54,Store #0054 - Denver,Store,West,Denver,CO,80201,57274,2018-02-04
+55,Store #0055 - Charlotte,Store,South,Charlotte,NC,28201,12419,2022-10-11
+56,Store #0056 - Atlanta,Store,South,Atlanta,GA,30301,111834,2019-02-22
+57,Store #0057 - Portland,Store,West,Portland,OR,97201,46403,2022-10-20
+58,Store #0058 - Omaha,Store,North,Omaha,NE,68101,18355,2017-09-18
+59,Store #0059 - Milwaukee,Store,East,Milwaukee,WI,53201,22011,2016-10-29
+60,Store #0060 - Oklahoma City,Store,Midwest,Oklahoma City,OK,73101,26093,2021-09-10
+61,Store #0061 - Albuquerque,Store,South,Albuquerque,NM,87101,33686,2023-05-13
+62,Store #0062 - Oklahoma City,Store,South,Oklahoma City,OK,73101,115985,2020-07-30
+63,Store #0063 - Portland,Store,Midwest,Portland,OR,97201,66776,2020-12-12
+64,Store #0064 - San Diego,Store,East,San Diego,CA,92101,77989,2021-12-08
+65,Store #0065 - San Diego,Store,East,San Diego,CA,92101,109600,2014-07-22
+66,Store #0066 - Louisville,Store,North,Louisville,KY,40201,23899,2017-11-15
+67,Store #0067 - Indianapolis,Store,West,Indianapolis,IN,46201,61816,2023-04-25
+68,Store #0068 - Baltimore,Store,East,Baltimore,MD,21201,74773,2016-10-12
+69,Store #0069 - Philadelphia,Store,South,Philadelphia,PA,19101,102321,2020-03-15
+70,Store #0070 - Los Angeles,Store,East,Los Angeles,CA,90001,73431,2017-06-24
+71,Store #0071 - Denver,Store,Midwest,Denver,CO,80201,48198,2019-09-29
+72,Store #0072 - Washington,Store,East,Washington,DC,20001,30766,2018-05-01
+73,Store #0073 - Fresno,Store,East,Fresno,CA,93701,13914,2014-01-17
+74,Store #0074 - Miami,Store,Midwest,Miami,FL,33101,77459,2017-08-18
+75,Store #0075 - Jacksonville,Store,North,Jacksonville,FL,32201,53190,2019-10-26
+76,Store #0076 - Denver,Store,South,Denver,CO,80201,16987,2014-02-01
+77,Store #0077 - Fresno,Store,East,Fresno,CA,93701,99480,2014-01-22
+78,Store #0078 - Kansas City,Store,West,Kansas City,MO,64101,64412,2017-12-11
+79,Store #0079 - Austin,Store,West,Austin,TX,78701,78387,2019-04-19
+80,Store #0080 - Las Vegas,Store,West,Las Vegas,NV,89101,107676,2023-02-18
+81,Store #0081 - Austin,Store,North,Austin,TX,78701,25076,2021-03-08
+82,Store #0082 - Baltimore,Store,East,Baltimore,MD,21201,62238,2021-04-21
+83,Store #0083 - Indianapolis,Store,Midwest,Indianapolis,IN,46201,80419,2021-05-10
+84,Store #0084 - Denver,Store,East,Denver,CO,80201,24216,2013-12-30
+85,Store #0085 - San Jose,Store,Midwest,San Jose,CA,95101,37576,2016-03-28
+86,Store #0086 - Kansas City,Store,West,Kansas City,MO,64101,26183,2023-02-17
+87,Store #0087 - Kansas City,Store,North,Kansas City,MO,64101,93195,2015-06-09
+88,Store #0088 - Dallas,Store,North,Dallas,TX,75201,30726,2020-04-07
+89,Store #0089 - Boston,Store,Midwest,Boston,MA,02101,65647,2015-08-21
+90,Store #0090 - Boston,Store,North,Boston,MA,02101,62744,2021-08-23
+91,Store #0091 - Portland,Store,Midwest,Portland,OR,97201,69679,2016-05-14
+92,Store #0092 - Las Vegas,Store,East,Las Vegas,NV,89101,32587,2019-07-16
+93,Store #0093 - Dallas,Store,East,Dallas,TX,75201,100180,2022-12-07
+94,Store #0094 - San Antonio,Store,Midwest,San Antonio,TX,78201,33318,2014-04-27
+95,Store #0095 - Charlotte,Store,South,Charlotte,NC,28201,28378,2018-10-11
+96,Store #0096 - Columbus,Store,West,Columbus,OH,43201,48999,2022-11-25
+97,Store #0097 - Houston,Store,Midwest,Houston,TX,77001,60122,2017-06-07
+98,Store #0098 - New York,Store,North,New York,NY,10001,118435,2015-03-28
+99,Store #0099 - Detroit,Store,South,Detroit,MI,48201,57888,2017-08-20
+100,Store #0100 - Portland,Store,West,Portland,OR,97201,22183,2021-11-15
+101,Store #0101 - Portland,Store,Midwest,Portland,OR,97201,23588,2018-09-08
+102,Store #0102 - Denver,Store,South,Denver,CO,80201,51558,2021-11-01
+103,Store #0103 - Miami,Store,North,Miami,FL,33101,31017,2017-10-07
+104,Store #0104 - Dallas,Store,North,Dallas,TX,75201,89385,2022-01-23
+105,Store #0105 - Louisville,Store,North,Louisville,KY,40201,15115,2017-02-20
+106,Store #0106 - New York,Store,South,New York,NY,10001,56671,2020-05-24
+107,Store #0107 - San Francisco,Store,East,San Francisco,CA,94101,13030,2019-03-03
+108,Store #0108 - Fresno,Store,South,Fresno,CA,93701,73374,2021-12-26
+109,Store #0109 - Jacksonville,Store,West,Jacksonville,FL,32201,48670,2015-05-04
+110,Store #0110 - Miami,Store,South,Miami,FL,33101,13090,2013-12-08
+111,Store #0111 - Raleigh,Store,North,Raleigh,NC,27601,92886,2015-11-21
+112,Store #0112 - Baltimore,Store,North,Baltimore,MD,21201,12768,2022-05-22
+113,Store #0113 - Denver,Store,Midwest,Denver,CO,80201,73610,2022-06-16
+114,Store #0114 - Colorado Springs,Store,North,Colorado Springs,CO,80901,39290,2017-01-18
+115,Store #0115 - Columbus,Store,Midwest,Columbus,OH,43201,83075,2015-06-26
+116,Store #0116 - Milwaukee,Store,South,Milwaukee,WI,53201,99090,2017-11-20
+117,Store #0117 - Las Vegas,Store,East,Las Vegas,NV,89101,54701,2018-02-01
+118,Store #0118 - Louisville,Store,Midwest,Louisville,KY,40201,20922,2022-01-26
+119,Store #0119 - Chicago,Store,Midwest,Chicago,IL,60601,44611,2021-08-18
+120,Store #0120 - Columbus,Store,North,Columbus,OH,43201,109516,2016-01-31
+121,Store #0121 - Seattle,Store,West,Seattle,WA,98101,27955,2019-10-23
+122,Store #0122 - New York,Store,North,New York,NY,10001,30403,2022-12-20
+123,Store #0123 - San Francisco,Store,South,San Francisco,CA,94101,86640,2021-10-13
+124,Store #0124 - Sacramento,Store,East,Sacramento,CA,95801,7270,2013-09-26
+125,Store #0125 - Mesa,Store,South,Mesa,AZ,85201,41791,2019-12-28
+126,Store #0126 - Atlanta,Store,South,Atlanta,GA,30301,15946,2014-03-20
+127,Store #0127 - Mesa,Store,North,Mesa,AZ,85201,60218,2019-10-22
+128,Store #0128 - Seattle,Store,South,Seattle,WA,98101,72132,2021-01-15
+129,Store #0129 - Washington,Store,West,Washington,DC,20001,44028,2022-01-26
+130,Store #0130 - Phoenix,Store,West,Phoenix,AZ,85001,98903,2022-02-01
+131,Store #0131 - Sacramento,Store,Midwest,Sacramento,CA,95801,7685,2017-04-13
+132,Store #0132 - Mesa,Store,Midwest,Mesa,AZ,85201,113078,2020-04-06
+133,Store #0133 - New York,Store,South,New York,NY,10001,13001,2023-04-22
+134,Store #0134 - Colorado Springs,Store,Midwest,Colorado Springs,CO,80901,92286,2018-05-04
+135,Store #0135 - Jacksonville,Store,South,Jacksonville,FL,32201,30016,2022-09-04
+136,Store #0136 - Columbus,Store,Midwest,Columbus,OH,43201,10370,2015-11-18
+137,Store #0137 - Charlotte,Store,South,Charlotte,NC,28201,29250,2022-03-28
+138,Store #0138 - Omaha,Store,West,Omaha,NE,68101,68386,2014-08-27
+139,Store #0139 - Dallas,Store,Midwest,Dallas,TX,75201,26124,2023-01-13
+140,Store #0140 - San Diego,Store,West,San Diego,CA,92101,19920,2018-07-24
+141,Store #0141 - Colorado Springs,Store,West,Colorado Springs,CO,80901,103487,2014-08-09
+142,Store #0142 - San Diego,Store,North,San Diego,CA,92101,57477,2021-08-15
+143,Store #0143 - Fresno,Store,East,Fresno,CA,93701,69519,2022-10-06
+144,Store #0144 - Colorado Springs,Store,Midwest,Colorado Springs,CO,80901,44783,2022-01-16
+145,Store #0145 - San Jose,Store,West,San Jose,CA,95101,5671,2018-09-09
+146,Store #0146 - Philadelphia,Store,West,Philadelphia,PA,19101,101385,2021-12-14
+147,Store #0147 - Milwaukee,Store,Midwest,Milwaukee,WI,53201,13252,2022-02-22
+148,Store #0148 - San Diego,Store,Midwest,San Diego,CA,92101,8698,2019-07-28
+149,Store #0149 - Phoenix,Store,South,Phoenix,AZ,85001,83855,2023-01-22
+150,Store #0150 - Phoenix,Store,East,Phoenix,AZ,85001,100873,2020-07-14
+151,Store #0151 - Indianapolis,Store,North,Indianapolis,IN,46201,93711,2020-10-31
+152,Store #0152 - Fresno,Store,East,Fresno,CA,93701,107010,2017-12-02
+153,Store #0153 - Milwaukee,Store,East,Milwaukee,WI,53201,102562,2022-02-12
+154,Store #0154 - Denver,Store,Midwest,Denver,CO,80201,119949,2022-11-13
+155,Store #0155 - San Jose,Store,East,San Jose,CA,95101,6052,2016-05-12
+156,Store #0156 - New York,Store,South,New York,NY,10001,109489,2014-12-10
+157,Store #0157 - Atlanta,Store,North,Atlanta,GA,30301,63220,2023-03-18
+158,Store #0158 - Memphis,Store,West,Memphis,TN,38101,70091,2017-03-13
+159,Store #0159 - Oklahoma City,Store,West,Oklahoma City,OK,73101,92565,2014-07-25
+160,Store #0160 - Fort Worth,Store,East,Fort Worth,TX,76101,59928,2022-08-17
+161,Store #0161 - Sacramento,Store,East,Sacramento,CA,95801,59037,2015-08-03
+162,Store #0162 - Raleigh,Store,East,Raleigh,NC,27601,79090,2016-10-08
+163,Store #0163 - Denver,Store,South,Denver,CO,80201,93714,2015-07-27
+164,Store #0164 - Albuquerque,Store,West,Albuquerque,NM,87101,116302,2014-12-19
+165,Store #0165 - Dallas,Store,North,Dallas,TX,75201,115701,2019-05-22
+166,Store #0166 - Portland,Store,East,Portland,OR,97201,58569,2013-11-14
+167,Store #0167 - Houston,Store,East,Houston,TX,77001,17402,2016-05-20
+168,Store #0168 - Fort Worth,Store,North,Fort Worth,TX,76101,74405,2018-06-29
+169,Store #0169 - Washington,Store,North,Washington,DC,20001,22062,2018-08-17
+170,Store #0170 - Dallas,Store,East,Dallas,TX,75201,60267,2021-07-11
+171,Store #0171 - Boston,Store,North,Boston,MA,02101,60451,2015-09-30
+172,Store #0172 - Sacramento,Store,South,Sacramento,CA,95801,19744,2015-08-11
+173,Store #0173 - New York,Store,South,New York,NY,10001,31327,2013-12-24
+174,Store #0174 - Philadelphia,Store,East,Philadelphia,PA,19101,5254,2021-07-30
+175,Store #0175 - Chicago,Store,East,Chicago,IL,60601,72923,2017-08-23
+176,Store #0176 - Baltimore,Store,North,Baltimore,MD,21201,24116,2022-04-06
+177,Store #0177 - Houston,Store,East,Houston,TX,77001,36218,2018-07-13
+178,Store #0178 - New York,Store,North,New York,NY,10001,7742,2018-08-30
+179,Store #0179 - Nashville,Store,East,Nashville,TN,37201,39148,2020-04-23
+180,Store #0180 - Tucson,Store,South,Tucson,AZ,85701,91748,2020-11-08
+181,Store #0181 - Colorado Springs,Store,East,Colorado Springs,CO,80901,42761,2016-06-06
+182,Store #0182 - Fresno,Store,West,Fresno,CA,93701,36396,2015-12-24
+183,Store #0183 - El Paso,Store,East,El Paso,TX,79901,69152,2022-07-30
+184,Store #0184 - El Paso,Store,Midwest,El Paso,TX,79901,16979,2019-02-08
+185,Store #0185 - Omaha,Store,East,Omaha,NE,68101,76335,2019-04-14
+186,Store #0186 - Las Vegas,Store,East,Las Vegas,NV,89101,79816,2023-03-29
+187,Store #0187 - Sacramento,Store,Midwest,Sacramento,CA,95801,69943,2019-07-17
+188,Store #0188 - Denver,Store,East,Denver,CO,80201,84724,2019-11-29
+189,Store #0189 - Washington,Store,West,Washington,DC,20001,40891,2020-06-13
+190,Store #0190 - Austin,Store,North,Austin,TX,78701,32790,2015-08-14
+191,Store #0191 - San Diego,Store,Midwest,San Diego,CA,92101,77683,2015-03-08
+192,Store #0192 - Colorado Springs,Store,East,Colorado Springs,CO,80901,17707,2015-11-27
+193,Store #0193 - Omaha,Store,West,Omaha,NE,68101,64699,2016-10-01
+194,Store #0194 - Phoenix,Store,Midwest,Phoenix,AZ,85001,44405,2021-05-12
+195,Store #0195 - Charlotte,Store,East,Charlotte,NC,28201,74772,2015-09-11
+196,Store #0196 - Omaha,Store,North,Omaha,NE,68101,94792,2019-02-12
+197,Store #0197 - New York,Store,North,New York,NY,10001,85055,2018-08-13
+198,Store #0198 - San Jose,Store,South,San Jose,CA,95101,116695,2016-01-25
+199,Store #0199 - Atlanta,Store,East,Atlanta,GA,30301,29707,2016-09-14
+200,Store #0200 - Sacramento,Store,South,Sacramento,CA,95801,101031,2014-08-12
+201,Store #0201 - Seattle,Store,East,Seattle,WA,98101,59906,2020-04-22
+202,Store #0202 - Charlotte,Store,East,Charlotte,NC,28201,66672,2021-01-25
+203,Store #0203 - Houston,Store,North,Houston,TX,77001,20149,2022-11-21
+204,Store #0204 - Albuquerque,Store,South,Albuquerque,NM,87101,51319,2020-03-03
+205,Store #0205 - Seattle,Store,Midwest,Seattle,WA,98101,82414,2018-06-03
+206,Store #0206 - Los Angeles,Store,North,Los Angeles,CA,90001,75717,2022-08-19
+207,Store #0207 - Mesa,Store,Midwest,Mesa,AZ,85201,64181,2019-01-14
+208,Store #0208 - Chicago,Store,South,Chicago,IL,60601,68814,2013-11-24
+209,Store #0209 - Milwaukee,Store,Midwest,Milwaukee,WI,53201,16390,2021-03-05
+210,Store #0210 - Boston,Store,North,Boston,MA,02101,18862,2015-05-24
+211,Store #0211 - San Francisco,Store,Midwest,San Francisco,CA,94101,62810,2018-06-20
+212,Store #0212 - Atlanta,Store,Midwest,Atlanta,GA,30301,91535,2017-10-28
+213,Store #0213 - Mesa,Store,East,Mesa,AZ,85201,72122,2017-01-05
+214,Store #0214 - Detroit,Store,South,Detroit,MI,48201,54553,2018-04-26
+215,Store #0215 - Louisville,Store,North,Louisville,KY,40201,18166,2014-09-04
+216,Store #0216 - Atlanta,Store,West,Atlanta,GA,30301,37724,2016-02-15
+217,Store #0217 - Dallas,Store,East,Dallas,TX,75201,96814,2015-07-26
+218,Store #0218 - Phoenix,Store,East,Phoenix,AZ,85001,69748,2016-02-09
+219,Store #0219 - Jacksonville,Store,South,Jacksonville,FL,32201,47589,2020-11-14
+220,Store #0220 - Atlanta,Store,Midwest,Atlanta,GA,30301,39275,2016-10-03
+221,Store #0221 - Omaha,Store,Midwest,Omaha,NE,68101,58316,2019-05-08
+222,Store #0222 - Oklahoma City,Store,East,Oklahoma City,OK,73101,9202,2013-11-02
+223,Store #0223 - Jacksonville,Store,East,Jacksonville,FL,32201,99421,2017-10-29
+224,Store #0224 - Omaha,Store,Midwest,Omaha,NE,68101,74711,2016-11-01
+225,Store #0225 - Baltimore,Store,Midwest,Baltimore,MD,21201,6577,2019-05-12
+226,Store #0226 - Jacksonville,Store,West,Jacksonville,FL,32201,52862,2015-10-11
+227,Store #0227 - Louisville,Store,West,Louisville,KY,40201,117899,2014-11-09
+228,Store #0228 - Jacksonville,Store,South,Jacksonville,FL,32201,38697,2019-09-23
+229,Store #0229 - Nashville,Store,West,Nashville,TN,37201,80437,2016-01-12
+230,Store #0230 - Las Vegas,Store,East,Las Vegas,NV,89101,101903,2017-08-28
+231,Store #0231 - Sacramento,Store,East,Sacramento,CA,95801,56340,2015-11-13
+232,Store #0232 - Fresno,Store,North,Fresno,CA,93701,37119,2016-04-24
+233,Store #0233 - Chicago,Store,North,Chicago,IL,60601,43931,2017-08-22
+234,Store #0234 - Sacramento,Store,West,Sacramento,CA,95801,16864,2019-11-11
+235,Store #0235 - Raleigh,Store,South,Raleigh,NC,27601,109284,2023-02-12
+236,Store #0236 - Kansas City,Store,South,Kansas City,MO,64101,47413,2023-01-19
+237,Store #0237 - Austin,Store,West,Austin,TX,78701,10779,2015-11-17
+238,Store #0238 - Nashville,Store,South,Nashville,TN,37201,25955,2023-02-22
+239,Store #0239 - Las Vegas,Store,South,Las Vegas,NV,89101,78160,2020-02-08
+240,Store #0240 - Atlanta,Store,West,Atlanta,GA,30301,8598,2014-10-26
+241,Store #0241 - Charlotte,Store,South,Charlotte,NC,28201,71741,2020-04-01
+242,Store #0242 - Louisville,Store,South,Louisville,KY,40201,92885,2017-06-06
+243,Store #0243 - Baltimore,Store,South,Baltimore,MD,21201,63296,2019-07-31
+244,Store #0244 - Colorado Springs,Store,West,Colorado Springs,CO,80901,33380,2020-01-30
+245,Store #0245 - Fresno,Store,South,Fresno,CA,93701,83607,2022-04-24
+246,Store #0246 - Jacksonville,Store,North,Jacksonville,FL,32201,52026,2015-02-27
+247,Store #0247 - Dallas,Store,Midwest,Dallas,TX,75201,89789,2017-11-04
+248,Store #0248 - San Diego,Store,North,San Diego,CA,92101,7320,2013-12-24
+249,Store #0249 - Los Angeles,Store,South,Los Angeles,CA,90001,101491,2022-12-25
+250,Store #0250 - New York,Store,North,New York,NY,10001,92258,2021-09-01
+251,Store #0251 - Austin,Store,East,Austin,TX,78701,37534,2017-05-21
+252,Store #0252 - Nashville,Store,South,Nashville,TN,37201,55782,2022-12-21
+253,Store #0253 - Memphis,Store,West,Memphis,TN,38101,36119,2020-02-12
+254,Store #0254 - San Antonio,Store,West,San Antonio,TX,78201,23702,2018-05-08
+255,Store #0255 - Columbus,Store,West,Columbus,OH,43201,106846,2018-09-13
+256,Store #0256 - Baltimore,Store,Midwest,Baltimore,MD,21201,115774,2021-01-19
+257,Store #0257 - Omaha,Store,Midwest,Omaha,NE,68101,60410,2020-06-02
+258,Store #0258 - San Antonio,Store,North,San Antonio,TX,78201,12606,2019-03-15
+259,Store #0259 - Fresno,Store,Midwest,Fresno,CA,93701,26164,2019-06-30
+260,Store #0260 - Los Angeles,Store,East,Los Angeles,CA,90001,21148,2015-12-07
+261,Store #0261 - San Diego,Store,South,San Diego,CA,92101,19848,2022-05-07
+262,Store #0262 - San Diego,Store,North,San Diego,CA,92101,7617,2019-05-13
+263,Store #0263 - Louisville,Store,East,Louisville,KY,40201,114919,2015-03-30
+264,Store #0264 - Miami,Store,South,Miami,FL,33101,54722,2017-04-28
+265,Store #0265 - Miami,Store,Midwest,Miami,FL,33101,43360,2013-10-20
+266,Store #0266 - Phoenix,Store,East,Phoenix,AZ,85001,33424,2018-01-01
+267,Store #0267 - Columbus,Store,North,Columbus,OH,43201,41111,2017-02-24
+268,Store #0268 - Fresno,Store,North,Fresno,CA,93701,110500,2018-03-22
+269,Store #0269 - Colorado Springs,Store,East,Colorado Springs,CO,80901,110956,2019-01-05
+270,Store #0270 - Jacksonville,Store,North,Jacksonville,FL,32201,102215,2014-06-18
+271,Store #0271 - Memphis,Store,North,Memphis,TN,38101,109314,2014-12-04
+272,Store #0272 - Raleigh,Store,Midwest,Raleigh,NC,27601,95664,2023-05-10
+273,Store #0273 - Las Vegas,Store,North,Las Vegas,NV,89101,45169,2022-05-21
+274,Store #0274 - Indianapolis,Store,South,Indianapolis,IN,46201,31027,2020-06-21
+275,Store #0275 - Louisville,Store,East,Louisville,KY,40201,10029,2013-11-18
+276,Store #0276 - Detroit,Store,South,Detroit,MI,48201,36737,2020-04-05
+277,Store #0277 - Sacramento,Store,Midwest,Sacramento,CA,95801,103056,2022-12-18
+278,Store #0278 - Kansas City,Store,Midwest,Kansas City,MO,64101,105541,2022-03-05
+279,Store #0279 - El Paso,Store,North,El Paso,TX,79901,51449,2020-07-25
+280,Store #0280 - Colorado Springs,Store,East,Colorado Springs,CO,80901,20232,2015-08-11
+281,Store #0281 - Oklahoma City,Store,South,Oklahoma City,OK,73101,40628,2020-11-04
+282,Store #0282 - Portland,Store,Midwest,Portland,OR,97201,75319,2020-08-20
+283,Store #0283 - Milwaukee,Store,North,Milwaukee,WI,53201,109701,2020-05-01
+284,Store #0284 - Milwaukee,Store,North,Milwaukee,WI,53201,98310,2014-09-27
+285,Store #0285 - Nashville,Store,South,Nashville,TN,37201,94680,2015-01-26
+286,Store #0286 - Columbus,Store,West,Columbus,OH,43201,53348,2017-10-02
+287,Store #0287 - Oklahoma City,Store,North,Oklahoma City,OK,73101,117942,2022-10-08
+288,Store #0288 - San Antonio,Store,Midwest,San Antonio,TX,78201,13463,2021-03-06
+289,Store #0289 - Washington,Store,South,Washington,DC,20001,77249,2014-12-16
+290,Store #0290 - Charlotte,Store,Midwest,Charlotte,NC,28201,77578,2015-08-07
+291,Store #0291 - Albuquerque,Store,Midwest,Albuquerque,NM,87101,58476,2014-04-23
+292,Store #0292 - Austin,Store,Midwest,Austin,TX,78701,43990,2021-09-27
+293,Store #0293 - Colorado Springs,Store,East,Colorado Springs,CO,80901,40678,2019-11-06
+294,Store #0294 - Washington,Store,South,Washington,DC,20001,75779,2020-05-10
+295,Store #0295 - San Diego,Store,West,San Diego,CA,92101,66460,2018-12-10
+296,Store #0296 - Boston,Store,South,Boston,MA,02101,105125,2019-05-13
+297,Store #0297 - Las Vegas,Store,South,Las Vegas,NV,89101,51923,2020-02-29
+298,Store #0298 - San Francisco,Store,North,San Francisco,CA,94101,113728,2015-08-02
+299,Store #0299 - Austin,Store,West,Austin,TX,78701,64717,2014-08-01
+300,Store #0300 - Mesa,Store,West,Mesa,AZ,85201,70561,2021-05-22
+301,Store #0301 - Sacramento,Store,West,Sacramento,CA,95801,108885,2014-01-03
+302,Store #0302 - Albuquerque,Store,South,Albuquerque,NM,87101,37621,2015-01-23
+303,Store #0303 - Chicago,Store,South,Chicago,IL,60601,7475,2013-11-13
+304,Store #0304 - Sacramento,Store,East,Sacramento,CA,95801,83856,2020-06-12
+305,Store #0305 - Columbus,Store,North,Columbus,OH,43201,92208,2021-04-07
+306,Store #0306 - Boston,Store,West,Boston,MA,02101,31875,2017-02-01
+307,Store #0307 - San Jose,Store,South,San Jose,CA,95101,39937,2022-06-03
+308,Store #0308 - Denver,Store,South,Denver,CO,80201,29020,2015-02-02
+309,Store #0309 - Fresno,Store,North,Fresno,CA,93701,50974,2022-06-19
+310,Store #0310 - San Francisco,Store,Midwest,San Francisco,CA,94101,88513,2017-02-23
+311,Store #0311 - New York,Store,East,New York,NY,10001,108066,2021-08-24
+312,Store #0312 - Washington,Store,North,Washington,DC,20001,73480,2017-12-05
+313,Store #0313 - Detroit,Store,North,Detroit,MI,48201,107922,2021-03-30
+314,Store #0314 - El Paso,Store,North,El Paso,TX,79901,113132,2014-04-05
+315,Store #0315 - Fort Worth,Store,West,Fort Worth,TX,76101,43842,2021-12-05
+316,Store #0316 - Seattle,Store,West,Seattle,WA,98101,44396,2021-03-18
+317,Store #0317 - Colorado Springs,Store,North,Colorado Springs,CO,80901,38583,2018-12-04
+318,Store #0318 - Las Vegas,Store,Midwest,Las Vegas,NV,89101,10775,2016-10-10
+319,Store #0319 - Las Vegas,Store,East,Las Vegas,NV,89101,68972,2014-09-28
+320,Store #0320 - Albuquerque,Store,West,Albuquerque,NM,87101,70225,2018-02-11
+321,Store #0321 - Omaha,Store,East,Omaha,NE,68101,90969,2019-11-30
+322,Store #0322 - Chicago,Store,West,Chicago,IL,60601,18527,2023-05-05
+323,Store #0323 - Kansas City,Store,North,Kansas City,MO,64101,54832,2017-08-17
+324,Store #0324 - Columbus,Store,East,Columbus,OH,43201,88687,2014-11-16
+325,Store #0325 - Austin,Store,Midwest,Austin,TX,78701,57172,2015-05-27
+326,Store #0326 - Denver,Store,East,Denver,CO,80201,102644,2015-01-26
+327,Store #0327 - San Jose,Store,East,San Jose,CA,95101,94004,2018-06-22
+328,Store #0328 - Denver,Store,East,Denver,CO,80201,86826,2022-04-14
+329,Store #0329 - Sacramento,Store,South,Sacramento,CA,95801,72580,2015-11-03
+330,Store #0330 - Fort Worth,Store,East,Fort Worth,TX,76101,38413,2014-07-09
+331,Store #0331 - Charlotte,Store,Midwest,Charlotte,NC,28201,37871,2016-01-23
+332,Store #0332 - Louisville,Store,South,Louisville,KY,40201,60729,2022-03-09
+333,Store #0333 - Sacramento,Store,North,Sacramento,CA,95801,50409,2018-09-23
+334,Store #0334 - El Paso,Store,South,El Paso,TX,79901,17572,2017-07-07
+335,Store #0335 - Mesa,Store,North,Mesa,AZ,85201,40015,2021-05-13
+336,Store #0336 - Memphis,Store,North,Memphis,TN,38101,57809,2014-05-12
+337,Store #0337 - Baltimore,Store,Midwest,Baltimore,MD,21201,76532,2013-12-20
+338,Store #0338 - Columbus,Store,North,Columbus,OH,43201,25633,2017-01-06
+339,Store #0339 - Tucson,Store,Midwest,Tucson,AZ,85701,39870,2019-03-04
+340,Store #0340 - Seattle,Store,East,Seattle,WA,98101,40309,2015-08-14
+341,Store #0341 - San Diego,Store,North,San Diego,CA,92101,97231,2019-07-18
+342,Store #0342 - Philadelphia,Store,South,Philadelphia,PA,19101,84892,2016-05-30
+343,Store #0343 - Colorado Springs,Store,North,Colorado Springs,CO,80901,35969,2017-10-03
+344,Store #0344 - Albuquerque,Store,South,Albuquerque,NM,87101,100124,2017-12-06
+345,Store #0345 - Portland,Store,North,Portland,OR,97201,64801,2014-01-30
+346,Store #0346 - Houston,Store,North,Houston,TX,77001,36246,2016-08-20
+347,Store #0347 - Austin,Store,South,Austin,TX,78701,20424,2014-04-24
+348,Store #0348 - El Paso,Store,East,El Paso,TX,79901,112565,2015-12-12
+349,Store #0349 - Austin,Store,West,Austin,TX,78701,115646,2016-11-03
+350,Store #0350 - Jacksonville,Store,East,Jacksonville,FL,32201,107255,2014-09-23
+351,Store #0351 - Memphis,Store,North,Memphis,TN,38101,77423,2020-08-05
+352,Store #0352 - Kansas City,Store,West,Kansas City,MO,64101,28358,2014-04-25
+353,Store #0353 - Seattle,Store,North,Seattle,WA,98101,99944,2015-12-16
+354,Store #0354 - Jacksonville,Store,North,Jacksonville,FL,32201,5002,2016-08-16
+355,Store #0355 - Tucson,Store,West,Tucson,AZ,85701,7952,2015-01-28
+356,Store #0356 - Sacramento,Store,West,Sacramento,CA,95801,89743,2019-06-12
+357,Store #0357 - Miami,Store,East,Miami,FL,33101,76352,2015-07-21
+358,Store #0358 - Omaha,Store,Midwest,Omaha,NE,68101,55182,2014-05-20
+359,Store #0359 - Mesa,Store,Midwest,Mesa,AZ,85201,18536,2015-08-30
+360,Store #0360 - Fresno,Store,Midwest,Fresno,CA,93701,50751,2014-01-14
+361,Store #0361 - Charlotte,Store,East,Charlotte,NC,28201,72141,2017-09-23
+362,Store #0362 - Oklahoma City,Store,West,Oklahoma City,OK,73101,102578,2022-09-23
+363,Store #0363 - Oklahoma City,Store,West,Oklahoma City,OK,73101,15290,2022-07-15
+364,Store #0364 - Columbus,Store,West,Columbus,OH,43201,25125,2021-08-20
+365,Store #0365 - Baltimore,Store,Midwest,Baltimore,MD,21201,99953,2016-02-16
+366,Store #0366 - Raleigh,Store,Midwest,Raleigh,NC,27601,109213,2015-07-30
+367,Store #0367 - San Antonio,Store,East,San Antonio,TX,78201,35358,2017-02-06
+368,Store #0368 - Albuquerque,Store,South,Albuquerque,NM,87101,45876,2021-07-27
+369,Store #0369 - New York,Store,North,New York,NY,10001,69348,2020-07-27
+370,Store #0370 - San Antonio,Store,West,San Antonio,TX,78201,14354,2014-10-12
+371,Store #0371 - Columbus,Store,West,Columbus,OH,43201,96626,2016-10-23
+372,Store #0372 - Las Vegas,Store,North,Las Vegas,NV,89101,95975,2016-03-24
+373,Store #0373 - Fresno,Store,West,Fresno,CA,93701,26785,2017-03-07
+374,Store #0374 - Denver,Store,East,Denver,CO,80201,116351,2018-09-24
+375,Store #0375 - Nashville,Store,West,Nashville,TN,37201,60552,2021-04-11
+376,Store #0376 - Columbus,Store,West,Columbus,OH,43201,73022,2018-10-30
+377,Store #0377 - Sacramento,Store,East,Sacramento,CA,95801,66645,2015-03-25
+378,Store #0378 - Kansas City,Store,East,Kansas City,MO,64101,22430,2023-04-21
+379,Store #0379 - El Paso,Store,South,El Paso,TX,79901,86646,2016-05-04
+380,Store #0380 - Charlotte,Store,Midwest,Charlotte,NC,28201,48658,2016-10-25
+381,Store #0381 - Tucson,Store,West,Tucson,AZ,85701,48792,2022-11-08
+382,Store #0382 - Jacksonville,Store,East,Jacksonville,FL,32201,116324,2018-05-30
+383,Store #0383 - El Paso,Store,West,El Paso,TX,79901,81399,2016-04-15
+384,Store #0384 - Los Angeles,Store,West,Los Angeles,CA,90001,97471,2017-04-28
+385,Store #0385 - Detroit,Store,West,Detroit,MI,48201,112378,2020-03-23
+386,Store #0386 - Oklahoma City,Store,South,Oklahoma City,OK,73101,103770,2022-06-29
+387,Store #0387 - Fresno,Store,South,Fresno,CA,93701,61443,2016-04-08
+388,Store #0388 - Chicago,Store,North,Chicago,IL,60601,105126,2022-06-09
+389,Store #0389 - Fresno,Store,Midwest,Fresno,CA,93701,65154,2021-06-28
+390,Store #0390 - Kansas City,Store,North,Kansas City,MO,64101,91408,2022-12-23
+391,Store #0391 - Boston,Store,Midwest,Boston,MA,02101,58413,2018-09-03
+392,Store #0392 - Austin,Store,North,Austin,TX,78701,15307,2019-11-16
+393,Store #0393 - San Diego,Store,West,San Diego,CA,92101,115951,2014-06-10
+394,Store #0394 - Dallas,Store,West,Dallas,TX,75201,105493,2015-10-31
+395,Store #0395 - Fresno,Store,South,Fresno,CA,93701,79610,2021-04-24
+396,Store #0396 - Oklahoma City,Store,West,Oklahoma City,OK,73101,19369,2020-10-29
+397,Store #0397 - Louisville,Store,South,Louisville,KY,40201,7161,2020-04-21
+398,Store #0398 - Indianapolis,Store,North,Indianapolis,IN,46201,118508,2017-08-01
+399,Store #0399 - Mesa,Store,North,Mesa,AZ,85201,112196,2017-07-12
+400,Store #0400 - Nashville,Store,West,Nashville,TN,37201,5442,2014-11-29
+401,Store #0401 - Philadelphia,Store,South,Philadelphia,PA,19101,61521,2014-10-15
+402,Store #0402 - New York,Store,South,New York,NY,10001,35191,2019-02-20
+403,Store #0403 - Portland,Store,West,Portland,OR,97201,117698,2018-11-19
+404,Store #0404 - Oklahoma City,Store,West,Oklahoma City,OK,73101,49244,2014-11-03
+405,Store #0405 - El Paso,Store,South,El Paso,TX,79901,30044,2013-12-02
+406,Store #0406 - Raleigh,Store,South,Raleigh,NC,27601,95021,2021-09-26
+407,Store #0407 - Baltimore,Store,South,Baltimore,MD,21201,23680,2016-02-08
+408,Store #0408 - Albuquerque,Store,South,Albuquerque,NM,87101,10405,2019-12-12
+409,Store #0409 - Los Angeles,Store,North,Los Angeles,CA,90001,77508,2022-10-20
+410,Store #0410 - Kansas City,Store,East,Kansas City,MO,64101,58846,2019-09-23
+411,Store #0411 - Denver,Store,Midwest,Denver,CO,80201,72226,2023-02-18
+412,Store #0412 - Jacksonville,Store,North,Jacksonville,FL,32201,58872,2015-01-03
+413,Store #0413 - Chicago,Store,Midwest,Chicago,IL,60601,72772,2022-05-01
+414,Store #0414 - Albuquerque,Store,West,Albuquerque,NM,87101,47348,2014-01-29
+415,Store #0415 - Boston,Store,South,Boston,MA,02101,23089,2014-02-05
+416,Store #0416 - Milwaukee,Store,South,Milwaukee,WI,53201,26398,2022-02-26
+417,Store #0417 - Boston,Store,North,Boston,MA,02101,55133,2022-09-19
+418,Store #0418 - Milwaukee,Store,South,Milwaukee,WI,53201,77841,2017-03-20
+419,Store #0419 - Miami,Store,West,Miami,FL,33101,112719,2015-06-26
+420,Store #0420 - Mesa,Store,East,Mesa,AZ,85201,47834,2021-06-13
+421,Store #0421 - Milwaukee,Store,Midwest,Milwaukee,WI,53201,98099,2019-05-16
+422,Store #0422 - Tucson,Store,West,Tucson,AZ,85701,113440,2015-01-12
+423,Store #0423 - Baltimore,Store,North,Baltimore,MD,21201,40073,2023-04-20
+424,Store #0424 - Portland,Store,Midwest,Portland,OR,97201,5855,2017-12-07
+425,Store #0425 - Las Vegas,Store,East,Las Vegas,NV,89101,89132,2017-02-28
+426,Store #0426 - Boston,Store,West,Boston,MA,02101,46971,2020-04-18
+427,Store #0427 - Fort Worth,Store,South,Fort Worth,TX,76101,97061,2017-05-10
+428,Store #0428 - Nashville,Store,Midwest,Nashville,TN,37201,110571,2015-06-17
+429,Store #0429 - San Diego,Store,North,San Diego,CA,92101,74317,2017-10-21
+430,Store #0430 - Oklahoma City,Store,East,Oklahoma City,OK,73101,32254,2016-08-15
+431,Store #0431 - San Diego,Store,East,San Diego,CA,92101,119210,2015-04-06
+432,Store #0432 - Oklahoma City,Store,South,Oklahoma City,OK,73101,67653,2020-06-03
+433,Store #0433 - Raleigh,Store,East,Raleigh,NC,27601,22895,2021-07-28
+434,Store #0434 - Dallas,Store,Midwest,Dallas,TX,75201,29537,2017-03-13
+435,Store #0435 - Baltimore,Store,North,Baltimore,MD,21201,75069,2015-01-01
+436,Store #0436 - Jacksonville,Store,West,Jacksonville,FL,32201,80282,2017-10-16
+437,Store #0437 - Houston,Store,South,Houston,TX,77001,77933,2019-08-25
+438,Store #0438 - Philadelphia,Store,North,Philadelphia,PA,19101,62206,2023-01-09
+439,Store #0439 - Detroit,Store,North,Detroit,MI,48201,74999,2018-11-21
+440,Store #0440 - Phoenix,Store,West,Phoenix,AZ,85001,108004,2019-02-23
+441,Store #0441 - San Francisco,Store,North,San Francisco,CA,94101,48200,2015-11-19
+442,Store #0442 - Louisville,Store,West,Louisville,KY,40201,35853,2019-08-12
+443,Store #0443 - Fort Worth,Store,East,Fort Worth,TX,76101,95256,2015-01-18
+444,Store #0444 - Seattle,Store,Midwest,Seattle,WA,98101,112367,2023-01-12
+445,Store #0445 - Mesa,Store,North,Mesa,AZ,85201,28097,2016-01-31
+446,Store #0446 - Detroit,Store,North,Detroit,MI,48201,99558,2020-03-25
+447,Store #0447 - Mesa,Store,North,Mesa,AZ,85201,68888,2018-10-24
+448,Store #0448 - Denver,Store,South,Denver,CO,80201,107917,2021-06-30
+449,Store #0449 - Atlanta,Store,Midwest,Atlanta,GA,30301,12666,2022-01-15
+450,Store #0450 - Chicago,Store,North,Chicago,IL,60601,33573,2014-01-02
+451,Store #0451 - Washington,Store,East,Washington,DC,20001,37210,2021-10-28
+452,Store #0452 - Chicago,Store,North,Chicago,IL,60601,82030,2020-08-27
+453,Store #0453 - New York,Store,North,New York,NY,10001,94702,2016-03-01
+454,Store #0454 - Fresno,Store,East,Fresno,CA,93701,26850,2016-09-13
+455,Store #0455 - Phoenix,Store,Midwest,Phoenix,AZ,85001,92248,2017-10-11
+456,Store #0456 - El Paso,Store,South,El Paso,TX,79901,52010,2014-08-20
+457,Store #0457 - Seattle,Store,Midwest,Seattle,WA,98101,7757,2017-10-20
+458,Store #0458 - Las Vegas,Store,North,Las Vegas,NV,89101,73352,2014-06-08
+459,Store #0459 - Atlanta,Store,West,Atlanta,GA,30301,49813,2014-06-17
+460,Store #0460 - Mesa,Store,West,Mesa,AZ,85201,70017,2020-11-16
+461,Store #0461 - Detroit,Store,West,Detroit,MI,48201,108391,2016-05-23
+462,Store #0462 - Memphis,Store,West,Memphis,TN,38101,11741,2019-04-04
+463,Store #0463 - Sacramento,Store,South,Sacramento,CA,95801,110509,2013-09-06
+464,Store #0464 - Louisville,Store,South,Louisville,KY,40201,59660,2022-05-14
+465,Store #0465 - Houston,Store,West,Houston,TX,77001,51343,2022-06-16
+466,Store #0466 - Atlanta,Store,Midwest,Atlanta,GA,30301,12321,2018-05-06
+467,Store #0467 - Albuquerque,Store,South,Albuquerque,NM,87101,67044,2022-10-14
+468,Store #0468 - Jacksonville,Store,West,Jacksonville,FL,32201,85379,2021-05-24
+469,Store #0469 - Chicago,Store,South,Chicago,IL,60601,25067,2015-02-24
+470,Store #0470 - Omaha,Store,Midwest,Omaha,NE,68101,73538,2023-05-07
+471,Store #0471 - Fort Worth,Store,North,Fort Worth,TX,76101,74954,2020-06-15
+472,Store #0472 - Oklahoma City,Store,North,Oklahoma City,OK,73101,42707,2020-07-14
+473,Store #0473 - Oklahoma City,Store,South,Oklahoma City,OK,73101,11147,2020-03-08
+474,Store #0474 - Jacksonville,Store,North,Jacksonville,FL,32201,5046,2014-03-24
+475,Store #0475 - Detroit,Store,West,Detroit,MI,48201,48067,2022-01-27
+476,Store #0476 - Raleigh,Store,Midwest,Raleigh,NC,27601,92566,2017-05-17
+477,Store #0477 - Las Vegas,Store,North,Las Vegas,NV,89101,112380,2015-02-02
+478,Store #0478 - Columbus,Store,East,Columbus,OH,43201,75622,2018-05-26
+479,Store #0479 - Nashville,Store,North,Nashville,TN,37201,72732,2017-11-01
+480,Store #0480 - Raleigh,Store,Midwest,Raleigh,NC,27601,32297,2021-04-10
+481,Store #0481 - Austin,Store,West,Austin,TX,78701,63499,2015-01-15
+482,Store #0482 - Charlotte,Store,South,Charlotte,NC,28201,54163,2015-05-17
+483,Store #0483 - Seattle,Store,South,Seattle,WA,98101,46545,2016-03-31
+484,Store #0484 - New York,Store,Midwest,New York,NY,10001,38090,2017-01-16
+485,Store #0485 - Raleigh,Store,West,Raleigh,NC,27601,109338,2021-04-02
+486,Store #0486 - Omaha,Store,South,Omaha,NE,68101,80660,2017-06-04
+487,Store #0487 - Los Angeles,Store,East,Los Angeles,CA,90001,60106,2018-04-10
+488,Store #0488 - Columbus,Store,Midwest,Columbus,OH,43201,102997,2016-02-01
+489,Store #0489 - Austin,Store,Midwest,Austin,TX,78701,31402,2015-04-21
+490,Store #0490 - Dallas,Store,West,Dallas,TX,75201,117342,2018-03-14
+491,Store #0491 - Detroit,Store,South,Detroit,MI,48201,118956,2014-08-03
+492,Store #0492 - Chicago,Store,Midwest,Chicago,IL,60601,14717,2016-10-25
+493,Store #0493 - Atlanta,Store,South,Atlanta,GA,30301,27846,2017-02-21
+494,Store #0494 - Omaha,Store,Midwest,Omaha,NE,68101,74323,2013-12-06
+495,Store #0495 - Miami,Store,West,Miami,FL,33101,18117,2013-08-29
+496,Store #0496 - Washington,Store,Midwest,Washington,DC,20001,70330,2020-08-06
+497,Store #0497 - Philadelphia,Store,Midwest,Philadelphia,PA,19101,42990,2022-10-18
+498,Store #0498 - Detroit,Store,South,Detroit,MI,48201,52139,2017-10-14
+499,Store #0499 - Detroit,Store,East,Detroit,MI,48201,64996,2022-03-25
+500,Store #0500 - Raleigh,Store,South,Raleigh,NC,27601,88243,2016-09-25
+501,Store #0501 - Albuquerque,Store,South,Albuquerque,NM,87101,113403,2014-04-20
+502,Store #0502 - Miami,Store,North,Miami,FL,33101,103468,2018-08-04
+503,Store #0503 - Phoenix,Store,South,Phoenix,AZ,85001,62035,2016-01-07
+504,Store #0504 - Fort Worth,Store,Midwest,Fort Worth,TX,76101,67125,2015-03-31
+505,Store #0505 - New York,Store,West,New York,NY,10001,36868,2019-02-14
+506,Store #0506 - Fort Worth,Store,South,Fort Worth,TX,76101,101023,2018-12-26
+507,Store #0507 - Albuquerque,Store,West,Albuquerque,NM,87101,41704,2014-05-13
+508,Store #0508 - Milwaukee,Store,Midwest,Milwaukee,WI,53201,33482,2015-05-18
+509,Store #0509 - San Francisco,Store,North,San Francisco,CA,94101,14379,2021-08-22
+510,Store #0510 - Omaha,Store,East,Omaha,NE,68101,9047,2019-01-20
+511,Store #0511 - Seattle,Store,East,Seattle,WA,98101,57461,2023-03-15
+512,Store #0512 - Albuquerque,Store,West,Albuquerque,NM,87101,45823,2013-11-15
+513,Store #0513 - San Francisco,Store,South,San Francisco,CA,94101,94545,2022-11-24
+514,Store #0514 - San Jose,Store,South,San Jose,CA,95101,46066,2018-02-25
+515,Store #0515 - Louisville,Store,West,Louisville,KY,40201,34481,2021-03-13
+516,Store #0516 - Kansas City,Store,South,Kansas City,MO,64101,30959,2015-01-09
+517,Store #0517 - Mesa,Store,East,Mesa,AZ,85201,16150,2020-10-11
+518,Store #0518 - Jacksonville,Store,East,Jacksonville,FL,32201,81150,2020-12-08
+519,Store #0519 - Los Angeles,Store,East,Los Angeles,CA,90001,44128,2014-04-28
+520,Store #0520 - Oklahoma City,Store,Midwest,Oklahoma City,OK,73101,56262,2019-12-05
+521,Store #0521 - Boston,Store,West,Boston,MA,02101,83768,2017-05-08
+522,Store #0522 - Atlanta,Store,South,Atlanta,GA,30301,17493,2021-02-05
+523,Store #0523 - Los Angeles,Store,North,Los Angeles,CA,90001,111868,2016-09-25
+524,Store #0524 - Tucson,Store,West,Tucson,AZ,85701,67499,2018-05-24
+525,Store #0525 - Las Vegas,Store,Midwest,Las Vegas,NV,89101,66980,2014-12-07
+526,Store #0526 - Miami,Store,West,Miami,FL,33101,12088,2014-11-09
+527,Store #0527 - San Antonio,Store,Midwest,San Antonio,TX,78201,15505,2019-06-14
+528,Store #0528 - Austin,Store,Midwest,Austin,TX,78701,70763,2019-09-21
+529,Store #0529 - Columbus,Store,Midwest,Columbus,OH,43201,56412,2023-05-12
+530,Store #0530 - Dallas,Store,East,Dallas,TX,75201,27238,2016-11-11
+531,Store #0531 - Jacksonville,Store,East,Jacksonville,FL,32201,110808,2016-11-18
+532,Store #0532 - Los Angeles,Store,West,Los Angeles,CA,90001,23886,2019-12-25
+533,Store #0533 - El Paso,Store,South,El Paso,TX,79901,63887,2022-04-15
+534,Store #0534 - Denver,Store,South,Denver,CO,80201,28022,2014-07-23
+535,Store #0535 - Las Vegas,Store,East,Las Vegas,NV,89101,28481,2021-09-18
+536,Store #0536 - Las Vegas,Store,Midwest,Las Vegas,NV,89101,31134,2018-12-02
+537,Store #0537 - Philadelphia,Store,West,Philadelphia,PA,19101,40917,2018-02-07
+538,Store #0538 - Boston,Store,South,Boston,MA,02101,95897,2022-08-01
+539,Store #0539 - Washington,Store,South,Washington,DC,20001,95661,2014-06-01
+540,Store #0540 - San Diego,Store,East,San Diego,CA,92101,17057,2016-09-01
+541,Store #0541 - Albuquerque,Store,South,Albuquerque,NM,87101,50134,2022-05-20
+542,Store #0542 - Nashville,Store,West,Nashville,TN,37201,106422,2022-07-11
+543,Store #0543 - Louisville,Store,South,Louisville,KY,40201,107422,2020-10-24
+544,Store #0544 - Raleigh,Store,North,Raleigh,NC,27601,77011,2020-05-01
+545,Store #0545 - Dallas,Store,East,Dallas,TX,75201,46180,2014-11-06
+546,Store #0546 - Seattle,Store,East,Seattle,WA,98101,87524,2019-07-31
+547,Store #0547 - San Diego,Store,West,San Diego,CA,92101,26137,2021-04-15
+548,Store #0548 - Memphis,Store,Midwest,Memphis,TN,38101,45603,2021-08-15
+549,Store #0549 - Raleigh,Store,Midwest,Raleigh,NC,27601,66463,2018-04-11
+550,Store #0550 - Baltimore,Store,East,Baltimore,MD,21201,55441,2022-03-22
+551,Store #0551 - El Paso,Store,Midwest,El Paso,TX,79901,7589,2020-02-28
+552,Store #0552 - San Francisco,Store,West,San Francisco,CA,94101,14923,2015-02-23
+553,Store #0553 - Memphis,Store,North,Memphis,TN,38101,53324,2018-12-09
+554,Store #0554 - Los Angeles,Store,South,Los Angeles,CA,90001,118608,2021-10-27
+555,Store #0555 - New York,Store,Midwest,New York,NY,10001,24018,2016-06-10
+556,Store #0556 - Milwaukee,Store,South,Milwaukee,WI,53201,118170,2015-06-28
+557,Store #0557 - Columbus,Store,South,Columbus,OH,43201,32218,2015-12-11
+558,Store #0558 - Charlotte,Store,East,Charlotte,NC,28201,11673,2015-03-23
+559,Store #0559 - Portland,Store,West,Portland,OR,97201,48950,2021-09-17
+560,Store #0560 - Tucson,Store,North,Tucson,AZ,85701,92312,2016-12-29
+561,Store #0561 - Sacramento,Store,Midwest,Sacramento,CA,95801,77541,2021-05-19
+562,Store #0562 - El Paso,Store,Midwest,El Paso,TX,79901,59140,2015-04-16
+563,Store #0563 - San Francisco,Store,East,San Francisco,CA,94101,85636,2014-03-24
+564,Store #0564 - Albuquerque,Store,East,Albuquerque,NM,87101,62278,2018-04-13
+565,Store #0565 - Omaha,Store,East,Omaha,NE,68101,104772,2016-04-24
+566,Store #0566 - Las Vegas,Store,West,Las Vegas,NV,89101,48185,2014-12-28
+567,Store #0567 - Charlotte,Store,Midwest,Charlotte,NC,28201,77023,2021-08-17
+568,Store #0568 - New York,Store,West,New York,NY,10001,17908,2021-05-28
+569,Store #0569 - San Antonio,Store,Midwest,San Antonio,TX,78201,86476,2021-09-15
+570,Store #0570 - Los Angeles,Store,North,Los Angeles,CA,90001,118893,2019-04-16
+571,Store #0571 - Memphis,Store,West,Memphis,TN,38101,74117,2015-10-29
+572,Store #0572 - Baltimore,Store,Midwest,Baltimore,MD,21201,53776,2018-12-05
+573,Store #0573 - Miami,Store,Midwest,Miami,FL,33101,81139,2016-07-19
+574,Store #0574 - Sacramento,Store,South,Sacramento,CA,95801,48211,2016-10-15
+575,Store #0575 - Denver,Store,East,Denver,CO,80201,20066,2018-07-30
+576,Store #0576 - Detroit,Store,North,Detroit,MI,48201,108166,2022-03-21
+577,Store #0577 - Fort Worth,Store,East,Fort Worth,TX,76101,95698,2018-06-06
+578,Store #0578 - New York,Store,South,New York,NY,10001,35501,2015-06-27
+579,Store #0579 - Fort Worth,Store,East,Fort Worth,TX,76101,71957,2021-05-01
+580,Store #0580 - San Francisco,Store,North,San Francisco,CA,94101,100415,2019-05-20
+581,Store #0581 - San Francisco,Store,East,San Francisco,CA,94101,99828,2016-03-27
+582,Store #0582 - Atlanta,Store,Midwest,Atlanta,GA,30301,60224,2022-04-26
+583,Store #0583 - Washington,Store,East,Washington,DC,20001,77481,2014-03-18
+584,Store #0584 - Atlanta,Store,South,Atlanta,GA,30301,108189,2017-11-08
+585,Store #0585 - Colorado Springs,Store,West,Colorado Springs,CO,80901,107685,2021-02-16
+586,Store #0586 - Washington,Store,South,Washington,DC,20001,48983,2021-04-10
+587,Store #0587 - Jacksonville,Store,West,Jacksonville,FL,32201,31855,2014-12-23
+588,Store #0588 - San Antonio,Store,South,San Antonio,TX,78201,102109,2018-04-05
+589,Store #0589 - Las Vegas,Store,South,Las Vegas,NV,89101,22526,2015-09-06
+590,Store #0590 - Washington,Store,West,Washington,DC,20001,84796,2018-04-14
+591,Store #0591 - Austin,Store,Midwest,Austin,TX,78701,68146,2019-12-12
+592,Store #0592 - San Diego,Store,North,San Diego,CA,92101,66171,2020-08-25
+593,Store #0593 - Kansas City,Store,South,Kansas City,MO,64101,14980,2022-06-21
+594,Store #0594 - Las Vegas,Store,Midwest,Las Vegas,NV,89101,80864,2021-05-18
+595,Store #0595 - Miami,Store,South,Miami,FL,33101,70190,2014-10-12
+596,Store #0596 - Dallas,Store,East,Dallas,TX,75201,106944,2014-01-03
+597,Store #0597 - Seattle,Store,North,Seattle,WA,98101,85243,2019-01-10
+598,Store #0598 - Memphis,Store,West,Memphis,TN,38101,116426,2020-10-14
+599,Store #0599 - Tucson,Store,North,Tucson,AZ,85701,34629,2015-10-15
+600,Store #0600 - Baltimore,Store,Midwest,Baltimore,MD,21201,56461,2016-06-22
+601,Store #0601 - Baltimore,Store,South,Baltimore,MD,21201,65522,2016-08-19
+602,Store #0602 - Philadelphia,Store,East,Philadelphia,PA,19101,14137,2020-01-28
+603,Store #0603 - San Diego,Store,East,San Diego,CA,92101,89730,2019-02-13
+604,Store #0604 - Omaha,Store,Midwest,Omaha,NE,68101,50549,2014-07-22
+605,Store #0605 - Tucson,Store,South,Tucson,AZ,85701,53953,2023-04-17
+606,Store #0606 - Washington,Store,East,Washington,DC,20001,39395,2019-05-19
+607,Store #0607 - Milwaukee,Store,East,Milwaukee,WI,53201,6159,2018-10-03
+608,Store #0608 - Fresno,Store,East,Fresno,CA,93701,95642,2015-03-14
+609,Store #0609 - New York,Store,Midwest,New York,NY,10001,25796,2015-02-14
+610,Store #0610 - Indianapolis,Store,Midwest,Indianapolis,IN,46201,102359,2018-03-02
+611,Store #0611 - Houston,Store,North,Houston,TX,77001,12185,2022-05-04
+612,Store #0612 - Detroit,Store,East,Detroit,MI,48201,5731,2019-01-02
+613,Store #0613 - Kansas City,Store,East,Kansas City,MO,64101,90123,2018-04-25
+614,Store #0614 - San Diego,Store,North,San Diego,CA,92101,78805,2023-02-08
+615,Store #0615 - Raleigh,Store,North,Raleigh,NC,27601,47572,2017-10-02
+616,Store #0616 - Denver,Store,North,Denver,CO,80201,42660,2014-12-06
+617,Store #0617 - Charlotte,Store,West,Charlotte,NC,28201,56176,2014-06-29
+618,Store #0618 - Philadelphia,Store,East,Philadelphia,PA,19101,49323,2015-12-02
+619,Store #0619 - Atlanta,Store,West,Atlanta,GA,30301,89170,2017-10-29
+620,Store #0620 - Atlanta,Store,Midwest,Atlanta,GA,30301,86277,2021-08-19
+621,Store #0621 - Indianapolis,Store,Midwest,Indianapolis,IN,46201,30449,2023-01-26
+622,Store #0622 - San Jose,Store,East,San Jose,CA,95101,25831,2018-06-23
+623,Store #0623 - Phoenix,Store,South,Phoenix,AZ,85001,44606,2018-01-25
+624,Store #0624 - Columbus,Store,South,Columbus,OH,43201,63750,2017-09-10
+625,Store #0625 - Philadelphia,Store,East,Philadelphia,PA,19101,56719,2022-02-13
+626,Store #0626 - Milwaukee,Store,Midwest,Milwaukee,WI,53201,46568,2017-10-14
+627,Store #0627 - Seattle,Store,West,Seattle,WA,98101,110228,2021-06-02
+628,Store #0628 - Memphis,Store,South,Memphis,TN,38101,103798,2017-07-12
+629,Store #0629 - San Francisco,Store,North,San Francisco,CA,94101,74357,2017-02-21
+630,Store #0630 - Phoenix,Store,South,Phoenix,AZ,85001,48690,2018-10-01
+631,Store #0631 - Columbus,Store,North,Columbus,OH,43201,48557,2019-05-19
+632,Store #0632 - Portland,Store,South,Portland,OR,97201,34625,2020-07-04
+633,Store #0633 - Austin,Store,Midwest,Austin,TX,78701,56158,2021-03-21
+634,Store #0634 - Detroit,Store,West,Detroit,MI,48201,59947,2022-01-11
+635,Store #0635 - Boston,Store,South,Boston,MA,02101,70707,2019-05-18
+636,Store #0636 - Denver,Store,Midwest,Denver,CO,80201,40036,2020-06-28
+637,Store #0637 - Charlotte,Store,Midwest,Charlotte,NC,28201,23478,2014-05-29
+638,Store #0638 - El Paso,Store,South,El Paso,TX,79901,44770,2017-12-01
+639,Store #0639 - Memphis,Store,North,Memphis,TN,38101,27161,2017-01-31
+640,Store #0640 - San Antonio,Store,East,San Antonio,TX,78201,75856,2014-08-25
+641,Store #0641 - Kansas City,Store,South,Kansas City,MO,64101,14900,2018-07-29
+642,Store #0642 - Fresno,Store,West,Fresno,CA,93701,6137,2016-04-02
+643,Store #0643 - Portland,Store,West,Portland,OR,97201,23498,2022-08-31
+644,Store #0644 - Portland,Store,East,Portland,OR,97201,37683,2014-06-28
+645,Store #0645 - Albuquerque,Store,North,Albuquerque,NM,87101,20962,2018-04-02
+646,Store #0646 - Chicago,Store,East,Chicago,IL,60601,29718,2018-05-19
+647,Store #0647 - Seattle,Store,West,Seattle,WA,98101,87436,2020-01-02
+648,Store #0648 - Washington,Store,East,Washington,DC,20001,9467,2019-04-04
+649,Store #0649 - Philadelphia,Store,Midwest,Philadelphia,PA,19101,15907,2013-12-31
+650,Store #0650 - Boston,Store,North,Boston,MA,02101,118036,2015-12-08
+651,Store #0651 - Colorado Springs,Store,South,Colorado Springs,CO,80901,74579,2017-03-08
+652,Store #0652 - Detroit,Store,North,Detroit,MI,48201,64879,2016-09-28
+653,Store #0653 - Fresno,Store,North,Fresno,CA,93701,67654,2016-03-09
+654,Store #0654 - Fresno,Store,South,Fresno,CA,93701,46117,2023-01-17
+655,Store #0655 - Baltimore,Store,South,Baltimore,MD,21201,32768,2021-04-09
+656,Store #0656 - Philadelphia,Store,East,Philadelphia,PA,19101,46262,2014-12-08
+657,Store #0657 - Houston,Store,North,Houston,TX,77001,70208,2019-04-16
+658,Store #0658 - Memphis,Store,South,Memphis,TN,38101,5351,2018-01-27
+659,Store #0659 - Kansas City,Store,Midwest,Kansas City,MO,64101,41603,2015-07-09
+660,Store #0660 - Kansas City,Store,North,Kansas City,MO,64101,108579,2015-01-23
+661,Store #0661 - New York,Store,East,New York,NY,10001,109212,2015-10-21
+662,Store #0662 - Phoenix,Store,West,Phoenix,AZ,85001,74295,2019-10-03
+663,Store #0663 - San Antonio,Store,Midwest,San Antonio,TX,78201,11813,2017-05-09
+664,Store #0664 - Phoenix,Store,South,Phoenix,AZ,85001,79266,2014-01-13
+665,Store #0665 - Chicago,Store,East,Chicago,IL,60601,119220,2022-08-15
+666,Store #0666 - Detroit,Store,West,Detroit,MI,48201,21831,2016-07-18
+667,Store #0667 - Fresno,Store,Midwest,Fresno,CA,93701,64082,2017-06-20
+668,Store #0668 - Las Vegas,Store,Midwest,Las Vegas,NV,89101,24983,2022-09-09
+669,Store #0669 - Omaha,Store,East,Omaha,NE,68101,39447,2018-11-30
+670,Store #0670 - Los Angeles,Store,South,Los Angeles,CA,90001,15306,2019-01-29
+671,Store #0671 - Phoenix,Store,North,Phoenix,AZ,85001,57079,2017-12-11
+672,Store #0672 - San Antonio,Store,East,San Antonio,TX,78201,11495,2016-01-13
+673,Store #0673 - Indianapolis,Store,Midwest,Indianapolis,IN,46201,76968,2019-10-18
+674,Store #0674 - Tucson,Store,North,Tucson,AZ,85701,74687,2020-01-12
+675,Store #0675 - Houston,Store,East,Houston,TX,77001,5691,2023-05-12
+676,Store #0676 - Austin,Store,East,Austin,TX,78701,49693,2022-03-25
+677,Store #0677 - Chicago,Store,South,Chicago,IL,60601,22787,2020-03-21
+678,Store #0678 - Indianapolis,Store,South,Indianapolis,IN,46201,87034,2014-09-14
+679,Store #0679 - Mesa,Store,East,Mesa,AZ,85201,69373,2018-03-01
+680,Store #0680 - Jacksonville,Store,North,Jacksonville,FL,32201,90392,2022-11-24
+681,Store #0681 - Seattle,Store,South,Seattle,WA,98101,108236,2014-02-12
+682,Store #0682 - Colorado Springs,Store,South,Colorado Springs,CO,80901,86723,2014-03-04
+683,Store #0683 - Jacksonville,Store,Midwest,Jacksonville,FL,32201,65276,2018-01-07
+684,Store #0684 - Fort Worth,Store,East,Fort Worth,TX,76101,104562,2015-10-16
+685,Store #0685 - Fort Worth,Store,West,Fort Worth,TX,76101,100350,2023-03-26
+686,Store #0686 - Miami,Store,East,Miami,FL,33101,53418,2015-04-13
+687,Store #0687 - El Paso,Store,East,El Paso,TX,79901,31252,2017-07-02
+688,Store #0688 - Denver,Store,North,Denver,CO,80201,77706,2022-12-23
+689,Store #0689 - Tucson,Store,North,Tucson,AZ,85701,50818,2016-05-01
+690,Store #0690 - Memphis,Store,South,Memphis,TN,38101,104897,2015-04-30
+691,Store #0691 - Phoenix,Store,Midwest,Phoenix,AZ,85001,90814,2015-02-11
+692,Store #0692 - Los Angeles,Store,South,Los Angeles,CA,90001,107362,2019-12-07
+693,Store #0693 - El Paso,Store,North,El Paso,TX,79901,77801,2018-06-01
+694,Store #0694 - Fresno,Store,East,Fresno,CA,93701,107510,2016-03-07
+695,Store #0695 - Memphis,Store,Midwest,Memphis,TN,38101,49084,2019-06-20
+696,Store #0696 - Atlanta,Store,East,Atlanta,GA,30301,48059,2014-05-25
+697,Store #0697 - Portland,Store,North,Portland,OR,97201,58931,2018-07-20
+698,Store #0698 - Charlotte,Store,West,Charlotte,NC,28201,33816,2020-05-21
+699,Store #0699 - Philadelphia,Store,North,Philadelphia,PA,19101,66970,2020-05-18
+700,Store #0700 - San Jose,Store,North,San Jose,CA,95101,106692,2016-12-29
+701,Store #0701 - Boston,Store,West,Boston,MA,02101,20354,2014-04-19
+702,Store #0702 - Jacksonville,Store,West,Jacksonville,FL,32201,83287,2017-05-13
+703,Store #0703 - Austin,Store,West,Austin,TX,78701,9817,2021-09-04
+704,Store #0704 - Chicago,Store,Midwest,Chicago,IL,60601,54044,2019-07-18
+705,Store #0705 - El Paso,Store,West,El Paso,TX,79901,11782,2016-10-26
+706,Store #0706 - San Jose,Store,South,San Jose,CA,95101,48758,2018-02-05
+707,Store #0707 - Seattle,Store,South,Seattle,WA,98101,103805,2016-06-24
+708,Store #0708 - Boston,Store,South,Boston,MA,02101,15573,2022-06-16
+709,Store #0709 - Colorado Springs,Store,East,Colorado Springs,CO,80901,36963,2022-04-22
+710,Store #0710 - Austin,Store,Midwest,Austin,TX,78701,73035,2022-08-10
+711,Store #0711 - Columbus,Store,Midwest,Columbus,OH,43201,45905,2015-11-17
+712,Store #0712 - Tucson,Store,East,Tucson,AZ,85701,45369,2021-10-16
+713,Store #0713 - Houston,Store,East,Houston,TX,77001,22109,2014-11-02
+714,Store #0714 - San Francisco,Store,West,San Francisco,CA,94101,26606,2016-10-23
+715,Store #0715 - Sacramento,Store,West,Sacramento,CA,95801,6797,2015-01-05
+716,Store #0716 - Nashville,Store,Midwest,Nashville,TN,37201,15644,2014-05-26
+717,Store #0717 - San Francisco,Store,East,San Francisco,CA,94101,17686,2020-08-14
+718,Store #0718 - Las Vegas,Store,South,Las Vegas,NV,89101,62545,2019-08-11
+719,Store #0719 - Oklahoma City,Store,South,Oklahoma City,OK,73101,15066,2023-05-19
+720,Store #0720 - Detroit,Store,East,Detroit,MI,48201,60076,2017-10-27
+721,Store #0721 - Atlanta,Store,Midwest,Atlanta,GA,30301,15063,2014-06-20
+722,Store #0722 - San Francisco,Store,South,San Francisco,CA,94101,30347,2019-05-09
+723,Store #0723 - Los Angeles,Store,Midwest,Los Angeles,CA,90001,119016,2017-10-19
+724,Store #0724 - Seattle,Store,South,Seattle,WA,98101,35347,2019-10-23
+725,Store #0725 - Austin,Store,South,Austin,TX,78701,91798,2023-04-23
+726,Store #0726 - Detroit,Store,North,Detroit,MI,48201,61737,2017-01-02
+727,Store #0727 - Louisville,Store,West,Louisville,KY,40201,21913,2020-04-12
+728,Store #0728 - Houston,Store,South,Houston,TX,77001,25643,2022-09-08
+729,Store #0729 - Nashville,Store,East,Nashville,TN,37201,65611,2021-11-26
+730,Store #0730 - Houston,Store,East,Houston,TX,77001,117730,2019-05-09
+731,Store #0731 - Albuquerque,Store,North,Albuquerque,NM,87101,77122,2016-12-18
+732,Store #0732 - Nashville,Store,East,Nashville,TN,37201,17711,2015-04-13
+733,Store #0733 - Nashville,Store,East,Nashville,TN,37201,97738,2015-09-16
+734,Store #0734 - Las Vegas,Store,Midwest,Las Vegas,NV,89101,65399,2014-05-27
+735,Store #0735 - Raleigh,Store,West,Raleigh,NC,27601,39447,2020-10-25
+736,Store #0736 - Dallas,Store,West,Dallas,TX,75201,108865,2018-03-03
+737,Store #0737 - Phoenix,Store,East,Phoenix,AZ,85001,67066,2016-06-23
+738,Store #0738 - Oklahoma City,Store,East,Oklahoma City,OK,73101,22563,2017-03-09
+739,Store #0739 - Omaha,Store,Midwest,Omaha,NE,68101,12554,2015-03-15
+740,Store #0740 - Philadelphia,Store,Midwest,Philadelphia,PA,19101,112451,2021-02-16
+741,Store #0741 - New York,Store,East,New York,NY,10001,112590,2022-03-16
+742,Store #0742 - Dallas,Store,North,Dallas,TX,75201,72041,2018-11-03
+743,Store #0743 - Houston,Store,East,Houston,TX,77001,38018,2020-03-30
+744,Store #0744 - Phoenix,Store,West,Phoenix,AZ,85001,50200,2014-07-27
+745,Store #0745 - Albuquerque,Store,East,Albuquerque,NM,87101,9052,2015-03-21
+746,Store #0746 - Raleigh,Store,West,Raleigh,NC,27601,5588,2020-11-10
+747,Store #0747 - Mesa,Store,East,Mesa,AZ,85201,92578,2015-01-06
+748,Store #0748 - San Antonio,Store,North,San Antonio,TX,78201,69537,2016-02-25
+749,Store #0749 - Kansas City,Store,Midwest,Kansas City,MO,64101,15260,2019-02-05
+750,Store #0750 - Sacramento,Store,East,Sacramento,CA,95801,16200,2016-12-13
+751,Store #0751 - Memphis,Store,East,Memphis,TN,38101,36636,2020-07-30
+752,Store #0752 - Detroit,Store,North,Detroit,MI,48201,107845,2014-08-04
+753,Store #0753 - Detroit,Store,South,Detroit,MI,48201,57891,2022-12-24
+754,Store #0754 - Nashville,Store,East,Nashville,TN,37201,112484,2022-02-21
+755,Store #0755 - Sacramento,Store,South,Sacramento,CA,95801,47840,2020-01-10
+756,Store #0756 - Albuquerque,Store,North,Albuquerque,NM,87101,67858,2023-05-12
+757,Store #0757 - Charlotte,Store,West,Charlotte,NC,28201,44672,2016-12-01
+758,Store #0758 - Denver,Store,Midwest,Denver,CO,80201,65738,2020-09-15
+759,Store #0759 - Louisville,Store,West,Louisville,KY,40201,66551,2021-03-24
+760,Store #0760 - Los Angeles,Store,North,Los Angeles,CA,90001,61693,2017-02-08
+761,Store #0761 - Nashville,Store,North,Nashville,TN,37201,82806,2020-05-19
+762,Store #0762 - Phoenix,Store,South,Phoenix,AZ,85001,32597,2022-10-02
+763,Store #0763 - Fresno,Store,North,Fresno,CA,93701,58698,2022-07-14
+764,Store #0764 - Milwaukee,Store,North,Milwaukee,WI,53201,83174,2018-11-25
+765,Store #0765 - Seattle,Store,North,Seattle,WA,98101,90601,2022-05-31
+766,Store #0766 - Jacksonville,Store,North,Jacksonville,FL,32201,27024,2016-11-15
+767,Store #0767 - Oklahoma City,Store,South,Oklahoma City,OK,73101,87527,2020-06-15
+768,Store #0768 - Washington,Store,East,Washington,DC,20001,95707,2023-02-25
+769,Store #0769 - New York,Store,South,New York,NY,10001,33367,2019-07-30
+770,Store #0770 - Miami,Store,Midwest,Miami,FL,33101,62125,2016-11-04
+771,Store #0771 - San Antonio,Store,North,San Antonio,TX,78201,90440,2015-06-11
+772,Store #0772 - Austin,Store,Midwest,Austin,TX,78701,35184,2018-06-26
+773,Store #0773 - San Diego,Store,South,San Diego,CA,92101,119984,2019-11-19
+774,Store #0774 - Boston,Store,East,Boston,MA,02101,103396,2014-11-11
+775,Store #0775 - Omaha,Store,South,Omaha,NE,68101,90208,2014-10-15
+776,Store #0776 - Nashville,Store,South,Nashville,TN,37201,98728,2018-05-09
+777,Store #0777 - Fresno,Store,Midwest,Fresno,CA,93701,114360,2017-01-31
+778,Store #0778 - Jacksonville,Store,West,Jacksonville,FL,32201,44989,2018-12-13
+779,Store #0779 - Milwaukee,Store,North,Milwaukee,WI,53201,23167,2014-05-14
+780,Store #0780 - Colorado Springs,Store,South,Colorado Springs,CO,80901,97787,2019-04-13
+781,Store #0781 - Albuquerque,Store,East,Albuquerque,NM,87101,85251,2013-12-28
+782,Store #0782 - Los Angeles,Store,North,Los Angeles,CA,90001,62314,2023-02-28
+783,Store #0783 - El Paso,Store,West,El Paso,TX,79901,31408,2023-04-19
+784,Store #0784 - Louisville,Store,North,Louisville,KY,40201,62069,2013-12-16
+785,Store #0785 - Chicago,Store,West,Chicago,IL,60601,98505,2013-11-08
+786,Store #0786 - Tucson,Store,West,Tucson,AZ,85701,74044,2015-06-22
+787,Store #0787 - Los Angeles,Store,North,Los Angeles,CA,90001,41157,2020-04-28
+788,Store #0788 - Los Angeles,Store,Midwest,Los Angeles,CA,90001,76835,2017-01-19
+789,Store #0789 - Philadelphia,Store,South,Philadelphia,PA,19101,83027,2018-12-21
+790,Store #0790 - Oklahoma City,Store,Midwest,Oklahoma City,OK,73101,28694,2022-12-07
+791,Store #0791 - Miami,Store,South,Miami,FL,33101,112474,2017-03-20
+792,Store #0792 - Washington,Store,Midwest,Washington,DC,20001,7175,2016-08-23
+793,Store #0793 - Nashville,Store,South,Nashville,TN,37201,72573,2023-02-01
+794,Store #0794 - Oklahoma City,Store,Midwest,Oklahoma City,OK,73101,50724,2019-05-24
+795,Store #0795 - Kansas City,Store,South,Kansas City,MO,64101,62035,2015-01-03
+796,Store #0796 - Denver,Store,East,Denver,CO,80201,118308,2015-05-08
+797,Store #0797 - Louisville,Store,North,Louisville,KY,40201,83373,2021-08-01
+798,Store #0798 - Colorado Springs,Store,Midwest,Colorado Springs,CO,80901,18607,2021-03-25
+799,Store #0799 - Louisville,Store,South,Louisville,KY,40201,117852,2017-07-05
+800,Store #0800 - Miami,Store,North,Miami,FL,33101,27444,2018-07-21
+801,Store #0801 - Nashville,Store,Midwest,Nashville,TN,37201,117238,2016-11-24
+802,Store #0802 - Detroit,Store,West,Detroit,MI,48201,98787,2021-12-09
+803,Store #0803 - Austin,Store,South,Austin,TX,78701,34377,2020-06-27
+804,Store #0804 - San Antonio,Store,South,San Antonio,TX,78201,20801,2015-03-14
+805,Store #0805 - Memphis,Store,East,Memphis,TN,38101,26337,2021-01-26
+806,Store #0806 - Detroit,Store,West,Detroit,MI,48201,74586,2017-03-01
+807,Store #0807 - Denver,Store,North,Denver,CO,80201,31519,2019-11-23
+808,Store #0808 - Denver,Store,North,Denver,CO,80201,65570,2022-05-03
+809,Store #0809 - Miami,Store,South,Miami,FL,33101,48897,2021-05-21
+810,Store #0810 - Atlanta,Store,South,Atlanta,GA,30301,116097,2022-03-15
+811,Store #0811 - San Jose,Store,East,San Jose,CA,95101,90383,2022-08-23
+812,Store #0812 - Columbus,Store,South,Columbus,OH,43201,34558,2014-02-15
+813,Store #0813 - Raleigh,Store,East,Raleigh,NC,27601,65660,2022-07-16
+814,Store #0814 - Jacksonville,Store,East,Jacksonville,FL,32201,41110,2019-08-17
+815,Store #0815 - Memphis,Store,West,Memphis,TN,38101,34895,2016-11-19
+816,Store #0816 - Columbus,Store,Midwest,Columbus,OH,43201,75904,2019-05-28
+817,Store #0817 - Colorado Springs,Store,Midwest,Colorado Springs,CO,80901,31746,2020-09-26
+818,Store #0818 - Houston,Store,South,Houston,TX,77001,118567,2019-01-02
+819,Store #0819 - Omaha,Store,South,Omaha,NE,68101,59306,2015-10-10
+820,Store #0820 - Omaha,Store,Midwest,Omaha,NE,68101,112250,2016-03-24
+821,Store #0821 - El Paso,Store,West,El Paso,TX,79901,65446,2013-10-30
+822,Store #0822 - Nashville,Store,Midwest,Nashville,TN,37201,30914,2017-03-16
+823,Store #0823 - New York,Store,West,New York,NY,10001,76996,2017-04-30
+824,Store #0824 - Nashville,Store,West,Nashville,TN,37201,9359,2021-04-13
+825,Store #0825 - Chicago,Store,North,Chicago,IL,60601,90798,2019-04-19
+826,Store #0826 - Atlanta,Store,North,Atlanta,GA,30301,73388,2020-10-29
+827,Store #0827 - San Jose,Store,West,San Jose,CA,95101,46280,2020-06-04
+828,Store #0828 - Kansas City,Store,South,Kansas City,MO,64101,114171,2022-04-11
+829,Store #0829 - Denver,Store,Midwest,Denver,CO,80201,50515,2015-06-07
+830,Store #0830 - El Paso,Store,Midwest,El Paso,TX,79901,19706,2015-05-19
+831,Store #0831 - Austin,Store,South,Austin,TX,78701,39188,2018-11-23
+832,Store #0832 - Nashville,Store,Midwest,Nashville,TN,37201,59869,2021-06-11
+833,Store #0833 - El Paso,Store,Midwest,El Paso,TX,79901,23959,2019-08-16
+834,Store #0834 - San Antonio,Store,North,San Antonio,TX,78201,13014,2021-12-26
+835,Store #0835 - Colorado Springs,Store,East,Colorado Springs,CO,80901,22907,2019-12-14
+836,Store #0836 - Colorado Springs,Store,East,Colorado Springs,CO,80901,48643,2019-02-11
+837,Store #0837 - Sacramento,Store,South,Sacramento,CA,95801,35487,2022-08-15
+838,Store #0838 - Atlanta,Store,East,Atlanta,GA,30301,112186,2020-09-05
+839,Store #0839 - Nashville,Store,Midwest,Nashville,TN,37201,11933,2020-09-28
+840,Store #0840 - Colorado Springs,Store,South,Colorado Springs,CO,80901,21085,2022-07-28
+841,Store #0841 - Sacramento,Store,North,Sacramento,CA,95801,103285,2015-01-09
+842,Store #0842 - Kansas City,Store,South,Kansas City,MO,64101,19390,2020-12-09
+843,Store #0843 - El Paso,Store,Midwest,El Paso,TX,79901,56660,2015-08-06
+844,Store #0844 - Portland,Store,Midwest,Portland,OR,97201,104384,2014-06-18
+845,Store #0845 - Denver,Store,West,Denver,CO,80201,111172,2020-05-24
+846,Store #0846 - New York,Store,West,New York,NY,10001,37213,2017-01-03
+847,Store #0847 - Milwaukee,Store,North,Milwaukee,WI,53201,63544,2019-11-04
+848,Store #0848 - Las Vegas,Store,East,Las Vegas,NV,89101,38381,2016-11-27
+849,Store #0849 - Fresno,Store,North,Fresno,CA,93701,20109,2015-03-12
+850,Store #0850 - Las Vegas,Store,West,Las Vegas,NV,89101,46385,2021-07-20
+851,Store #0851 - Philadelphia,Store,Midwest,Philadelphia,PA,19101,110308,2015-08-10
+852,Store #0852 - Atlanta,Store,North,Atlanta,GA,30301,75022,2016-02-22
+853,Store #0853 - Los Angeles,Store,North,Los Angeles,CA,90001,46534,2015-01-28
+854,Store #0854 - Columbus,Store,Midwest,Columbus,OH,43201,64142,2015-01-14
+855,Store #0855 - Austin,Store,South,Austin,TX,78701,32651,2016-06-07
+856,Store #0856 - Raleigh,Store,Midwest,Raleigh,NC,27601,108987,2021-06-08
+857,Store #0857 - Mesa,Store,South,Mesa,AZ,85201,100598,2019-08-25
+858,Store #0858 - Phoenix,Store,North,Phoenix,AZ,85001,87248,2018-09-11
+859,Store #0859 - Nashville,Store,Midwest,Nashville,TN,37201,89946,2019-08-17
+860,Store #0860 - Fresno,Store,West,Fresno,CA,93701,73327,2013-10-14
+861,Store #0861 - Fort Worth,Store,South,Fort Worth,TX,76101,104230,2017-10-20
+862,Store #0862 - Dallas,Store,Midwest,Dallas,TX,75201,59476,2018-09-17
+863,Store #0863 - Detroit,Store,East,Detroit,MI,48201,23914,2013-10-29
+864,Store #0864 - Fort Worth,Store,Midwest,Fort Worth,TX,76101,88805,2017-06-10
+865,Store #0865 - Las Vegas,Store,North,Las Vegas,NV,89101,7297,2018-05-22
+866,Store #0866 - Portland,Store,South,Portland,OR,97201,82084,2021-03-03
+867,Store #0867 - San Jose,Store,North,San Jose,CA,95101,69021,2018-10-01
+868,Store #0868 - Sacramento,Store,East,Sacramento,CA,95801,24808,2021-09-17
+869,Store #0869 - Portland,Store,North,Portland,OR,97201,56738,2021-02-21
+870,Store #0870 - Tucson,Store,North,Tucson,AZ,85701,49887,2018-11-08
+871,Store #0871 - San Diego,Store,South,San Diego,CA,92101,12070,2015-08-27
+872,Store #0872 - Washington,Store,North,Washington,DC,20001,9766,2013-11-22
+873,Store #0873 - Milwaukee,Store,South,Milwaukee,WI,53201,111302,2022-02-27
+874,Store #0874 - New York,Store,South,New York,NY,10001,32586,2016-06-21
+875,Store #0875 - Indianapolis,Store,South,Indianapolis,IN,46201,99434,2018-06-11
+876,Store #0876 - San Francisco,Store,West,San Francisco,CA,94101,69951,2017-07-18
+877,Store #0877 - Boston,Store,North,Boston,MA,02101,104283,2015-10-26
+878,Store #0878 - Sacramento,Store,North,Sacramento,CA,95801,105675,2022-11-15
+879,Store #0879 - Las Vegas,Store,North,Las Vegas,NV,89101,118088,2016-06-02
+880,Store #0880 - El Paso,Store,South,El Paso,TX,79901,12024,2017-06-04
+881,Store #0881 - New York,Store,South,New York,NY,10001,7320,2020-10-25
+882,Store #0882 - Phoenix,Store,North,Phoenix,AZ,85001,86466,2023-02-25
+883,Store #0883 - Phoenix,Store,South,Phoenix,AZ,85001,32830,2017-07-02
+884,Store #0884 - Albuquerque,Store,North,Albuquerque,NM,87101,26059,2017-11-19
+885,Store #0885 - Miami,Store,North,Miami,FL,33101,71003,2014-08-31
+886,Store #0886 - Oklahoma City,Store,South,Oklahoma City,OK,73101,40228,2015-05-01
+887,Store #0887 - Columbus,Store,West,Columbus,OH,43201,51277,2018-10-24
+888,Store #0888 - Las Vegas,Store,North,Las Vegas,NV,89101,107539,2022-11-12
+889,Store #0889 - Kansas City,Store,East,Kansas City,MO,64101,45863,2022-09-03
+890,Store #0890 - New York,Store,North,New York,NY,10001,54688,2021-10-07
+891,Store #0891 - Albuquerque,Store,East,Albuquerque,NM,87101,31627,2013-09-28
+892,Store #0892 - Columbus,Store,North,Columbus,OH,43201,105903,2021-10-23
+893,Store #0893 - Charlotte,Store,North,Charlotte,NC,28201,48893,2017-05-14
+894,Store #0894 - Omaha,Store,North,Omaha,NE,68101,62493,2021-10-10
+895,Store #0895 - Charlotte,Store,West,Charlotte,NC,28201,119810,2016-01-27
+896,Store #0896 - Seattle,Store,South,Seattle,WA,98101,103650,2020-06-19
+897,Store #0897 - Mesa,Store,West,Mesa,AZ,85201,23933,2019-08-24
+898,Store #0898 - Boston,Store,North,Boston,MA,02101,38654,2021-03-15
+899,Store #0899 - Washington,Store,West,Washington,DC,20001,81135,2018-09-05
+900,Store #0900 - Fort Worth,Store,North,Fort Worth,TX,76101,110897,2017-07-09
+901,Store #0901 - Fresno,Store,East,Fresno,CA,93701,11841,2020-05-22
+902,Store #0902 - Denver,Store,West,Denver,CO,80201,117533,2016-09-21
+903,Store #0903 - Los Angeles,Store,Midwest,Los Angeles,CA,90001,57154,2014-05-04
+904,Store #0904 - Louisville,Store,Midwest,Louisville,KY,40201,68510,2015-07-14
+905,Store #0905 - Mesa,Store,South,Mesa,AZ,85201,116347,2016-02-17
+906,Store #0906 - Colorado Springs,Store,West,Colorado Springs,CO,80901,117302,2020-07-24
+907,Store #0907 - San Francisco,Store,East,San Francisco,CA,94101,110047,2018-11-28
+908,Store #0908 - Albuquerque,Store,South,Albuquerque,NM,87101,49634,2022-12-09
+909,Store #0909 - Denver,Store,North,Denver,CO,80201,67355,2016-08-05
+910,Store #0910 - Dallas,Store,Midwest,Dallas,TX,75201,32661,2022-04-23
+911,Store #0911 - Detroit,Store,Midwest,Detroit,MI,48201,81956,2021-02-13
+912,Store #0912 - Raleigh,Store,North,Raleigh,NC,27601,6598,2014-05-09
+913,Store #0913 - Memphis,Store,West,Memphis,TN,38101,21550,2014-04-10
+914,Store #0914 - El Paso,Store,South,El Paso,TX,79901,78837,2013-12-16
+915,Store #0915 - Chicago,Store,South,Chicago,IL,60601,81674,2017-07-21
+916,Store #0916 - San Francisco,Store,Midwest,San Francisco,CA,94101,5491,2021-01-20
+917,Store #0917 - San Jose,Store,Midwest,San Jose,CA,95101,26683,2020-02-11
+918,Store #0918 - Oklahoma City,Store,Midwest,Oklahoma City,OK,73101,39177,2019-04-14
+919,Store #0919 - El Paso,Store,Midwest,El Paso,TX,79901,6996,2019-07-19
+920,Store #0920 - Los Angeles,Store,West,Los Angeles,CA,90001,26678,2015-06-28
+921,Store #0921 - Colorado Springs,Store,Midwest,Colorado Springs,CO,80901,114186,2018-08-11
+922,Store #0922 - Louisville,Store,East,Louisville,KY,40201,113703,2018-01-28
+923,Store #0923 - Tucson,Store,West,Tucson,AZ,85701,61329,2015-06-03
+924,Store #0924 - Philadelphia,Store,West,Philadelphia,PA,19101,22407,2020-04-28
+925,Store #0925 - Atlanta,Store,East,Atlanta,GA,30301,23948,2019-09-02
+926,Store #0926 - Oklahoma City,Store,Midwest,Oklahoma City,OK,73101,17227,2013-12-30
+927,Store #0927 - Memphis,Store,Midwest,Memphis,TN,38101,114209,2016-05-03
+928,Store #0928 - Portland,Store,South,Portland,OR,97201,66647,2015-05-07
+929,Store #0929 - Kansas City,Store,North,Kansas City,MO,64101,31635,2017-09-20
+930,Store #0930 - Louisville,Store,West,Louisville,KY,40201,51140,2014-12-23
+931,Store #0931 - Los Angeles,Store,North,Los Angeles,CA,90001,70465,2013-11-10
+932,Store #0932 - Phoenix,Store,West,Phoenix,AZ,85001,105190,2022-01-25
+933,Store #0933 - Washington,Store,Midwest,Washington,DC,20001,38517,2022-06-02
+934,Store #0934 - Washington,Store,Midwest,Washington,DC,20001,111016,2016-09-19
+935,Store #0935 - San Francisco,Store,South,San Francisco,CA,94101,97251,2013-10-15
+936,Store #0936 - Louisville,Store,West,Louisville,KY,40201,103632,2014-08-08
+937,Store #0937 - Miami,Store,West,Miami,FL,33101,42650,2020-01-18
+938,Store #0938 - Colorado Springs,Store,West,Colorado Springs,CO,80901,105830,2016-06-03
+939,Store #0939 - Mesa,Store,South,Mesa,AZ,85201,11420,2016-11-30
+940,Store #0940 - San Jose,Store,West,San Jose,CA,95101,117999,2020-02-26
+941,Store #0941 - Detroit,Store,South,Detroit,MI,48201,49945,2014-06-22
+942,Store #0942 - Memphis,Store,South,Memphis,TN,38101,109198,2016-03-07
+943,Store #0943 - Austin,Store,South,Austin,TX,78701,80168,2021-07-21
+944,Store #0944 - Charlotte,Store,South,Charlotte,NC,28201,55721,2019-10-25
+945,Store #0945 - Los Angeles,Store,South,Los Angeles,CA,90001,92621,2017-04-24
+946,Store #0946 - Boston,Store,Midwest,Boston,MA,02101,25081,2016-02-20
+947,Store #0947 - New York,Store,Midwest,New York,NY,10001,28874,2022-10-29
+948,Store #0948 - Omaha,Store,North,Omaha,NE,68101,67282,2016-11-13
+949,Store #0949 - Dallas,Store,South,Dallas,TX,75201,26668,2015-05-07
+950,Store #0950 - Colorado Springs,Store,North,Colorado Springs,CO,80901,72184,2021-10-02
+951,Store #0951 - Seattle,Store,West,Seattle,WA,98101,39997,2018-05-19
+952,Store #0952 - Portland,Store,South,Portland,OR,97201,9796,2021-09-02
+953,Store #0953 - Milwaukee,Store,North,Milwaukee,WI,53201,119270,2016-10-08
+954,Store #0954 - Kansas City,Store,East,Kansas City,MO,64101,67155,2019-09-04
+955,Store #0955 - Austin,Store,South,Austin,TX,78701,29118,2018-05-31
+956,Store #0956 - Dallas,Store,Midwest,Dallas,TX,75201,107566,2015-10-04
+957,Store #0957 - Columbus,Store,North,Columbus,OH,43201,14012,2016-01-28
+958,Store #0958 - Seattle,Store,South,Seattle,WA,98101,16906,2014-07-04
+959,Store #0959 - Indianapolis,Store,North,Indianapolis,IN,46201,72318,2016-04-18
+960,Store #0960 - Miami,Store,South,Miami,FL,33101,5130,2013-09-23
+961,Store #0961 - Omaha,Store,East,Omaha,NE,68101,115745,2022-05-04
+962,Store #0962 - Houston,Store,Midwest,Houston,TX,77001,15130,2017-04-11
+963,Store #0963 - Jacksonville,Store,South,Jacksonville,FL,32201,104388,2016-09-26
+964,Store #0964 - Omaha,Store,West,Omaha,NE,68101,46255,2015-12-14
+965,Store #0965 - Atlanta,Store,West,Atlanta,GA,30301,12033,2015-04-13
+966,Store #0966 - Houston,Store,South,Houston,TX,77001,98417,2014-02-09
+967,Store #0967 - Dallas,Store,West,Dallas,TX,75201,64825,2017-03-23
+968,Store #0968 - Tucson,Store,East,Tucson,AZ,85701,52245,2015-02-06
+969,Store #0969 - Columbus,Store,East,Columbus,OH,43201,103941,2014-02-13
+970,Store #0970 - Washington,Store,West,Washington,DC,20001,49744,2023-05-19
+971,Store #0971 - Colorado Springs,Store,West,Colorado Springs,CO,80901,54889,2021-01-14
+972,Store #0972 - Chicago,Store,Midwest,Chicago,IL,60601,74539,2019-06-08
+973,Store #0973 - Washington,Store,North,Washington,DC,20001,119722,2018-09-08
+974,Store #0974 - Kansas City,Store,East,Kansas City,MO,64101,96411,2016-11-10
+975,Store #0975 - Baltimore,Store,West,Baltimore,MD,21201,57299,2017-04-21
+976,Store #0976 - San Francisco,Store,North,San Francisco,CA,94101,29065,2023-01-01
+977,Store #0977 - Las Vegas,Store,Midwest,Las Vegas,NV,89101,54622,2015-01-25
+978,Store #0978 - Charlotte,Store,West,Charlotte,NC,28201,77203,2019-09-13
+979,Store #0979 - Nashville,Store,Midwest,Nashville,TN,37201,44637,2020-03-16
+980,Store #0980 - Louisville,Store,West,Louisville,KY,40201,52426,2014-01-10
+981,Store #0981 - Tucson,Store,North,Tucson,AZ,85701,107629,2023-03-31
+982,Store #0982 - Kansas City,Store,East,Kansas City,MO,64101,85762,2018-08-21
+983,Store #0983 - Colorado Springs,Store,North,Colorado Springs,CO,80901,110934,2015-06-24
+984,Store #0984 - Denver,Store,East,Denver,CO,80201,52904,2022-09-10
+985,Store #0985 - Omaha,Store,East,Omaha,NE,68101,67575,2019-03-12
+986,Store #0986 - New York,Store,East,New York,NY,10001,112680,2023-04-30
+987,Store #0987 - Atlanta,Store,Midwest,Atlanta,GA,30301,69756,2018-10-22
+988,Store #0988 - Phoenix,Store,Midwest,Phoenix,AZ,85001,24727,2018-05-06
+989,Store #0989 - Chicago,Store,North,Chicago,IL,60601,31029,2015-09-13
+990,Store #0990 - Colorado Springs,Store,Midwest,Colorado Springs,CO,80901,119225,2021-03-23
+991,Store #0991 - Baltimore,Store,South,Baltimore,MD,21201,63560,2022-02-26
+992,Store #0992 - Chicago,Store,West,Chicago,IL,60601,97745,2021-09-06
+993,Store #0993 - Omaha,Store,North,Omaha,NE,68101,84129,2013-10-15
+994,Store #0994 - Jacksonville,Store,Midwest,Jacksonville,FL,32201,8547,2019-05-20
+995,Store #0995 - Sacramento,Store,North,Sacramento,CA,95801,94490,2016-07-29
+996,Store #0996 - Denver,Store,Midwest,Denver,CO,80201,105670,2015-01-04
+997,Store #0997 - Tucson,Store,East,Tucson,AZ,85701,102335,2019-09-11
+998,Store #0998 - Tucson,Store,North,Tucson,AZ,85701,18257,2022-12-03
+999,Store #0999 - San Jose,Store,South,San Jose,CA,95101,81270,2022-08-10
+1000,Store #1000 - Houston,Store,South,Houston,TX,77001,8237,2019-01-25
+1001,Store #1001 - Miami,Store,Midwest,Miami,FL,33101,79240,2021-04-10
+1002,Store #1002 - San Jose,Store,West,San Jose,CA,95101,85834,2016-11-23
+1003,Store #1003 - Houston,Store,Midwest,Houston,TX,77001,43937,2018-11-13
+1004,Store #1004 - El Paso,Store,Midwest,El Paso,TX,79901,56754,2015-12-12
+1005,Store #1005 - San Diego,Store,Midwest,San Diego,CA,92101,95222,2021-02-27
+1006,Store #1006 - Portland,Store,East,Portland,OR,97201,52657,2014-10-17
+1007,Store #1007 - Boston,Store,Midwest,Boston,MA,02101,102889,2015-04-03
+1008,Store #1008 - Houston,Store,West,Houston,TX,77001,70048,2022-03-27
+1009,Store #1009 - Milwaukee,Store,Midwest,Milwaukee,WI,53201,61475,2023-03-30
+1010,Store #1010 - Indianapolis,Store,Midwest,Indianapolis,IN,46201,65939,2020-07-09
+1011,Store #1011 - Tucson,Store,South,Tucson,AZ,85701,11979,2021-01-29
+1012,Store #1012 - San Francisco,Store,North,San Francisco,CA,94101,112596,2021-11-13
+1013,Store #1013 - Austin,Store,South,Austin,TX,78701,30417,2023-03-21
+1014,Store #1014 - Kansas City,Store,North,Kansas City,MO,64101,47447,2020-12-02
+1015,Store #1015 - San Diego,Store,South,San Diego,CA,92101,73144,2015-09-06
+1016,Store #1016 - Austin,Store,North,Austin,TX,78701,64081,2022-01-28
+1017,Store #1017 - Jacksonville,Store,West,Jacksonville,FL,32201,114119,2019-01-26
+1018,Store #1018 - Baltimore,Store,North,Baltimore,MD,21201,62769,2023-03-31
+1019,Store #1019 - Portland,Store,West,Portland,OR,97201,27494,2020-10-25
+1020,Store #1020 - Sacramento,Store,North,Sacramento,CA,95801,41927,2022-07-17
+1021,Store #1021 - Austin,Store,East,Austin,TX,78701,96468,2021-11-16
+1022,Store #1022 - Los Angeles,Store,West,Los Angeles,CA,90001,20669,2019-09-07
+1023,Store #1023 - Indianapolis,Store,North,Indianapolis,IN,46201,83201,2016-09-27
+1024,Store #1024 - El Paso,Store,North,El Paso,TX,79901,81679,2023-01-04
+1025,Store #1025 - Baltimore,Store,West,Baltimore,MD,21201,48081,2013-11-13
+1026,Store #1026 - Fort Worth,Store,East,Fort Worth,TX,76101,79208,2018-09-17
+1027,Store #1027 - Washington,Store,South,Washington,DC,20001,27168,2021-03-15
+1028,Store #1028 - Milwaukee,Store,West,Milwaukee,WI,53201,27237,2023-03-18
+1029,Store #1029 - Baltimore,Store,North,Baltimore,MD,21201,65264,2016-11-23
+1030,Store #1030 - Philadelphia,Store,Midwest,Philadelphia,PA,19101,104282,2017-02-20
+1031,Store #1031 - El Paso,Store,Midwest,El Paso,TX,79901,96068,2015-02-22
+1032,Store #1032 - Houston,Store,West,Houston,TX,77001,49445,2017-06-15
+1033,Store #1033 - Denver,Store,Midwest,Denver,CO,80201,17220,2018-10-20
+1034,Store #1034 - El Paso,Store,East,El Paso,TX,79901,82246,2020-08-13
+1035,Store #1035 - Kansas City,Store,West,Kansas City,MO,64101,118806,2017-05-30
+1036,Store #1036 - Oklahoma City,Store,North,Oklahoma City,OK,73101,87088,2016-01-28
+1037,Store #1037 - Columbus,Store,North,Columbus,OH,43201,57860,2023-04-11
+1038,Store #1038 - Colorado Springs,Store,Midwest,Colorado Springs,CO,80901,58405,2022-03-10
+1039,Store #1039 - Las Vegas,Store,South,Las Vegas,NV,89101,101409,2018-03-15
+1040,Store #1040 - Portland,Store,West,Portland,OR,97201,43291,2013-11-13
+1041,Store #1041 - Jacksonville,Store,West,Jacksonville,FL,32201,55487,2021-08-17
+1042,Store #1042 - Raleigh,Store,South,Raleigh,NC,27601,63981,2013-12-22
+1043,Store #1043 - Washington,Store,South,Washington,DC,20001,94785,2022-09-03
+1044,Store #1044 - Jacksonville,Store,North,Jacksonville,FL,32201,16749,2015-09-10
+1045,Store #1045 - Charlotte,Store,East,Charlotte,NC,28201,81119,2015-01-09
+1046,Store #1046 - Denver,Store,West,Denver,CO,80201,116921,2015-02-11
+1047,Store #1047 - Portland,Store,North,Portland,OR,97201,106168,2022-08-20
+1048,Store #1048 - San Francisco,Store,Midwest,San Francisco,CA,94101,28031,2019-11-02
+1049,Store #1049 - Phoenix,Store,East,Phoenix,AZ,85001,113122,2014-06-26
+1050,Store #1050 - Oklahoma City,Store,West,Oklahoma City,OK,73101,109122,2017-08-21
+1051,Store #1051 - Denver,Store,North,Denver,CO,80201,30108,2019-05-16
+1052,Store #1052 - Washington,Store,West,Washington,DC,20001,10704,2021-11-15
+1053,Store #1053 - Oklahoma City,Store,South,Oklahoma City,OK,73101,99271,2017-05-15
+1054,Store #1054 - Washington,Store,South,Washington,DC,20001,117557,2021-09-09
+1055,Store #1055 - Memphis,Store,East,Memphis,TN,38101,26561,2014-04-04
+1056,Store #1056 - Detroit,Store,West,Detroit,MI,48201,63660,2014-08-28
+1057,Store #1057 - Milwaukee,Store,North,Milwaukee,WI,53201,33375,2015-07-31
+1058,Store #1058 - Phoenix,Store,West,Phoenix,AZ,85001,22426,2014-05-14
+1059,Store #1059 - Fort Worth,Store,South,Fort Worth,TX,76101,5776,2021-11-25
+1060,Store #1060 - Austin,Store,South,Austin,TX,78701,92837,2014-10-22
+1061,Store #1061 - Seattle,Store,West,Seattle,WA,98101,113137,2016-09-05
+1062,Store #1062 - Fresno,Store,North,Fresno,CA,93701,97679,2014-02-18
+1063,Store #1063 - Louisville,Store,Midwest,Louisville,KY,40201,111309,2015-01-06
+1064,Store #1064 - Oklahoma City,Store,South,Oklahoma City,OK,73101,60957,2023-01-08
+1065,Store #1065 - Jacksonville,Store,Midwest,Jacksonville,FL,32201,100355,2017-12-26
+1066,Store #1066 - Fresno,Store,Midwest,Fresno,CA,93701,115350,2017-07-24
+1067,Store #1067 - Columbus,Store,East,Columbus,OH,43201,21634,2022-01-26
+1068,Store #1068 - Detroit,Store,East,Detroit,MI,48201,85157,2014-05-08
+1069,Store #1069 - Charlotte,Store,East,Charlotte,NC,28201,17518,2014-05-27
+1070,Store #1070 - Austin,Store,North,Austin,TX,78701,77941,2022-06-08
+1071,Store #1071 - Indianapolis,Store,Midwest,Indianapolis,IN,46201,67457,2021-11-19
+1072,Store #1072 - Atlanta,Store,South,Atlanta,GA,30301,48045,2022-12-19
+1073,Store #1073 - San Antonio,Store,North,San Antonio,TX,78201,46676,2021-04-30
+1074,Store #1074 - Denver,Store,Midwest,Denver,CO,80201,59173,2016-02-12
+1075,Store #1075 - Houston,Store,South,Houston,TX,77001,23697,2014-01-18
+1076,Store #1076 - Columbus,Store,East,Columbus,OH,43201,6159,2018-09-17
+1077,Store #1077 - San Antonio,Store,West,San Antonio,TX,78201,89251,2019-09-18
+1078,Store #1078 - Oklahoma City,Store,South,Oklahoma City,OK,73101,85736,2015-01-20
+1079,Store #1079 - Philadelphia,Store,Midwest,Philadelphia,PA,19101,20102,2021-03-12
+1080,Store #1080 - Sacramento,Store,West,Sacramento,CA,95801,94373,2020-12-17
+1081,Store #1081 - Sacramento,Store,East,Sacramento,CA,95801,104361,2020-07-20
+1082,Store #1082 - Philadelphia,Store,South,Philadelphia,PA,19101,30262,2020-06-14
+1083,Store #1083 - Chicago,Store,East,Chicago,IL,60601,22322,2014-12-23
+1084,Store #1084 - Baltimore,Store,West,Baltimore,MD,21201,104225,2021-12-03
+1085,Store #1085 - Omaha,Store,East,Omaha,NE,68101,26541,2018-09-17
+1086,Store #1086 - New York,Store,South,New York,NY,10001,73884,2017-10-24
+1087,Store #1087 - Memphis,Store,South,Memphis,TN,38101,36724,2018-05-15
+1088,Store #1088 - Indianapolis,Store,Midwest,Indianapolis,IN,46201,109705,2016-12-03
+1089,Store #1089 - Chicago,Store,South,Chicago,IL,60601,11084,2015-04-21
+1090,Store #1090 - Memphis,Store,South,Memphis,TN,38101,8422,2015-02-28
+1091,Store #1091 - Jacksonville,Store,North,Jacksonville,FL,32201,19971,2018-10-17
+1092,Store #1092 - Columbus,Store,South,Columbus,OH,43201,97245,2022-03-15
+1093,Store #1093 - Boston,Store,North,Boston,MA,02101,36150,2019-05-02
+1094,Store #1094 - Philadelphia,Store,Midwest,Philadelphia,PA,19101,42803,2020-02-21
+1095,Store #1095 - Sacramento,Store,Midwest,Sacramento,CA,95801,21555,2015-12-06
+1096,Store #1096 - New York,Store,South,New York,NY,10001,68246,2021-06-05
+1097,Store #1097 - San Antonio,Store,Midwest,San Antonio,TX,78201,43678,2016-11-04
+1098,Store #1098 - Fresno,Store,North,Fresno,CA,93701,28222,2015-12-04
+1099,Store #1099 - Austin,Store,West,Austin,TX,78701,49221,2022-10-17
+1100,Store #1100 - Boston,Store,West,Boston,MA,02101,34606,2022-01-08
+1101,Store #1101 - Columbus,Store,North,Columbus,OH,43201,99643,2021-06-12
+1102,Store #1102 - Philadelphia,Store,Midwest,Philadelphia,PA,19101,19208,2015-09-03
+1103,Store #1103 - Sacramento,Store,North,Sacramento,CA,95801,119581,2016-01-13
+1104,Store #1104 - Charlotte,Store,Midwest,Charlotte,NC,28201,40487,2021-03-10
+1105,Store #1105 - Indianapolis,Store,Midwest,Indianapolis,IN,46201,93449,2015-04-19
+1106,Store #1106 - Phoenix,Store,West,Phoenix,AZ,85001,44442,2016-07-06
+1107,Store #1107 - Albuquerque,Store,East,Albuquerque,NM,87101,68717,2022-08-26
+1108,Store #1108 - Atlanta,Store,North,Atlanta,GA,30301,97108,2021-02-20
+1109,Store #1109 - Memphis,Store,Midwest,Memphis,TN,38101,48846,2015-08-24
+1110,Store #1110 - Colorado Springs,Store,South,Colorado Springs,CO,80901,89301,2017-02-17
+1111,Store #1111 - Houston,Store,East,Houston,TX,77001,96141,2023-02-28
+1112,Store #1112 - San Antonio,Store,North,San Antonio,TX,78201,64678,2019-10-24
+1113,Store #1113 - Memphis,Store,Midwest,Memphis,TN,38101,14493,2018-03-21
+1114,Store #1114 - Washington,Store,Midwest,Washington,DC,20001,78209,2017-03-12
+1115,Store #1115 - Mesa,Store,South,Mesa,AZ,85201,26501,2015-06-27
+1116,Store #1116 - Fresno,Store,East,Fresno,CA,93701,26122,2019-05-23
+1117,Store #1117 - Philadelphia,Store,North,Philadelphia,PA,19101,30655,2016-04-01
+1118,Store #1118 - El Paso,Store,West,El Paso,TX,79901,68242,2014-07-03
+1119,Store #1119 - Indianapolis,Store,South,Indianapolis,IN,46201,42644,2016-02-18
+1120,Store #1120 - Dallas,Store,Midwest,Dallas,TX,75201,118769,2021-09-17
+1121,Store #1121 - Los Angeles,Store,West,Los Angeles,CA,90001,57203,2019-07-24
+1122,Store #1122 - Atlanta,Store,West,Atlanta,GA,30301,26169,2018-04-28
+1123,Store #1123 - Detroit,Store,Midwest,Detroit,MI,48201,6232,2016-02-21
+1124,Store #1124 - Boston,Store,North,Boston,MA,02101,25112,2018-12-19
+1125,Store #1125 - Atlanta,Store,North,Atlanta,GA,30301,105886,2022-05-03
+1126,Store #1126 - Austin,Store,Midwest,Austin,TX,78701,75783,2019-04-06
+1127,Store #1127 - Albuquerque,Store,East,Albuquerque,NM,87101,84403,2018-09-23
+1128,Store #1128 - Tucson,Store,East,Tucson,AZ,85701,44003,2013-11-17
+1129,Store #1129 - San Jose,Store,East,San Jose,CA,95101,11405,2017-11-04
+1130,Store #1130 - Memphis,Store,South,Memphis,TN,38101,25692,2022-06-02
+1131,Store #1131 - Omaha,Store,West,Omaha,NE,68101,69445,2022-04-16
+1132,Store #1132 - Omaha,Store,West,Omaha,NE,68101,18793,2016-04-13
+1133,Store #1133 - Austin,Store,West,Austin,TX,78701,81286,2020-05-27
+1134,Store #1134 - Albuquerque,Store,North,Albuquerque,NM,87101,109552,2018-06-11
+1135,Store #1135 - Los Angeles,Store,South,Los Angeles,CA,90001,32842,2014-06-07
+1136,Store #1136 - El Paso,Store,North,El Paso,TX,79901,49247,2015-02-19
+1137,Store #1137 - Miami,Store,North,Miami,FL,33101,98735,2021-01-26
+1138,Store #1138 - Dallas,Store,North,Dallas,TX,75201,68729,2015-08-23
+1139,Store #1139 - Phoenix,Store,East,Phoenix,AZ,85001,32549,2017-07-28
+1140,Store #1140 - Milwaukee,Store,North,Milwaukee,WI,53201,26206,2018-07-14
+1141,Store #1141 - Austin,Store,West,Austin,TX,78701,87605,2018-01-16
+1142,Store #1142 - Phoenix,Store,Midwest,Phoenix,AZ,85001,21870,2020-09-01
+1143,Store #1143 - Las Vegas,Store,North,Las Vegas,NV,89101,37231,2018-02-10
+1144,Store #1144 - Sacramento,Store,South,Sacramento,CA,95801,99449,2015-06-22
+1145,Store #1145 - Omaha,Store,West,Omaha,NE,68101,103559,2014-05-18
+1146,Store #1146 - Atlanta,Store,North,Atlanta,GA,30301,38806,2015-06-05
+1147,Store #1147 - Milwaukee,Store,Midwest,Milwaukee,WI,53201,77923,2022-03-28
+1148,Store #1148 - Washington,Store,North,Washington,DC,20001,78098,2022-10-26
+1149,Store #1149 - Indianapolis,Store,North,Indianapolis,IN,46201,87952,2022-08-22
+1150,Store #1150 - Louisville,Store,East,Louisville,KY,40201,50347,2014-10-20
+1151,Store #1151 - Milwaukee,Store,West,Milwaukee,WI,53201,55169,2019-06-21
+1152,Store #1152 - Austin,Store,Midwest,Austin,TX,78701,24274,2020-01-09
+1153,Store #1153 - Detroit,Store,North,Detroit,MI,48201,67324,2022-07-11
+1154,Store #1154 - Mesa,Store,East,Mesa,AZ,85201,27382,2017-05-22
+1155,Store #1155 - Oklahoma City,Store,East,Oklahoma City,OK,73101,114881,2022-02-06
+1156,Store #1156 - Las Vegas,Store,East,Las Vegas,NV,89101,72891,2015-05-23
+1157,Store #1157 - Dallas,Store,North,Dallas,TX,75201,74414,2016-11-01
+1158,Store #1158 - San Antonio,Store,Midwest,San Antonio,TX,78201,54975,2013-09-06
+1159,Store #1159 - Jacksonville,Store,North,Jacksonville,FL,32201,88817,2017-11-30
+1160,Store #1160 - Chicago,Store,South,Chicago,IL,60601,32741,2021-11-17
+1161,Store #1161 - Kansas City,Store,South,Kansas City,MO,64101,17707,2014-08-21
+1162,Store #1162 - Detroit,Store,East,Detroit,MI,48201,60266,2013-11-18
+1163,Store #1163 - Albuquerque,Store,Midwest,Albuquerque,NM,87101,34660,2017-07-25
+1164,Store #1164 - Portland,Store,East,Portland,OR,97201,83257,2015-08-16
+1165,Store #1165 - Los Angeles,Store,Midwest,Los Angeles,CA,90001,65737,2013-09-03
+1166,Store #1166 - San Jose,Store,South,San Jose,CA,95101,95280,2020-04-29
+1167,Store #1167 - Chicago,Store,Midwest,Chicago,IL,60601,79321,2018-07-23
+1168,Store #1168 - Boston,Store,North,Boston,MA,02101,99650,2017-03-09
+1169,Store #1169 - Columbus,Store,West,Columbus,OH,43201,7590,2015-01-23
+1170,Store #1170 - Philadelphia,Store,Midwest,Philadelphia,PA,19101,30915,2021-01-22
+1171,Store #1171 - Fort Worth,Store,West,Fort Worth,TX,76101,56877,2015-10-16
+1172,Store #1172 - Colorado Springs,Store,Midwest,Colorado Springs,CO,80901,114940,2019-04-29
+1173,Store #1173 - Columbus,Store,North,Columbus,OH,43201,19467,2015-02-16
+1174,Store #1174 - Detroit,Store,Midwest,Detroit,MI,48201,29071,2013-11-10
+1175,Store #1175 - Houston,Store,West,Houston,TX,77001,12632,2015-06-16
+1176,Store #1176 - Columbus,Store,East,Columbus,OH,43201,20158,2022-12-13
+1177,Store #1177 - New York,Store,East,New York,NY,10001,78243,2020-09-11
+1178,Store #1178 - Kansas City,Store,East,Kansas City,MO,64101,10538,2014-03-02
+1179,Store #1179 - El Paso,Store,West,El Paso,TX,79901,48786,2019-06-02
+1180,Store #1180 - Raleigh,Store,Midwest,Raleigh,NC,27601,77335,2015-01-08
+1181,Store #1181 - El Paso,Store,North,El Paso,TX,79901,112806,2013-12-30
+1182,Store #1182 - Tucson,Store,East,Tucson,AZ,85701,49353,2020-06-30
+1183,Store #1183 - Houston,Store,Midwest,Houston,TX,77001,84559,2022-06-05
+1184,Store #1184 - New York,Store,South,New York,NY,10001,40378,2017-04-06
+1185,Store #1185 - Seattle,Store,East,Seattle,WA,98101,46523,2015-05-29
+1186,Store #1186 - Mesa,Store,West,Mesa,AZ,85201,54952,2014-06-18
+1187,Store #1187 - Chicago,Store,North,Chicago,IL,60601,29462,2019-12-13
+1188,Store #1188 - Boston,Store,East,Boston,MA,02101,49524,2016-09-22
+1189,Store #1189 - Dallas,Store,North,Dallas,TX,75201,112812,2019-09-21
+1190,Store #1190 - Detroit,Store,South,Detroit,MI,48201,97177,2017-03-09
+1191,Store #1191 - Albuquerque,Store,Midwest,Albuquerque,NM,87101,118103,2021-09-21
+1192,Store #1192 - Phoenix,Store,East,Phoenix,AZ,85001,23021,2015-11-17
+1193,Store #1193 - San Jose,Store,West,San Jose,CA,95101,65905,2017-02-06
+1194,Store #1194 - Oklahoma City,Store,West,Oklahoma City,OK,73101,105683,2014-10-29
+1195,Store #1195 - Austin,Store,East,Austin,TX,78701,14540,2022-06-12
+1196,Store #1196 - El Paso,Store,North,El Paso,TX,79901,9679,2021-11-08
+1197,Store #1197 - Portland,Store,Midwest,Portland,OR,97201,39403,2016-02-05
+1198,Store #1198 - Indianapolis,Store,Midwest,Indianapolis,IN,46201,16589,2021-06-10
+1199,Store #1199 - Milwaukee,Store,South,Milwaukee,WI,53201,39086,2017-07-01
+1200,Store #1200 - Denver,Store,Midwest,Denver,CO,80201,12113,2018-09-04
+1201,Store #1201 - Albuquerque,Store,East,Albuquerque,NM,87101,69499,2014-04-28
+1202,Store #1202 - Atlanta,Store,East,Atlanta,GA,30301,6260,2022-05-30
+1203,Store #1203 - Kansas City,Store,South,Kansas City,MO,64101,35726,2020-07-08
+1204,Store #1204 - Miami,Store,West,Miami,FL,33101,117861,2018-06-19
+1205,Store #1205 - San Antonio,Store,East,San Antonio,TX,78201,86430,2018-07-27
+1206,Store #1206 - Miami,Store,South,Miami,FL,33101,80177,2021-03-07
+1207,Store #1207 - Los Angeles,Store,Midwest,Los Angeles,CA,90001,6740,2020-07-14
+1208,Store #1208 - San Francisco,Store,South,San Francisco,CA,94101,25446,2017-04-02
+1209,Store #1209 - Portland,Store,East,Portland,OR,97201,39138,2015-07-02
+1210,Store #1210 - San Jose,Store,East,San Jose,CA,95101,87931,2016-01-06
+1211,Store #1211 - Columbus,Store,South,Columbus,OH,43201,35843,2021-10-29
+1212,Store #1212 - San Jose,Store,South,San Jose,CA,95101,25224,2018-08-04
+1213,Store #1213 - San Jose,Store,South,San Jose,CA,95101,107098,2020-10-03
+1214,Store #1214 - Louisville,Store,East,Louisville,KY,40201,60302,2018-03-02
+1215,Store #1215 - Sacramento,Store,South,Sacramento,CA,95801,62094,2017-10-10
+1216,Store #1216 - Washington,Store,Midwest,Washington,DC,20001,105943,2016-01-23
+1217,Store #1217 - Fresno,Store,North,Fresno,CA,93701,102181,2020-11-11
+1218,Store #1218 - San Diego,Store,East,San Diego,CA,92101,86415,2023-03-23
+1219,Store #1219 - Washington,Store,South,Washington,DC,20001,23678,2022-06-02
+1220,Store #1220 - Charlotte,Store,East,Charlotte,NC,28201,46623,2020-02-07
+1221,Store #1221 - Detroit,Store,South,Detroit,MI,48201,55251,2019-10-26
+1222,Store #1222 - San Jose,Store,West,San Jose,CA,95101,43801,2016-05-09
+1223,Store #1223 - Charlotte,Store,South,Charlotte,NC,28201,98934,2022-02-22
+1224,Store #1224 - Jacksonville,Store,West,Jacksonville,FL,32201,111102,2013-09-15
+1225,Store #1225 - Chicago,Store,West,Chicago,IL,60601,53773,2017-09-15
+1226,Store #1226 - Miami,Store,Midwest,Miami,FL,33101,111142,2019-12-10
+1227,Store #1227 - Milwaukee,Store,East,Milwaukee,WI,53201,28610,2019-07-02
+1228,Store #1228 - Louisville,Store,West,Louisville,KY,40201,61536,2019-03-29
+1229,Store #1229 - Houston,Store,Midwest,Houston,TX,77001,20182,2022-01-16
+1230,Store #1230 - Miami,Store,West,Miami,FL,33101,88419,2016-10-05
+1231,Store #1231 - Sacramento,Store,South,Sacramento,CA,95801,113698,2015-03-12
+1232,Store #1232 - Boston,Store,South,Boston,MA,02101,25518,2018-05-23
+1233,Store #1233 - San Antonio,Store,Midwest,San Antonio,TX,78201,43531,2020-04-12
+1234,Store #1234 - Houston,Store,North,Houston,TX,77001,117263,2020-03-24
+1235,Store #1235 - Sacramento,Store,North,Sacramento,CA,95801,13842,2015-09-13
+1236,Store #1236 - Indianapolis,Store,East,Indianapolis,IN,46201,117318,2018-05-10
+1237,Store #1237 - Indianapolis,Store,North,Indianapolis,IN,46201,118209,2017-09-14
+1238,Store #1238 - Mesa,Store,South,Mesa,AZ,85201,36706,2020-07-03
+1239,Store #1239 - San Antonio,Store,South,San Antonio,TX,78201,59823,2018-09-24
+1240,Store #1240 - Indianapolis,Store,Midwest,Indianapolis,IN,46201,49289,2022-03-04
+1241,Store #1241 - San Jose,Store,East,San Jose,CA,95101,6832,2018-10-01
+1242,Store #1242 - Tucson,Store,South,Tucson,AZ,85701,96339,2015-10-01
+1243,Store #1243 - Raleigh,Store,South,Raleigh,NC,27601,16806,2016-10-11
+1244,Store #1244 - Houston,Store,Midwest,Houston,TX,77001,32705,2022-03-28
+1245,Store #1245 - Tucson,Store,East,Tucson,AZ,85701,74784,2021-05-26
+1246,Store #1246 - Sacramento,Store,South,Sacramento,CA,95801,110033,2017-04-30
+1247,Store #1247 - Las Vegas,Store,East,Las Vegas,NV,89101,62368,2015-07-14
+1248,Store #1248 - Memphis,Store,West,Memphis,TN,38101,28315,2019-11-16
+1249,Store #1249 - Nashville,Store,East,Nashville,TN,37201,27261,2019-07-29
+1250,Store #1250 - Fort Worth,Store,South,Fort Worth,TX,76101,15693,2014-04-12
+1251,DC/Warehouse #01 - Philadelphia,Warehouse,East,Philadelphia,PA,19101,348892,2017-08-20
+1252,DC/Warehouse #02 - Portland,Warehouse,Midwest,Portland,OR,97201,230974,2019-11-30
+1253,DC/Warehouse #03 - Baltimore,Warehouse,East,Baltimore,MD,21201,277614,2018-08-27
+1254,DC/Warehouse #04 - Memphis,Warehouse,Midwest,Memphis,TN,38101,366889,2023-05-18
+1255,DC/Warehouse #05 - Los Angeles,Warehouse,South,Los Angeles,CA,90001,335048,2022-08-11
+1256,DC/Warehouse #06 - Houston,Warehouse,Midwest,Houston,TX,77001,226194,2017-11-30
+1257,DC/Warehouse #07 - San Antonio,Warehouse,West,San Antonio,TX,78201,375386,2014-03-10
+1258,DC/Warehouse #08 - Miami,Warehouse,West,Miami,FL,33101,490908,2017-12-27
+1259,DC/Warehouse #09 - Kansas City,Warehouse,East,Kansas City,MO,64101,182893,2014-01-08
+1260,DC/Warehouse #10 - Tucson,Warehouse,West,Tucson,AZ,85701,330149,2020-08-05
+1261,DC/Warehouse #11 - Denver,Warehouse,East,Denver,CO,80201,262772,2023-03-01
+1262,DC/Warehouse #12 - San Francisco,Warehouse,East,San Francisco,CA,94101,155687,2015-04-18
+1263,DC/Warehouse #13 - Omaha,Warehouse,Midwest,Omaha,NE,68101,457435,2019-07-08
+1264,DC/Warehouse #14 - Los Angeles,Warehouse,Midwest,Los Angeles,CA,90001,324356,2017-06-20
+1265,DC/Warehouse #15 - Chicago,Warehouse,South,Chicago,IL,60601,353170,2021-09-17
+1266,DC/Warehouse #16 - Memphis,Warehouse,East,Memphis,TN,38101,406581,2021-12-07
+1267,DC/Warehouse #17 - Las Vegas,Warehouse,West,Las Vegas,NV,89101,279994,2017-03-06
+1268,DC/Warehouse #18 - Kansas City,Warehouse,South,Kansas City,MO,64101,192907,2017-04-01
+1269,DC/Warehouse #19 - El Paso,Warehouse,West,El Paso,TX,79901,402130,2019-06-09
+1270,DC/Warehouse #20 - Houston,Warehouse,North,Houston,TX,77001,469216,2016-06-18
+1271,DC/Warehouse #21 - Charlotte,Warehouse,South,Charlotte,NC,28201,420358,2018-09-25
+1272,DC/Warehouse #22 - Seattle,Warehouse,East,Seattle,WA,98101,472433,2021-05-29
+1273,DC/Warehouse #23 - Omaha,Warehouse,East,Omaha,NE,68101,476282,2015-03-09
+1274,DC/Warehouse #24 - Fresno,Warehouse,West,Fresno,CA,93701,390542,2019-12-25
+1275,DC/Warehouse #25 - Phoenix,Warehouse,North,Phoenix,AZ,85001,465393,2021-09-17
+1276,DC/Warehouse #26 - Mesa,Warehouse,West,Mesa,AZ,85201,263751,2013-10-13
+1277,DC/Warehouse #27 - Sacramento,Warehouse,Midwest,Sacramento,CA,95801,383161,2019-09-17
+1278,DC/Warehouse #28 - Colorado Springs,Warehouse,West,Colorado Springs,CO,80901,430579,2019-11-23
+1279,DC/Warehouse #29 - San Antonio,Warehouse,East,San Antonio,TX,78201,393038,2016-07-21
+1280,DC/Warehouse #30 - Detroit,Warehouse,Midwest,Detroit,MI,48201,465155,2018-03-20
+1281,DC/Warehouse #31 - Fort Worth,Warehouse,Midwest,Fort Worth,TX,76101,443310,2022-02-05
+1282,DC/Warehouse #32 - Jacksonville,Warehouse,West,Jacksonville,FL,32201,176385,2014-03-31
+1283,DC/Warehouse #33 - Atlanta,Warehouse,North,Atlanta,GA,30301,389464,2014-03-11
+1284,DC/Warehouse #34 - Philadelphia,Warehouse,East,Philadelphia,PA,19101,368404,2016-07-15
+1285,DC/Warehouse #35 - Kansas City,Warehouse,West,Kansas City,MO,64101,351075,2017-03-26
+1286,DC/Warehouse #36 - San Jose,Warehouse,Midwest,San Jose,CA,95101,167801,2017-10-01
+1287,DC/Warehouse #37 - San Diego,Warehouse,Midwest,San Diego,CA,92101,246693,2016-09-15
+1288,DC/Warehouse #38 - Las Vegas,Warehouse,South,Las Vegas,NV,89101,466894,2018-07-31
+1289,DC/Warehouse #39 - Washington,Warehouse,West,Washington,DC,20001,389248,2018-05-28
+1290,DC/Warehouse #40 - Jacksonville,Warehouse,West,Jacksonville,FL,32201,306020,2015-06-02
+1291,DC/Warehouse #41 - Portland,Warehouse,East,Portland,OR,97201,302985,2018-01-12
+1292,DC/Warehouse #42 - Dallas,Warehouse,North,Dallas,TX,75201,412837,2019-02-25
+1293,DC/Warehouse #43 - Oklahoma City,Warehouse,South,Oklahoma City,OK,73101,382320,2020-03-12
+1294,DC/Warehouse #44 - Colorado Springs,Warehouse,West,Colorado Springs,CO,80901,371458,2022-10-07
+1295,DC/Warehouse #45 - San Antonio,Warehouse,North,San Antonio,TX,78201,488058,2018-10-22
+1296,DC/Warehouse #46 - Raleigh,Warehouse,Midwest,Raleigh,NC,27601,177746,2019-05-13
+1297,DC/Warehouse #47 - San Francisco,Warehouse,Midwest,San Francisco,CA,94101,337238,2015-09-08
+1298,DC/Warehouse #48 - Boston,Warehouse,West,Boston,MA,02101,400635,2015-03-03
+1299,DC/Warehouse #49 - San Francisco,Warehouse,Midwest,San Francisco,CA,94101,484699,2017-07-18
+1300,DC/Warehouse #50 - Seattle,Warehouse,Midwest,Seattle,WA,98101,296876,2022-12-21
