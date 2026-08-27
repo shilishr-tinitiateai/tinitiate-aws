@@ -3,16 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
-*.so
-
 # Deployment archives & temporary execution outputs
 *.zip
 response.json
 output.json
-downloaded_*.txt
-v2_code.zip
-function.zip
 
 # Environment & Credentials
 .env
@@ -31,5 +25,5 @@ ENV/
 *.db-journal
 
 # Large 1M row data files (>50MB limit on GitHub)
-sales_transactions.json
-sales_transactions.csv
+*sales_transaction*
+*sales_transactions*
